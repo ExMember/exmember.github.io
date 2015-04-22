@@ -106,6 +106,7 @@
  */
 .page-content {
   @extend .wrapper;
+  max-width: $text-width;
   padding-top: $spacing-unit;
 }
 
@@ -151,7 +152,6 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
-  max-width: $text-width;
   text-align: justify;
   text-justify: inter-word;
 
