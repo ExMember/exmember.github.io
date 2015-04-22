@@ -8,3 +8,11 @@ github_username:  exmember
 # Build settings
 markdown: kramdown
 timezone: America/Los_Angeles
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
