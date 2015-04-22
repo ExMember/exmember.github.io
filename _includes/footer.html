@@ -1,6 +1,9 @@
 <footer class="site-footer">
   <ul class="contact-list">
-    <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+    <li>
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      <a href="/badcontact" style="display:none;">&nbsp;</a>
+    </li>
 
     {% if site.github_username %}
     <li>
