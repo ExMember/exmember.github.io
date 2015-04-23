@@ -107,6 +107,15 @@
   @extend .wrapper;
   max-width: $text-width;
   padding-top: $spacing-unit;
+
+  img, .left {
+    float: left;
+    padding-right: 0.5em;
+  }
+  .right {
+    float: right;
+    padding-left: 0.5em;
+  }
 }
 
 .page-heading {

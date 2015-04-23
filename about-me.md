@@ -4,6 +4,7 @@ title: About Me
 
 # Actor
 
+![](/images/about-me/actor.jpg)
 I have been acting for over quarter-century and have appeared in theater,
 television, movies, and commercials.
 
@@ -33,6 +34,7 @@ the National Guild of Hypnotists.
 
 # Poker Player
 
+![](/images/about-me/poker-player.png)
 I started playing poker around 2004 and immediately saw it as a fascinating
 puzzle with lots of complicated pieces.
 
@@ -59,10 +61,12 @@ working on my first hand-held application.
 
 # Producer
 
+![](/images/about-me/pulp-shakespeare.jpg)
 I produced the award-winning and critically-acclaimed hit ["Pulp
 Shakespeare"](https://www.youtube.com/watch?v=ffkeYdpjaIs) which played to full
 houses in Los Angeles for eleven weeks.
 
+<img src="/images/about-me/wsop-circuit-logo.gif" class="right">
 During the 2012-2013 season I was the field producer for the World Series of
 Poker Circuit final table broadcasts on ESPN. Over the course of six months we
 went to thirteen different locations in eleven states (and one Canadian
