@@ -3,5 +3,5 @@
 
 <div class="home">
 
-  <p>I am Damien Burke. I am many things.</p>
+  <p>I am Damien. This is my website.</p>
 </div>
