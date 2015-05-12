@@ -9,6 +9,7 @@ permalink: /:title
 # Build settings
 markdown: kramdown
 timezone: America/Los_Angeles
+future: false
 
 defaults:
   -
