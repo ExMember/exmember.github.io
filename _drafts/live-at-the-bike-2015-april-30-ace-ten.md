@@ -11,9 +11,9 @@ tags:
 I'm in a no-limit hold'em cash game with $5/$5 blinds and an allowed buy-in of
 $300 to $1000 dollars.
 
-The game is broadcast by Live at the Bike, so if you access to their archives
-and can actually watch this hand play out. It's from the April 30, 2015 show and
-starts thirty-two minutes in.
+The game is broadcast by Live at the Bike, so if you have access to their
+archives and can actually watch this hand play out. It's from the April 30, 2015
+show and starts thirty-two minutes in.
 
 ## The action
 
@@ -39,8 +39,8 @@ First, Moni is very unlikely to fold now. The worst odds he could get is if one
 of us raises $250 or more and the other folds. He would then have the choice of
 calling $250 to win $1114 or folding.
 
-In that scenario Moni only has to win 22% of the time at showdown to make the
-call correct. That's possible if the check-raise is a bluff with no backup
+In that scenario Moni has to win less than 22% of the time at showdown to make
+the call incorrect. That's possible if the check-raise is a bluff with no backup
 equity, but it's simply not plausible that Moni is check-raising $200, as a
 bluff, into two players who have already shown strength on a wet, ace-high flop.
 
@@ -77,7 +77,7 @@ this range I have 43% equity.
 If my range for Moni is too loose and he can't have KdQd here I still have 41%
 equity.
 
-In the unlikely event that Ialso  know Moni also can't have A8 pre-flop my
+In the unlikely event that I also  know Moni also can't have A8 pre-flop my
 equity drops to 35%.
 
 If my range is too tight and Moni could have AK my equity goes up to 44%.  If he
