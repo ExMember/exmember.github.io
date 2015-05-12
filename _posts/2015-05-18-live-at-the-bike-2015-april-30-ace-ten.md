@@ -4,7 +4,6 @@ category: poker
 tags:
   - hand analysis
   - Live at the Bike
-layout: post
 ---
 
 ## Background
