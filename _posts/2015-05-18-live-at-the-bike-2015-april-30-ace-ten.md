@@ -1,5 +1,5 @@
 ---
-title: Live at the Bike April 30, 2015 with Ace-ten suited
+title: Ace-Ten Suited on Live at the Bike
 category: poker
 tags:
   - hand analysis
