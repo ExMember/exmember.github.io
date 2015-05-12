@@ -18,14 +18,14 @@ show and starts thirty-two minutes in.
 ## The action
 
 Moni opens to $20 from two off the button. I call from one off the button with
-AdTd. Sean is on the button and over-calls. Both blinds fold.
+`AdTd`. Sean is on the button and over-calls. Both blinds fold.
 
 There is $65 in the pot.
 
 Moni has a stack of $500, I have a little over $1000, and Sean has us both
 covered.
 
-The flop is AsJd8d.
+The flop is `AsJd8d`.
 
 Moni checks. I bet $50. Sean calls. Moni raises to $250. I make it $450.  Sean
 folds. Moni goes all in for $500 and I call.
@@ -47,7 +47,7 @@ bluff, into two players who have already shown strength on a wet, ace-high flop.
 From here we can narrow Moni's hand range to sets, two-pair, and big combo
 draws.
 
-The only possible combo draw is KdQd. It has 12 outs to a nut or second-nut
+The only possible combo draw is `KdQd`. It has 12 outs to a nut or second-nut
 hand. When called it has a huge amount of equity unless it is up against the nut
 flush draw. Sean and I have ranges that are wide enough that Moni would win
 outright most of the time, and not be up against the nut flush draw much of the
@@ -55,12 +55,12 @@ rest of the time.
 
 There is a good chance Moni doesn't make this play with a combo draw.
 
-The two pair hands are AJ, A8, and J8. It questionable whether Moni would
+The two pair hands are `AJ`, `A8`, and `J8`. It questionable whether Moni would
 check-raise with J8, but it's very unlikely he would raise with it pre-flop so
 we can take that out of his range.
 
-Moni's complete range is thus almost exactly AcAh, JJ (3 permutation), 88 (3
-permutations), AJ (4 permutations), A8 (4 permutations), KdQd.
+Moni's complete range is thus almost exactly `AcAh`, `JJ` (3 permutation), `88`
+(3 permutations), `AJ` (4 permutations), `A8` (4 permutations), `KdQd`.
 
 ## What to do about the check-raise
 
@@ -74,14 +74,14 @@ There are 16 possible hands Moni can hold. Against 11 of them I have 9 outs,
 against one of them I have 12 outs, and the last one I have crushed. Against
 this range I have 43% equity.
 
-If my range for Moni is too loose and he can't have KdQd here I still have 41%
+If my range for Moni is too loose and he can't have `KdQd` here I still have 41%
 equity.
 
-In the unlikely event that I also  know Moni also can't have A8 pre-flop my
+In the unlikely event that I also  know Moni also can't have `A8` pre-flop my
 equity drops to 35%.
 
-If my range is too tight and Moni could have AK my equity goes up to 44%.  If he
-can have AQ also my equity goes up slightly more.
+If my range is too tight and Moni could have `AK` my equity goes up to 44%.  If
+he can have `AQ` also my equity goes up slightly more.
 
 And then there is always the non-zero possibility that Moni has some sort of
 temporary insanity and has gotten here with a naked flush draw or some other
@@ -107,8 +107,8 @@ him.
 
 The only way I could imagine Sean putting more money in this pot is if he had a
 draw that he wanted to play cheap but now he thinks can use to semi-bluff. That
-could happen with KdQd, but not only is that exact hand a tiny part of his range
-but it's very unlikely he'll play it that way.
+could happen with `KdQd`, but not only is that exact hand a tiny part of his
+range but it's very unlikely he'll play it that way.
 
 ### The call option
 
@@ -178,8 +178,8 @@ However this makes our stack-to-pot ratio smaller, which lessons the skill and
 positional advantage I have against Moni.
 
 Also, Moni is a tight opener, even from this position. A good chunk of his range
-is QQ+ which he is three-betting with. That means I wouldn't get to see a flop a
-lot of times, often when he has the hands that are most profitable for me to
+is `QQ+` which he is three-betting with. That means I wouldn't get to see a flop
+a lot of times, often when he has the hands that are most profitable for me to
 play against.
 
 ### Fold pre-flop
@@ -196,8 +196,8 @@ where I am likely to have him beat, I will be able to take his stack.
 
 ## Conclusions
 
-Moni turned over AhJs. The turn was 3s. The river was 5c. And I lost $500 in
-under three minutes.
+Moni turned over `AhJs`. The turn was `3s`. The river was `5c`. And I lost $500
+in under three minutes.
 
 This bothered me for a bit because I started the hand crushed by Moni's range
 and then put in a whole lot of money while still way behind. But after this
