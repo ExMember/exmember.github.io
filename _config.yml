@@ -9,11 +9,24 @@ permalink: /:title
 # Build settings
 markdown: kramdown
 timezone: America/Los_Angeles
+future: false
 
 defaults:
   -
     scope:
       path: ""
+      type: posts
+    values:
+      layout: post
+  -
+    scope:
+      path: ""
       type: pages
+    values:
+      layout: post
+  -
+    scope:
+      path: ""
+      type: drafts
     values:
       layout: post
