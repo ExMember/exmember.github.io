@@ -6,7 +6,7 @@ tags:
   - Live at the Bike
 ---
 
-## Background
+# Background
 
 I'm in a no-limit hold'em cash game with $5/$5 blinds and an allowed buy-in of
 $300 to $1000 dollars.
@@ -15,7 +15,7 @@ The game is broadcast by Live at the Bike, so if you have access to their
 archives and can actually watch this hand play out. It's from the April 30, 2015
 show and starts thirty-two minutes in.
 
-## The action
+# The action
 
 Moni opens to $20 from two off the button. I call from one off the button with
 `AdTd`. Sean is on the button and over-calls. Both blinds fold.
@@ -30,7 +30,7 @@ The flop is `AsJd8d`.
 Moni checks. I bet $50. Sean calls. Moni raises to $250. I make it $450.  Sean
 folds. Moni goes all in for $500 and I call.
 
-## What the check-raise tells us
+# What the check-raise tells us
 
 Moni's check-raise reveals a lot of information about his hand and as such is
 the biggest turning point for me.
@@ -62,9 +62,9 @@ we can take that out of his range.
 Moni's complete range is thus almost exactly `AcAh`, `JJ` (3 permutation), `88`
 (3 permutations), `AJ` (4 permutations), `A8` (4 permutations), `KdQd`.
 
-## What to do about the check-raise
+# What to do about the check-raise
 
-### All-in equity against Moni
+## All-in equity against Moni
 
 Getting all-in against Moni would mean putting in $450 more into a pot that
 would end up being $1114, so I only need 40% equity to make that play
@@ -92,7 +92,7 @@ could be as low as $390 if Moni is a lot tighter than I expect. It could be a
 lot higher depending on Moni's spew factor, but I'm confident that raising here
 has an EV of about $29.
 
-### The Sean complication
+## The Sean complication
 
 I've gone a long way without mentioning the guy to my left with the big stack,
 but the fact is that at this point Sean's hand doesn't matter.
@@ -110,7 +110,7 @@ draw that he wanted to play cheap but now he thinks can use to semi-bluff. That
 could happen with `KdQd`, but not only is that exact hand a tiny part of his
 range but it's very unlikely he'll play it that way.
 
-### The call option
+## The call option
 
 Given that we are behind most of Moni's range, calling seems like a something to
 consider. If for $200 I can get two free cards and then get paid off another
@@ -126,13 +126,13 @@ break-even.
 Moni only has $250 left, and could fold if a diamond comes. Sean is almost
 certainly going to fold before the turn. Calling not going to work out.
 
-### The fold option
+## The fold option
 
 We've already established that getting it all in at this point has positive
 equity, so it's a better option than folding. Folding has lower variance, but I
 am confident that six big blinds of equity is far too much to give up for that.
 
-### The re-raise amount
+## The re-raise amount
 
 Moni only has $250, but Sean has me covered so I can raise to any amount from
 $450 to all-in which is about $1000.
@@ -151,13 +151,13 @@ tries to semi-bluff that would have a lot of value to me.
 All of these reasons indicate that a minimum raise to $450 is the best possible
 amount.
 
-## Earlier options
+# Earlier options
 
 Getting it all in when I'm behind is not usually my plan when I start a hand
 (although it is an effective way to avoid bad beats). Could I have avoided this
 situation? Is there a more profitable way to play this hand?
 
-### Check the flop
+## Check the flop
 
 Checking the flop could get us to the turn for free. This is a good thing if I'm
 behind, or if a free turn could get me paid off more, but both of those things
@@ -168,7 +168,7 @@ semi-bluff more credible. However, it's unlikely Sean would bet, and if he did
 he would likely call a check-raise with exactly the hands that beat me and fold
 all the rest.
 
-### Re-raise pre-flop
+## Re-raise pre-flop
 
 A pre-flop re-raise has the advantage of making it more likely I get to act last
 later in the hand and making more likely I get heads up against Moni while
@@ -182,7 +182,7 @@ is `QQ+` which he is three-betting with. That means I wouldn't get to see a flop
 a lot of times, often when he has the hands that are most profitable for me to
 play against.
 
-### Fold pre-flop
+## Fold pre-flop
 
 This is a reasonable choice because I'm well behind Moni's opening range.
 
@@ -194,7 +194,7 @@ If he does like the flop and has me beat I will almost always be able to get
 away from the hand cheaply, usually without losing another dollar. But the flops
 where I am likely to have him beat, I will be able to take his stack.
 
-## Conclusions
+# Conclusions
 
 Moni turned over `AhJs`. The turn was `3s`. The river was `5c`. And I lost $500
 in under three minutes.
