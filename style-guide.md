@@ -1,5 +1,4 @@
 ---
-title: Style Guide
 ---
 
 # Header 1
