@@ -2,7 +2,20 @@
 title: Style Guide
 ---
 
-## Math
+# Header 1
+
+## Header 2
+
+### Header 3
+
+#### Header 4
+
+##### Header 5
+
+###### Header 6
+
+
+# Math
 
 Math is processed and formatted by [MathJax](http://mathjax.org)
 
@@ -11,7 +24,7 @@ for things AsciiMath doesn't support, or for importing complicated math from
 other places, [LaTeX](http://en.wikibooks.org/wiki/LaTeX/Mathematics) is also
 supported.
 
-### AsciiMath
+## AsciiMath
 
 AsciiMath can be inline. We can demonstrate that with, \` e^(ipi) + 1 = 0 \`,
 Euler's identity.
@@ -20,7 +33,7 @@ AsciiMath can also appear as it's own paragraph.
 
  \`e^(ipi) + 1 = 0\`
 
-### LaTeX
+## LaTeX
 
 LaTeX can be inline.  We can demonstrate that with, $$ e^{i\pi} + 1 = 0 $$,
 Euler's identity.
