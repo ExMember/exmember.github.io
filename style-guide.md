@@ -1,17 +1,17 @@
 ---
 ---
 
-# Header 1
+# First-level header
 
-## Header 2
+## Second-level header
 
-### Header 3
+### Third-level header
 
-#### Header 4
+#### Fourth-level header
 
-##### Header 5
+##### Fifth-level header
 
-###### Header 6
+###### Sixth-level header
 
 
 # Math
@@ -30,7 +30,7 @@ Euler's identity.
 
 AsciiMath can also appear as it's own paragraph.
 
- \`e^(ipi) + 1 = 0\`
+ \` e^(ipi) + 1 = 0 \`
 
 ## LaTeX
 
