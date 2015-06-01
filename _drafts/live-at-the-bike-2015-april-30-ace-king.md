@@ -55,76 +55,94 @@ A good estimate of that range would be `JJ+` and `AK`. `TT` is a possibility but
 I think it's very unlikely. I would entertain arguments to add `AQs` or remove
 `AK`.
 
-
 Let's estimate Paul's range as `JJ` (6 permutations), `QQ` (3 permutations),
 `KK` (6 permutations), `AA` (3 permutations), `AK` (12 permutations).
 
 I'm way behind this range, so what could justify calling here?
 
-# Steal
+# The two scenarios
 
-There are a lot of flops Paul would give up on, thus allowing me to steal the
-pot. Let's assume that Paul bets every top-pair or better hand check-folds
-to $75 every time he doesn't have at least top-pair.
+I'm going put all of Paul's hands on the flop into two broad categories,
+top-pair or better and not have top-pair or better. My premise is that Paul will
+bet the first set of flops, and check-fold to a $75 bet on the second set.
 
-## From AK
+If I'm wrong about this assumption things change, but we'll talk about that
+later.
 
-Paul has `AK` 40% of the time (\` 12/30 \`).  When Paul has `AK` there are two
-aces and three kings left out of the 48 unknown cards. The odds of none those
-five cards coming out on the flop is \` 43/48 * 42/47 * 41/46 \` or 71.4%.
+# Check-folds
 
-28.6% percent of the time we see a flop I will win the $130 pot on with a bet,
-for an expected value of $37.20.
+Given the range we assigned Paul earlier, he has `AK` 40% of the time, (\' 12/30
+\'), `JJ` 20% of the time (\`9/30\`), `QQ` 10% of the time (\`3/30\`), `KK` 20%
+of the time (\`6/30\`) and `AA` 10% of the time (\`3/30\`).
 
-## From JJ or QQ
+## Ace-king
 
-Paul has jacks or queens 30% (\` 9/30 \`) of the time. In those cases I can
-steal the pot if the flop is king-high.
+When Paul has `AK` there are two aces and three kings left out of 48 unknown
+cards. The odds of none of those five cards hitting the flop is \` 43/48 * 42/47
+* 41/46 \` or 71.4%.
 
-Given that neither of us have a king, the odds of a king not coming on the flop
-is \` 44/48 * 43/47 * 42/46 \` or 76.6%. That makes the odds of getting a king
-23.4%. The odds that an ace isn't one of the other two flop cards is \` 45/48 *
-44/47 \`, or 87.8%.
+There is also the chance that he flops a straight.
 
-That makes the odds of a king-high flop in this situation \` .878 * .234 \`,
-20.5%
+## Jacks
 
-6.16% of the time I will win the $130 pot, for an expected value of $8.01.
+When Paul has `JJ` there are three aces, four kings, and three queens left. The
+odds of none of these ten cards coming on the flop are \` 38/48 * 37/47 * 36/46
+\` or 48.8%. The probability of at least one of these over-cards hitting is
+51.2%.
 
-## From flopped monsters
+## Queens
 
-I'm assuming Paul bets the flop with every hand that beats me and that's close
-to the truth. Bu he may check sets or straights, especially if there isn't a
-flush draw possible.
+When Paul has `QQ` there are only seven over-cards left so the math works out to
+\` 41/48 * 40/47 * 39/46 \`. That's a 61.6% chance of none of those cards
+hitting so at least one of them will hit 38.4% of the time.
 
-The odds of Paul having `AK` and flopping a straight are less than 0.1% so let's
-ignore that.
+## Kings
 
-I'll ignore sets of aces and queens, because they extremely unlikely (~0.0006%),
-and I wouldn't try to steal the pot if either of those cards came.
+When Paul has `KK` there are only three over-cards left. The probability of none
+of them coming on the flop is \` 45/48 * 44/47 * 43/46 \` or 82.0%. The probably
+of at least one is 18.0%.
 
-However if the flop came with a king or a jack but without an ace or queen I
-could try and steal the pot and run into a set.
+## Aces
 
-With the range I estimated for him, Paul has kings or jacks \` 12/30 \`, 30.0%
-of the time. When he does he will not flop a set \`46/48 * 45/47 * 44/46\`,
-87.8% of the time. When he has kings or jacks 12.2% of the time he will flop a set.
+When Paul has `AA` we can be certain the flop won't bring any over-cards
 
-That means a total of 3.67% of the time I will try to steal from a set and lose
-my $75 bet, for an expected value of negative $2.75.
+All together, Paul has `AK` 40.0% of the time and check-folds it 71.4% of the
+time, he has `JJ` 20.0% of the time and folds it 51.2% of the time, `QQ` 10.0%
+of the time and check-folds it `38.4%` of the time, and `KK` 20.0% of the time
+and check-folds that 18.0%. In total Paul is check-folding the flop \` (.400 *
+.714) + (.200 * .512) + (.100 * .384) + (.200 * .180) \` or 46.2%.
 
-# Out-flop
+# Value from check-folds
 
-I touched on ace-high and queen-high flops earlier. It's very unclear how a flop
-like that would play out but given our assumption that Paul wouldn't bet with
-less than top-pair, I'm confident in saying that these situations have positive
-equity.
+Pre-flop I have to call a $40 re-raise to see the flop. On the flop I am going
+to win the $130 pot 46.2% of the time, for an expected value of $60, a $20
+profit.
 
-In addition, flops like `KJT` and `AQX` are excellent opportunities to get the
-rest of the money in as a big favorite.
+It's especially interesting to notice that this play is profitable no matter
+what my cards are. In fact it's even more profitable if I hold `27o` because
+there are now more flops that look scary to Paul.
 
+# Bonus value
 
-# A tighter range for Paul
+## Monotone flops
+
+## Showdown equity
+
+## Hitting the flop
+
+`KJT` `AQX`
+
+# Negative value
+
+## Hitting the flop
+
+## Check-raises
+
+## Check-calls
+
+## Continuation bets
+
+## A tighter range for Paul
 
 What happens if we take `AK` out of Paul's range? It's possible he wouldn't
 three-bet with that hand, so how should that change my play?
@@ -135,18 +153,9 @@ With out `AK` Paul's range is `JJ` (6 permutations), `QQ` (3 permutations),
 Let's continue with the assumption that Paul bets the flop every time with
 top-pair or better and check-folds with anything worse.
 
-## 
-
-# Other possibilities
-
 Given the range of hands I estimate Paul could have, and the way I expect him to
 play those hands, calling pre-flop looks to be profitable. But if I'm wrong this
 hand could be disastrously bad.
-
-If Paul bets sometimes with less than top-pair he takes away some pots I was
-counting on stealing. Worse still, if he checks and calls with worse than
-top-pair I lose not only what I've already put in the pot, but extra bets I made
-trying to steal.
 
 Even worse, it's possible Paul is never three-betting pre-flop with `AK` or
 worse. In that case, even if he bets everything top-pair or better and
