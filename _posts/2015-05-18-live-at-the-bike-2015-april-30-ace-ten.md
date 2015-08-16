@@ -174,7 +174,7 @@ A pre-flop re-raise has the advantage of making it more likely I get to act last
 later in the hand and making more likely I get heads up against Moni while
 representing a stronger range.
 
-However this makes our stack-to-pot ratio smaller, which lessons the skill and
+However this makes our stack-to-pot ratio smaller, which lessens the skill and
 positional advantage I have against Moni.
 
 Also, Moni is a tight opener, even from this position. A good chunk of his range
