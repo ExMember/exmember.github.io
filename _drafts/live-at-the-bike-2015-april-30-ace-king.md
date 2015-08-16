@@ -11,7 +11,7 @@ tags:
 I'm in a no-limit hold'em cash game with $5 blinds and an allowed buy-in of $300
 to $1000 dollars.
 
-The game is broadcast on Live at the Bike, so if you have a subscription you can
+The game is broadcast on Live at the Bike so if you have a subscription you can
 watch this hand play out in the archives. It's from the April 30, 2015 show and
 starts one hour and fifty-one minutes in.
 
@@ -81,7 +81,8 @@ When Paul has `AK` there are two aces and three kings left out of 48 unknown
 cards. The odds of none of those five cards hitting the flop is \` 43/48 * 42/47
 * 41/46 \` or 71.4%.
 
-There is also the chance that he flops a straight.
+There is also the chance that he flops a straight, but we'll save that
+complication for later.
 
 ## Jacks
 
@@ -126,11 +127,27 @@ there are now more flops that look scary to Paul.
 
 ## Monotone flops
 
-## Showdown equity
+A monotone flop could provide me extra value in two ways. Fear of a flush could
+help convince Paul to fold hands he wouldn't otherwise. Clubs and diamonds would
+also give my hand a lot more showdown equity, which is valuable presuming I am
+less likely to go broke with a second-best flush than Paul.
 
-## Hitting the flop
+But monotone flops make up about 5% of all flops so this is probably not a
+significant factor.
 
-`KJT` `AQX`
+## Monster flop
+
+There are a couple of flops, specifically `KJT` and `AQX`, that give me the
+effective nuts, but at the same time are very likely to give Paul a worse hand
+that he would still be willing to get all in with.
+
+Specifically, a flop of `KJT` against Paul's `KK`, `JJ`, or `TT` or `AQX`
+against Paul's `AK` both put me in a very good position.
+
+In contrast, as long as I avoid getting all-in with one-pair, flops where I get
+all in as a big dog are much less likely.
+
+Specifically, `AKQ` against Paul's `AK` or `KK`
 
 # Negative value
 
