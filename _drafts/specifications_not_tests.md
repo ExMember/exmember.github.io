@@ -10,20 +10,20 @@ that make you? A failure.
 
 Specifications do not render judgement. You can confirm to a specification or
 you can not confirm to a specification. That is a choice you get to make. If you
-are writing an email server, you probably want to confirm the IMAP
-specification. If you are writing a first-person shooter you probably don't.
+are writing an email server, you will probably want to confirm the IMAP
+specification. If you are writing a first-person shooter you probably won't.
 
 ## Chronology
 
-Tests come after the fact. You learn fractions, and then you take the test. You
+Tests come after the fact. You learn fractions, and then you take a test. You
 build a car, and then you crash-test it.
 
-Specifications come first. Before you build anything you need to identify what
-you are building.
+Specifications come first. Before you build anything you need to first identify
+what you are building.
 
 ## Optionality
 
-Tests are optional. You can "test the waters", or you can just dive in. You can
+Tests are optional. You can test the waters, or you can just dive in. You can
 take a blood test, or you can assume you're fine.
 
 Specifications are not optional. If you don't specify what it does, how do you
@@ -35,13 +35,13 @@ You may already be writing specifications but calling them tests. Call them
 specifications. Names are important. If you don't believe that, rename all of
 your variables and methods by drawing letters from a bag of Scrabble tiles.
 
-Names given at random are still far better than names that are misleading.
-Calling specifications tests is like calling saddles seats. The distinction is
-subtle but very important and if you treat a saddle like a seat after a few
-miles your butt is going to hurt.
+Random names are still far better than names that are misleading.  Calling a
+specification a test is like calling a saddle a seat. The distinction is subtle
+but very important. If you treat a saddle like a seat after a few miles your
+butt is going to hurt.
 
 If it comes before the application code, is necessary, and isn't used to judge
-developers, then you are not writing tests, you are writing specifications. Call
+developers then you are not writing tests, you are writing specifications. Call
 them that. If your specifications are used to drive the application development,
 then you are doing specification-driven development. Call it that.
 
