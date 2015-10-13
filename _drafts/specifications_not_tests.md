@@ -49,23 +49,3 @@ then you are doing specification-driven development. Call it that.
 [conversation](https://twitter.com/ExMember/status/471745713764712450) with [Dave
 Brady](https://twitter.com/dbrady). It was further expanded for a lighting talk
 I gave at [&:conf](https://www.andconf.io/).
-
-====
-
-Let's talk about how to write specifications.
-
-You can write them in English if you like. But English is a very imprecise
-language. Anything you write will be easy to misinterpret and fail to include
-some details.
-
-If you try to write very formal English you will end up with what we call
-legalese. It will be incredibly difficult to read and write and it will still be
-subject to misinterpretation and missing details.
-
-Write your specifications in code. Executable software is the only effective way
-to describe the behavior of executable software.
-
-Write your specifications, in executable software, and then use that software to
-drive your development.
-
-I call it specification-driven development!
