@@ -45,6 +45,11 @@ developers then you are not writing tests, you are writing specifications. Call
 them that. If your specifications are used to drive the application development,
 then you are doing specification-driven development. Call it that.
 
+[^acknowledgements] The idea for this essay originated in a Twitter
+[conversation](https://twitter.com/ExMember/status/471745713764712450) with [Dave
+Brady](https://twitter.com/dbrady). It was further expanded for a lighting talk
+I gave at [&:conf](https://www.andconf.io/).
+
 ====
 
 Let's talk about how to write specifications.
