@@ -32,7 +32,41 @@ Complicated or confusing specifications exasperate the problems. When implicit
 they change for no other reason than it is not possible to maintain them
 completely in working memory.
 
-## English specification
+Keep specifications explicit also makes it easy to overlook problems such as
+ambiguity, incompleteness, or inconsistency.
+
+Finally, implicit specifications are impossible to communicate. To express them
+in language is to make them explicit. If the communication is not captured,
+for example a water-cooler conversation, then the explicit specification is lost
+forever and what you have left is multiple implicit specifications.
+
+## Natural language specification
+
+The desire for communication often leads to written specifications. The process
+usually looks something like this:
+
+Alice has an idea about how a piece of software should work. This is an implicit
+specification. Alice tries to communicate this specification to Barbara. Barbara
+now has an idea of how the code should work so she goes off and writes it.
+
+Barbara brings the code she has written back to Alice and Alice discovers it
+doesn't meet her idea of what the code should do. Both Alice and Barbara are
+very frustrated.
+
+There are several ways this can happen and in most cases all of these factors
+are present to varying extent.
+
+- Alice and Barbara's initial communication could have been flawed
+- Alice's implicit specification could have changed since their communication
+- Barbara's implicit specification could have changed since their communication
+
+Alice and Barbara recognize what's has happened and come up with a plan to write
+down what it is the code is supposed to do so that they know they have the same
+idea of what it's supposed to do and that idea doesn't change without them
+knowing it.
+
+They write in the same language they communicate in and the result is a
+specification that is no longer implicit, but written in a natural language.
 
 ## Legalese specifications
 
