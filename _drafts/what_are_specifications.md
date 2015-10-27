@@ -70,6 +70,10 @@ specification that is no longer implicit, but written in a natural language.
 
 ## Legalese specifications
 
+One of the curious characteristics of natural languages is that they are
+ambiguous. There is little consensus on the date of "next Wednesday."
+
+
 ## Executable specifications
 
 Let's talk about how to write specifications.
