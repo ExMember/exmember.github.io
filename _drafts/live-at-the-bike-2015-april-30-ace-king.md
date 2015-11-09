@@ -63,7 +63,7 @@ I'm way behind this range, so what could justify calling here?
 # The two scenarios
 
 I'm going put all of Paul's hands on the flop into two broad categories,
-top-pair or better and not have top-pair or better. My premise is that Paul will
+top-pair or better and less than top-pair. My premise is that Paul will
 bet the first set of flops, and check-fold to a $75 bet on the second set.
 
 If I'm wrong about this assumption things change, but we'll talk about that
@@ -120,8 +120,9 @@ to win the $130 pot 46.2% of the time, for an expected value of $60, a $20
 profit.
 
 It's especially interesting to notice that this play is profitable no matter
-what my cards are. In fact it's even more profitable if I hold `27o` because
-there are now more flops that look scary to Paul.
+what my cards are. In fact it's even more profitable if I hold `27o`because
+there are now more flops that look scary to Paul and flops that don't look
+scary that I can stack him with. 
 
 # Bonus value
 
@@ -146,8 +147,6 @@ against Paul's `AK` both put me in a very good position.
 
 In contrast, as long as I avoid getting all-in with one-pair, flops where I get
 all in as a big dog are much less likely.
-
-Specifically, `AKQ` against Paul's `AK` or `KK`
 
 # Negative value
 
@@ -179,4 +178,3 @@ worse. In that case, even if he bets everything top-pair or better and
 check-folds to everything else, I still lose money calling pre-flop.
 
 # Conclusion
-
