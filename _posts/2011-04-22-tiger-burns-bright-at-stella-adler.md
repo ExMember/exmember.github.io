@@ -1,0 +1,32 @@
+---
+title: "Tiger Burns Bright at Stella Adler"
+date: '2011-04-22 10:50:28 +0000'
+categories:
+- Acting
+tags:
+- theater
+- Tiger Tiger Burning Bright
+- review
+- curvewire
+---
+
+A very kind
+[review](http://curvewire.com/posts/blog/&acirc;&euro;&oelig;tiger&acirc;&euro;-burns-bright-stella-adler)
+from RS Bailey on Curve Wire.
+
+> "Tiger Tiger Burning Bright" is well-written and intelligent play with a
+genuine feel for the underside of life and the everyday people it affects. Sam
+Nickens has directed it with a natural fluidity and brought forth some
+monumental performances from his cast.
+
+> Damien Burke brings a dark internal lure to Clarence.
+
+Come see for yourself, Thursday, Friday, and Saturday at 8, Sundays at 3 at the
+Stella Adler Theatre in Hollywood. For tickets and information go to
+[plays411.net/tiger](plays411.net/tiger) or call 323-960-7740.
+
+[<img
+src="http://damienburke.com/wp-content/uploads/2011/04/TTBB3047a-300x199.jpg"
+alt="" title="Clarence and Adelaide with Cille" width="300" height="199"
+class="alignnone size-medium wp-image-538"
+/>](http://damienburke.com/wp-content/uploads/2011/04/TTBB3047a.jpg)
