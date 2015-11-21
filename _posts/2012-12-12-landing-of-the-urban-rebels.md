@@ -3,8 +3,10 @@ title: Landing of the Urban Rebels
 date: '2012-12-12 14:34:07 +0000'
 categories:
 - Acting
-tags: []
-comments: []
+tags:
+- Landing of the Urban Rebels
+- theater
+- iEvolve Productions
 ---
 
 I am very happy to be working with [iEvolve
@@ -20,8 +22,4 @@ now.
 
 My performance dates will be announced soon. Watch this space.
 
-[<img
-src="http://damienburke.com/wp-content/uploads/2012/12/Landing-of-the-Urban-Rebels-FlyerWhite3-196x300.jpg"
-alt="Landing of the Urban Rebels" width="196" height="300" class="aligncenter
-size-medium wp-image-617"
-/>](http://damienburke.com/wp-content/uploads/2012/12/Landing-of-the-Urban-Rebels-FlyerWhite3.jpg)
+![Landing of the Urban Rebels](images/Landing-of-the-Urban-Rebels-FlyerWhite3.jpg)
