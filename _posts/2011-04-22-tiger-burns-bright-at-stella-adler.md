@@ -25,8 +25,5 @@ Come see for yourself, Thursday, Friday, and Saturday at 8, Sundays at 3 at the
 Stella Adler Theatre in Hollywood. For tickets and information go to
 [plays411.net/tiger](plays411.net/tiger) or call 323-960-7740.
 
-[<img
-src="http://damienburke.com/wp-content/uploads/2011/04/TTBB3047a-300x199.jpg"
-alt="" title="Clarence and Adelaide with Cille" width="300" height="199"
-class="alignnone size-medium wp-image-538"
-/>](http://damienburke.com/wp-content/uploads/2011/04/TTBB3047a.jpg)
+![Clarence and Adelaide with
+Cille](images/tiger-tiger-clarence-adelaide-cille.jpg)
