@@ -19,11 +19,7 @@ May 22.
 Tickets and more information can be had at
 [plays411.com/tiger](http://plays411.com/tiger) or by calling 323-960-7740.
 
-[<img
-src="http://damienburke.com/wp-content/uploads/2011/02/COLOR-TTBB-FLYER-218x300.jpg"
-alt="" title=""Tiger Tiger Burning Bright" flyer" width="218" height="300"
-class="alignnone size-medium wp-image-496"
-/>](http://damienburke.com/wp-content/uploads/2011/02/COLOR-TTBB-FLYER.jpg)
+![Tiger Tiger Burning Bright" flyer](images/tiger-tiger-flyer.jpg)
 
 [PDF
 flyer](http://damienburke.com/wp-content/uploads/2011/02/COLOR-TTBB-FLYER1.pdf)
