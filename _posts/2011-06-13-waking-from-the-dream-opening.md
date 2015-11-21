@@ -26,6 +26,4 @@ the [Write Act Repertory Theater](http://writeactrep.org/homepage.htm), 7:30pm
 June 8th, 13th, 14th, 15th, 20th, 21st, and 22nd. Tickets are $15. Call (323)
 469-3113 for reservations.
 
-<img src="http://damienburke.com/wp-content/uploads/2011/06/IMG_0376.jpg" alt=""
-title="Velma and Manny" width="300" height="200" class="size-full wp-image-558"
-/>
+![Velma and Manny](images/waking-from-the-dream-velma-and-manny.jpg)
