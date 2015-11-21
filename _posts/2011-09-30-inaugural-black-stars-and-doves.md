@@ -6,6 +6,7 @@ categories:
 tags:
 - theater
 - iEvolve
+- Black Stars and Doves
 ---
 
 Saturday was the inaugural performance of the iEvolve Theater Group; "Black
@@ -19,7 +20,5 @@ perform.
 For more information about the iEvolve Theater Group visit their website:
 [www.iEvolveProductions.com](http://www.iEvolveProductions.com).
 
-<img
-src="http://damienburke.com/wp-content/uploads/2011/09/livepreview.2-300x232.jpg"
-alt="" title="Black Stars and Doves postcard" width="300" height="232"
-class="alignleft size-medium wp-image-586" />
+
+![Black Stars and Doves](images/Black-Stars-and-Doves-postcard.jpg)
