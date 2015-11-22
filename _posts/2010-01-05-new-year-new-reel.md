@@ -8,4 +8,10 @@ tags:
 - reel
 ---
 
-More pictures of me, but this time they move. [See it now!](http://damienburke.com/video/reel)
+More pictures of me, but this time they move.
+
+<video controls="controls">
+<source src="images/Damien_Burke_reel-480x270.m4v" type="video/mp4">
+</video>
+
+Clips from Fast Pitch, Gambler's Anonymous, Angelina Dreams and other projects.
