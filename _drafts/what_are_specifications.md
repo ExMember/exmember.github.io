@@ -24,7 +24,7 @@ change, as fluid as thought itself.
 
 This flexibility is also a downside of implicit specifications. When the
 behavior changes constantly and without warning it is very difficult for
-other components or users to effective use the software component. When the
+other components or users to effectively use the software component. When the
 specification changes constantly it's difficult to even write code that meets
 the specification, you are trying to hit a moving target.
 
@@ -32,7 +32,7 @@ Complicated or confusing specifications exasperate the problems. When implicit
 they change for no other reason than it is not possible to maintain them
 completely in working memory.
 
-Keep specifications explicit also makes it easy to overlook problems such as
+Keep specifications implicit also makes it easy to overlook problems such as
 ambiguity, incompleteness, or inconsistency.
 
 Finally, implicit specifications are impossible to communicate. To express them
@@ -70,11 +70,59 @@ specification that is no longer implicit, but written in a natural language.
 
 ## Legalese specifications
 
-One of the curious characteristics of natural languages is that they are
-ambiguous. There is little consensus on the date of "next Wednesday."
+Alice has an idea about how a piece of software should work. This time she
+writes it down in order to avoid all the problems her and Barbara have had with
+implicit specifications. She gives her written specification to Barbara who
+goes off and writes the code.
 
+Barbara brings the code she has written back to Alice and Alice discovers that
+it doesn't meet her idea of that the code should do. Both Alice and Barbara are
+very frustrated.
+
+One of the curious characteristics of natural languages is that they are
+ambiguous. For example Alice may have written that something happens bi-weekly.
+In Alice's code it happens once every 3.5 days, but Alice intended for it to
+happen every fourteen days.
+
+Alice and Barbara agree to talk about the specifications before Barbara goes off
+and writes the code. This helps a lot towards reducing misunderstandings, but it
+does not eliminate them.
+
+After some more discussion, Alice and Barbara further agree that Alice should be
+much more careful and precise when writing her specifications so as to eliminate
+any ambiguities.
 
 ## Executable specifications
+
+Alice has an idea about how a piece of software should work. She talks about it
+with Barbara and writes it down in natural language, but this time she tries
+very hard to be extremely precise and eliminate any ambiguities. This is a lot
+of work but when she's happy with the result she give it to Barbara who goes off
+and writes the code.
+`
+Barbara has a very difficult time, these specifications are very difficult to
+understand, but she figures it out and writes the code and brings it back to
+Alice. Alice discovers that the software doesn't do what she intended. Alice and
+Barbara are both very frustrated.
+
+There are several ways this can happen and in most cases multiple factors are
+present to varying extent.
+
+- Despite her best effort, Alice's specification may still be ambiguous
+- In an effort to be precise and unambiguous Alice's specification may not say
+  what she intended
+- In an effot to be precise and unambigous, Alice's spec may have been so
+  difficult to read that Barbara misinterpreted it
+
+Alice and Barbara work very hard to be able to read and write precise and
+unambigous specifications in natural language, but this is a fundamentally
+difficult problem. In the general case people who have the job of writing
+precise and unabiguous language are known as lawyers and their output is known
+as legalese; which is famous for being incredibly difficult to understand while
+still not completely precise and unambiguous.
+
+
+
 
 Let's talk about how to write specifications.
 
