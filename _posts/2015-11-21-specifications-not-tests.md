@@ -1,4 +1,9 @@
-# Specifications not Tests
+---
+title: Specifications not Test
+category:
+  - software
+tags: []
+---
 
 Stop writing tests. I want you to stop writing tests for your code. Stop writing
 tests and start writing specifications.
@@ -45,7 +50,14 @@ developers then you are not writing tests, you are writing specifications. Call
 them that. If your specifications are used to drive the application development,
 then you are doing specification-driven development. Call it that.
 
-[^acknowledgements] The idea for this essay originated in a Twitter
-[conversation](https://twitter.com/ExMember/status/471745713764712450) with [Dave
-Brady](https://twitter.com/dbrady). It was further expanded for a lighting talk
-I gave at [&:conf](https://www.andconf.io/).
+<hr/>
+
+The idea for this essay originated in a Twitter
+[conversation](https://twitter.com/ExMember/status/471745713764712450) with
+[Dave Brady](https://twitter.com/dbrady). It was further expanded for a lighting
+talk I gave at [&:conf](https://www.andconf.io/).
+
+This essay was originally written for [Ministry of
+Velocity](http://www.ministryofvelocity.com/) and was first published
+[here](https://blog.ministryofvelocity.com/specifications-not-tests-20a74a35b2ee#.ppb6rjz1c)
+on their [blog](https://blog.ministryofvelocity.com/).
