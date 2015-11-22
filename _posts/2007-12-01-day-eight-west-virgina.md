@@ -2,7 +2,7 @@
 title: 'Day Eight: West Virgina'
 date: '2007-12-01 15:45:00 +0000'
 categories:
-- Poker
+- poker
 tags:
 - cash game
 - records

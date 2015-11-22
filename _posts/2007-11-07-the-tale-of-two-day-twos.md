@@ -2,7 +2,7 @@
 title: The Tale of Two Day Twos
 date: '2007-11-07 06:06:00 +0000'
 categories:
-- Poker
+- poker
 tags:
 - records
 ---

@@ -2,7 +2,7 @@
 title: Sometimes They Tell the Truth
 date: '2008-06-09 12:05:39 +0000'
 categories:
-- Poker
+- poker
 tags: []
 ---
 I've got black kings under the gun and raise the $3/$5 blinds to $20. I've been

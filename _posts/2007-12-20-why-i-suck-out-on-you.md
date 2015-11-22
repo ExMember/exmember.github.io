@@ -2,7 +2,7 @@
 title: Why I Suck Out on You
 date: '2007-12-20 21:00:00 +0000'
 categories:
-- Poker
+- poker
 tags:
 - hand history
 - cash game

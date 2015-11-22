@@ -2,7 +2,7 @@
 title: 'Days Six and Seven: New Town, New Players, Same Money'
 date: '2007-11-19 16:33:00 +0000'
 categories:
-- Poker
+- poker
 tags: []
 ---
 Day Six: 6 hours, +$477.

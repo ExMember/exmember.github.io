@@ -2,7 +2,7 @@
 title: Episode one
 date: '2007-09-27 04:03:00 +0000'
 categories:
-- Poker
+- poker
 tags: []
 ---
 It's time for another edition of "Let's Bitch about Poker", I'm your host,

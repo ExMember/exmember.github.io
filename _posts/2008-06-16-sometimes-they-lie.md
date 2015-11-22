@@ -2,7 +2,7 @@
 title: Sometimes They Lie
 date: '2008-06-16 12:04:44 +0000'
 categories:
-- Poker
+- poker
 tags: []
 ---
 I was pretty sure he was bluffing, but there wasn't anything I could do about

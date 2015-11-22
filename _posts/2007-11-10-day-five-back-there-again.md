@@ -2,7 +2,7 @@
 title: 'Day Five: Back There Again'
 date: '2007-11-10 22:49:00 +0000'
 categories:
-- Poker
+- poker
 tags:
 - cash game
 - records

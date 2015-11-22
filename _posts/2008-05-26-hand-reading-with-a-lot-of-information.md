@@ -2,7 +2,7 @@
 title: Hand Reading Example with a lot of Information
 date: '2008-05-26 20:58:17 +0000'
 categories:
-- Poker
+- poker
 tags: []
 ---
 I've got AJ in early position and raise the $3/$5 blinds to $15. I've been

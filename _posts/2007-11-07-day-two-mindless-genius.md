@@ -2,7 +2,7 @@
 title: 'Day two: Mindless Genius'
 date: '2007-11-07 18:48:00 +0000'
 categories:
-- Poker
+- poker
 tags:
 - hand history
 ---

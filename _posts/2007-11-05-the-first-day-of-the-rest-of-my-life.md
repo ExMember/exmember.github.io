@@ -2,7 +2,7 @@
 title: The first day of the rest of my life
 date: '2007-11-05 18:12:00 +0000'
 categories:
-- Poker
+- poker
 tags:
 - cash game
 - records

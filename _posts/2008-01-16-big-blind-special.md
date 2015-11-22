@@ -2,7 +2,7 @@
 title: Big blind special
 date: '2008-01-16 13:59:00 +0000'
 categories:
-- Poker
+- poker
 tags:
 - hand history
 - online

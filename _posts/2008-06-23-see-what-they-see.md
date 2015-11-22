@@ -2,7 +2,7 @@
 title: See What they See
 date: '2008-06-23 11:54:07 +0000'
 categories:
-- Poker
+- poker
 tags: []
 ---
 It's Thursday night at low-class, high-action card-room. There is a loose

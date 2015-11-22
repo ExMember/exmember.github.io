@@ -2,7 +2,7 @@
 title: Five Shovels and a Grave
 date: '2008-06-02 12:07:02 +0000'
 categories:
-- Poker
+- poker
 tags: []
 ---
 AQ in middle position with a $5 limper. I make it $25 and get two callers

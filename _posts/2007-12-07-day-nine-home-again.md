@@ -2,7 +2,7 @@
 title: 'Day Nine: Home Again'
 date: '2007-12-07 19:11:00 +0000'
 categories:
-- Poker
+- poker
 tags:
 - cash game
 - records

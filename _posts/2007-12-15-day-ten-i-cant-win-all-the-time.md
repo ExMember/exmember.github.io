@@ -2,7 +2,7 @@
 title: 'Day Ten: I can''t win all the time'
 date: '2007-12-15 12:24:00 +0000'
 categories:
-- Poker
+- poker
 tags:
 - cash game
 - records

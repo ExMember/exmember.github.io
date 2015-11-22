@@ -2,7 +2,7 @@
 title: 'Day two: Four-way action'
 date: '2007-11-07 18:53:00 +0000'
 categories:
-- Poker
+- poker
 tags:
 - hand history
 - cash game

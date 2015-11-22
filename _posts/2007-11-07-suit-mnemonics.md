@@ -2,7 +2,7 @@
 title: Suit Mnemonics
 date: '2007-11-07 19:09:00 +0000'
 categories:
-- Poker
+- poker
 tags: []
 ---
 Any time you spend re-checking your cards is time that you could have spent

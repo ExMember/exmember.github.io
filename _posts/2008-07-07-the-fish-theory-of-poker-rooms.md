@@ -2,7 +2,7 @@
 title: The Fish Theory of Poker Rooms
 date: '2008-07-07 12:43:53 +0000'
 categories:
-- Poker
+- poker
 tags: []
 ---
 My uncle once told me he wanted to open up a singles bar. He told me about all
