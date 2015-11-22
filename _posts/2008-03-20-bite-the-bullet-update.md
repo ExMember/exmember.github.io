@@ -2,7 +2,7 @@
 title: '"Bite the Bullet" update'
 date: '2008-03-20 12:00:02 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 There have been a lot of delays in getting "Bite the Bullet" through

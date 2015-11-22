@@ -2,7 +2,7 @@
 title: '"The Resurrection"'
 date: '2008-03-24 12:00:49 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 I am starring in The Resurrection by W. B. Yeats opening this weekend. This is a

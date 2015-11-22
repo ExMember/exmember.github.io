@@ -2,7 +2,7 @@
 title: Represented
 date: '2008-06-22 18:49:20 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 I am now officially represented by Daniel Mulheran of DPM Talent Agency for

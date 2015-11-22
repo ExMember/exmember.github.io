@@ -2,7 +2,7 @@
 title: Always a Champion
 date: '2007-01-01 11:00:33 +0000'
 categories:
-- Acting
+- acting
 ---
 Champion's new site [Always a
 Champion](http://alwaysachampion.com/pages/main?language=en) is live now.  If

@@ -2,7 +2,7 @@
 title: '"Tiger Tiger Burning Bright" Opens at the Stella Adler on April 14'
 date: '2011-02-26 16:43:41 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 

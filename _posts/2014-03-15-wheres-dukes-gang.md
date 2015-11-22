@@ -2,7 +2,7 @@
 title: Where's Duke's Gang?
 date: '2014-03-15 07:06:59 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: The Poe Play
 date: '2009-05-12 19:15:21 +0000'
 categories:
-- Acting
+- acting
 tags:
 - The Poe Play
 - staged reading

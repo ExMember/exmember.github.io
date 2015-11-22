@@ -2,7 +2,7 @@
 title: Cymbeline opening
 date: '2009-05-27 10:56:36 +0000'
 categories:
-- Acting
+- acting
 tags:
 - Theatricum Botanicum
 - Cymbeline

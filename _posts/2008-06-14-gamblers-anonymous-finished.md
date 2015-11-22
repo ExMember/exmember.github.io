@@ -2,7 +2,7 @@
 title: '"Gambler''s Anonymous" finished'
 date: '2008-06-14 19:52:07 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 "Gambler's Anonymous" is a story of addiction, consequences, and gambling at the

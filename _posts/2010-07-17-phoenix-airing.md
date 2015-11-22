@@ -2,7 +2,7 @@
 title: Phoenix Airing
 date: '2010-07-17 22:40:52 +0000'
 categories:
-- Acting
+- acting
 tags:
 - commercial
 - University of Phoenix

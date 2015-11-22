@@ -2,7 +2,7 @@
 title: Acting Bio
 date: '2009-03-26 15:16:39 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 I was born in South Carolina, the eldest child of a US Marine Corps drill

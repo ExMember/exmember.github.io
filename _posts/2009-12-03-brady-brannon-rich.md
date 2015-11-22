@@ -2,7 +2,7 @@
 title: Brady, Brannon & Rich
 date: '2009-12-03 16:17:36 +0000'
 categories:
-- Acting
+- acting
 tags:
 - BBR
 - agent

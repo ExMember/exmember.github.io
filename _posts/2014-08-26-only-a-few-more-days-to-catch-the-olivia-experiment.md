@@ -2,7 +2,7 @@
 title: 'Only a few more days to catch "The Olivia Experiment" '
 date: '2014-08-26 00:18:15 +0000'
 categories:
-- Acting
+- acting
 tags:
 - The Olivia Experiment
 ---

@@ -2,7 +2,7 @@
 title: Action on Film International Film Festival
 date: '2008-06-30 03:47:30 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 I've just found out that "Gambler's Anonymous" has made it into the [Action on

@@ -2,7 +2,7 @@
 title: Industrial shoot
 date: '2008-05-13 20:21:18 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 Here's a picture of me on the set of an

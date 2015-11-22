@@ -2,7 +2,7 @@
 title: Improv 101 Graduation Show
 date: '2010-05-19 14:59:49 +0000'
 categories:
-- Acting
+- acting
 tags:
 - theater
 - improv

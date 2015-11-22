@@ -2,7 +2,7 @@
 title: CSI stills
 date: '2008-12-09 01:57:15 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 I was on TV!

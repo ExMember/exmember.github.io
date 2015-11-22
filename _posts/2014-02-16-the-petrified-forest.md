@@ -2,7 +2,7 @@
 title: The Petrified Forest
 date: '2014-02-16 14:06:04 +0000'
 categories:
-- Acting
+- acting
 tags:
 - The Petrified Forest
 ---

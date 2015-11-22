@@ -2,7 +2,7 @@
 title: '"Bite the Bullet" shoot'
 date: '2007-08-05 12:00:49 +0000'
 categories:
-- Acting
+- acting
 ---
 "Bite the Bullet" is a great little short by Jennifer Lee Loy.  I have a
 supporting role this time, complete with dialog and closeups.  The whole cast

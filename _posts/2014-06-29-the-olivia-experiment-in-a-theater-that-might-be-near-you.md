@@ -2,7 +2,7 @@
 title: '"The Olivia Experiment" in a theater that might be near you'
 date: '2014-06-29 11:02:29 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 "The Olivia Experiment" will open at the [Laemmle Music

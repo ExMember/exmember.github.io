@@ -2,7 +2,7 @@
 title: Waking from the Dream
 date: '2011-05-26 08:20:26 +0000'
 categories:
-- Acting
+- acting
 tags:
 - theater
 - Waking from the Dream

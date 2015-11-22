@@ -2,7 +2,7 @@
 title: Silent Roar closed
 date: '2010-02-10 15:42:54 +0000'
 categories:
-- Acting
+- acting
 tags:
 - theater
 - Silent Roar

@@ -2,7 +2,7 @@
 title: Petrified Forest Reviews
 date: '2014-10-13 10:38:29 +0000'
 categories:
-- Acting
+- acting
 ---
 For once I didn't read the reviews of a show I was in, but that also means I
 didn't share them -- until now.

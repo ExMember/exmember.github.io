@@ -2,7 +2,7 @@
 title: 'Project: Life'
 date: '2008-03-02 12:00:41 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 I've been cast as the narrator for [Project:

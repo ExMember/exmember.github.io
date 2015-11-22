@@ -2,7 +2,7 @@
 title: '"Gambler''s Anonymous" coming soon'
 date: '2008-06-01 22:07:08 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 I've gotten word that a short film I did last year should be finished in the

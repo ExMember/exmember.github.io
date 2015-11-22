@@ -2,7 +2,7 @@
 title: Waking from the Dream opening
 date: '2011-06-13 09:32:11 +0000'
 categories:
-- Acting
+- acting
 tags:
 - theater
 - opening

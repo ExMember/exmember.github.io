@@ -2,7 +2,7 @@
 title: Tiger closes
 date: '2011-05-23 17:20:07 +0000'
 categories:
-- Acting
+- acting
 tags:
 - theater
 - Tiger Tiger Burning Bright

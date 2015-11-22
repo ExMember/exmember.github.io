@@ -2,7 +2,7 @@
 title: '"3 Monkeys" shoot'
 date: '2007-08-05 12:00:45 +0000'
 categories:
-- Acting
+- acting
 ---
 "This scene in 12 Monkey's really belongs in Eron: Smartest Men in the Room."
 That seemed to be the premise of Donovan Deboer's short "3 Monkeys". At least

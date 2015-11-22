@@ -2,7 +2,7 @@
 title: '"Waking from the Dream" closes'
 date: '2011-07-03 13:27:41 +0000'
 categories:
-- Acting
+- acting
 tags:
 - theater
 - Waking from the Dream

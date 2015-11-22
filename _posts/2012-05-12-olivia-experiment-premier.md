@@ -2,7 +2,7 @@
 title: Olivia Experiment premier
 date: '2012-05-12 17:21:17 +0000'
 categories:
-- Acting
+- acting
 tags:
 - festival
 - trailer

@@ -2,7 +2,7 @@
 title: The Return of "Pulp Shakespeare"
 date: '2011-10-30 13:23:56 +0000'
 categories:
-- Acting
+- acting
 tags:
 - theater
 - Pulp Shakespeare

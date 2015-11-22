@@ -2,7 +2,7 @@
 title: '"Project: Life" is Complete'
 date: '2009-03-19 15:16:28 +0000'
 categories:
-- Acting
+- acting
 tags:
 - 'Project: Life'
 ---

@@ -2,7 +2,7 @@
 title: '"Creepers" updates'
 date: '2008-08-30 03:01:09 +0000'
 categories:
-- Acting
+- acting
 tags:
 - screening
 - Creepers

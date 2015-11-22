@@ -2,7 +2,7 @@
 title: Tiger Tiger Burning Bright opening soon
 date: '2011-04-10 20:55:56 +0000'
 categories:
-- Acting
+- acting
 tags:
 - Tiger Tiger Burning Bright
 ---

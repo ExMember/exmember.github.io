@@ -2,7 +2,7 @@
 title: '"Ianna''s Dance" shoot'
 date: '2008-03-22 12:00:46 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 I spent all day Friday in the Mojave desert to shoot Ianna's Dance, a

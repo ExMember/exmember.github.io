@@ -2,7 +2,7 @@
 title: '"Project: Life" clip'
 date: '2010-09-08 15:50:38 +0000'
 categories:
-- Acting
+- acting
 tags:
 - 'Project: Life'
 - video

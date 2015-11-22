@@ -2,7 +2,7 @@
 title: '"Flicks" shoot'
 date: '2008-02-01 12:00:13 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 I just finished a shoot for a spec pilot called Flicks. I had a featured role as

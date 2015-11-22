@@ -2,7 +2,7 @@
 title: Richard III with Shakespeare at Play
 date: '2009-08-19 12:35:56 +0000'
 categories:
-- Acting
+- acting
 tags:
 - theater
 - opening

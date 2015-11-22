@@ -2,7 +2,7 @@
 title: Midsummer opening
 date: '2009-07-06 21:17:48 +0000'
 categories:
-- Acting
+- acting
 tags:
 - A Midsummer Night's Dream
 - theater

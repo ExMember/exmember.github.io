@@ -2,7 +2,7 @@
 title: Operation Repo
 date: '2010-05-14 01:30:09 +0000'
 categories:
-- Acting
+- acting
 tags:
 - video
 - Operation Repo

@@ -2,7 +2,7 @@
 title: New Year, New Reel
 date: '2010-01-05 12:47:02 +0000'
 categories:
-- Acting
+- acting
 tags:
 - video
 - reel

@@ -2,7 +2,7 @@
 title: Inaugural "Black Stars and Doves"
 date: '2011-09-30 22:21:36 +0000'
 categories:
-- Acting
+- acting
 tags:
 - theater
 - iEvolve

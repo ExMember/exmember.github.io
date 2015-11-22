@@ -2,7 +2,7 @@
 title: '"Creepers" is out'
 date: '2008-04-18 12:00:47 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 CJ Johnson's horror short "Creepers" is finished. It is a classic horror film

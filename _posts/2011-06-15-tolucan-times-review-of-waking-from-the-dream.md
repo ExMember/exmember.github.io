@@ -2,7 +2,7 @@
 title: Tolucan Times review of "Waking from the Dream"
 date: '2011-06-15 18:19:19 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 

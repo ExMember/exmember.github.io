@@ -2,7 +2,7 @@
 title: '"Project: Life" at Mockfest'
 date: '2010-10-07 12:59:43 +0000'
 categories:
-- Acting
+- acting
 tags:
 - screening
 - 'Project: Life'

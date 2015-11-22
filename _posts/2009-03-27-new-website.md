@@ -2,7 +2,7 @@
 title: New Website
 date: '2009-03-27 13:35:17 +0000'
 categories:
-- Acting
+- acting
 tags: []
 ---
 What was supposed to be a minor update turned into a massive overhaul that
