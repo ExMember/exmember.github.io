@@ -1,24 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: Episode one
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 4
-wordpress_url: http://www.damienburke.org/wordpress/?p=4
 date: '2007-09-27 04:03:00 +0000'
-date_gmt: '2007-09-27 09:03:00 +0000'
 categories:
 - Poker
 tags: []
-comments: []
 ---
 <p>It's time for another edition of "Let's Bitch about Poker", I'm your host, ExMember, and we've got a lot of bitching to do today, so let's get right to it.</p>
 <p>J2o in the big blind. You can already tell this story is going to have an unhappy ending, can't you?</p>

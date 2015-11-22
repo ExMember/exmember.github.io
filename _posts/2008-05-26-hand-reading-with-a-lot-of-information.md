@@ -1,24 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: Hand Reading Example with a lot of Information
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 60
-wordpress_url: http://damienburke.org/news/?p=60
 date: '2008-05-26 20:58:17 +0000'
-date_gmt: '2008-05-27 01:58:17 +0000'
 categories:
 - Poker
 tags: []
-comments: []
 ---
 <p>I've got A&acirc;&trade;&nbsp;J&acirc;&trade;&yen; in early position and raise the $3&#47;$5 blinds to $15. I've been playing very few hands, but that doesn't stop four players from calling. This is not ridiculous, since I started the hand with $600 and these players have me well covered.</p>
 <p>The flop is Q&acirc;&trade;&nbsp;T&acirc;&trade;&nbsp;9&acirc;&trade;&brvbar;. I will often play this passively. Last thing I want is to be raised off a monster draw here. But I could be drawing very slim. Also betting out is a great way of disguising my hand, should I hit the nuts on the turn. Add in the distinct possibility I could pick up the pot here and I go ahead and bet $40.</p>

@@ -1,27 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Day Eight: West Virgina'
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 19
-wordpress_url: http://www.damienburke.org/wordpress/?p=19
 date: '2007-12-01 15:45:00 +0000'
-date_gmt: '2007-12-01 20:45:00 +0000'
 categories:
 - Poker
 tags:
 - cash game
 - records
 - live
-comments: []
 ---
 <p>7 hours. -$247.</p>
 <p>West Virginia only legalized "table games" very recently. This particular card room had been open about a month when I got there.</p>

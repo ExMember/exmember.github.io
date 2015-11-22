@@ -1,24 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: Sometimes They Lie
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 63
-wordpress_url: http://damienburke.org/news/?p=63
 date: '2008-06-16 12:04:44 +0000'
-date_gmt: '2008-06-16 17:04:44 +0000'
 categories:
 - Poker
 tags: []
-comments: []
 ---
 <p>I was pretty sure he was bluffing, but there wasn't anything I could do about it.</p>
 <p>I had leverage working against me. If I called $200 here I was going to be facing another $200 bet on the river. I had a very weak-hand, AK. Without a pair, I could still lose to a bluff. </p>

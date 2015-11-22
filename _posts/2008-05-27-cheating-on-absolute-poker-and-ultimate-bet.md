@@ -1,26 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: Cheating on Absolute Poker and Ultimate Bet
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 67
-wordpress_url: http://damienburke.org/news/?p=67
 date: '2008-05-27 05:47:29 +0000'
-date_gmt: '2008-05-27 10:47:29 +0000'
 categories:
 - Poker
 tags:
 - online
 - cheating
-comments: []
 ---
 <p>Someone has been able to play on Absolute Poker and Ultimate Bet while knowing the hole cards of their opponents. This has been proven beyond a reasonable doubt.</p>
 <p>Both of the online poker rooms where the cheating has been proven are owned by&Acirc;&nbsp;Tokwiro Enterprises ENRG and regulated by the&Acirc;&nbsp;Kahnawake Gaming Commission in the Mohawk&Acirc;&nbsp;Territory of Kahnawake in Quebec Canada.</p>

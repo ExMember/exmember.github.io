@@ -1,27 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
 title: Omaha 8 Hand Selection
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 55
-wordpress_url: http://damienburke.org/news/?p=55
 date: '2008-07-14 12:37:35 +0000'
-date_gmt: '2008-07-14 17:37:35 +0000'
 categories:
 - Poker
 tags:
 - hand history
 - live
 - Omaha 8
-comments: []
 ---
 <p>It's a $4&#47;$8 Omaha 8 game. I really don't expect skilled competition. I'm only here because I want more experience in Omaha 8. I want to learn things that are obvious to people who play that normally play this game. But most of all, I want the time to pass faster while I wait for a no-limit hold'em seat.</p>
 <p>I'm folding a lot. Not as much as I should, but orders of magnitude more than the rest of the players.</p>

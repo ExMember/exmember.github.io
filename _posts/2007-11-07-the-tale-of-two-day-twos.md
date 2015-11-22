@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: The Tale of Two Day Twos
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 8
-wordpress_url: http://www.damienburke.org/wordpress/?p=8
 date: '2007-11-07 06:06:00 +0000'
-date_gmt: '2007-11-07 11:06:00 +0000'
 categories:
 - Poker
 tags:
 - records
-comments: []
 ---
 <p>1226 hands. 7.02 hours. -$18.45.</p>
 <p>Before 10pm I played 442 hands over 2.57 hours and won $646.</p>

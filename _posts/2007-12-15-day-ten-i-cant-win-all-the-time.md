@@ -1,27 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Day Ten: I can''t win all the time'
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 22
-wordpress_url: http://www.damienburke.org/wordpress/?p=22
 date: '2007-12-15 12:24:00 +0000'
-date_gmt: '2007-12-15 17:24:00 +0000'
 categories:
 - Poker
 tags:
 - cash game
 - records
 - live
-comments: []
 ---
 <p>15.5 hours, -$593</p>
 <p>Friday 2:30pm: I decide I'm going to hurry down to the poker room before all the Friday afternoon traffic clogs up the freeway.</p>

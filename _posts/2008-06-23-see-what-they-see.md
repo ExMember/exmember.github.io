@@ -1,24 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: See What they See
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 64
-wordpress_url: http://damienburke.org/news/?p=64
 date: '2008-06-23 11:54:07 +0000'
-date_gmt: '2008-06-23 16:54:07 +0000'
 categories:
 - Poker
 tags: []
-comments: []
 ---
 <p>It's Thursday night at low-class, high-action card-room. There is a loose aggressive player running over the table pretty well. A woman in her thirties comes out firing all-in on the turn into him.</p>
 <p>She looks like she's bluffing. She's holding very still, not making eye contact, moderating her breathing, everything Caro told you about.</p>

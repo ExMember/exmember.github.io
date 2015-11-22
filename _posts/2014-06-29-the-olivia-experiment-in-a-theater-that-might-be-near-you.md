@@ -1,13 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: '"The Olivia Experiment" in a theater that might be near you'
 date: '2014-06-29 11:02:29 +0000'
 categories:
 - Acting
 tags: []
-comments: []
 ---
 "The Olivia Experiment" will open at the [Laemmle Music
 Hall](http:\\www.laemmle.com\theaters\4) in Beverly Hills on Friday August 15th.

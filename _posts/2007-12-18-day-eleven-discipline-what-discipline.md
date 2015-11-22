@@ -1,27 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Day Eleven: Discipline? What discipline?'
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 23
-wordpress_url: http://www.damienburke.org/wordpress/?p=23
 date: '2007-12-18 05:51:00 +0000'
-date_gmt: '2007-12-18 10:51:00 +0000'
 categories:
 - Poker
 tags:
 - cash game
 - records
 - live
-comments: []
 ---
 <p>7.5 hours, +323</p>
 <p>I have no idea how I got up about $500. But I remember the feeling of losing it.</p>

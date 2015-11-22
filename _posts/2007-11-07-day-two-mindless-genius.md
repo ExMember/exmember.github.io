@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Day two: Mindless Genius'
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 10
-wordpress_url: http://www.damienburke.org/wordpress/?p=10
 date: '2007-11-07 18:48:00 +0000'
-date_gmt: '2007-11-07 23:48:00 +0000'
 categories:
 - Poker
 tags:
 - hand history
-comments: []
 ---
 <p>I open for $6 from the cutoff with black sixes. The small blind, another loose-passive player calls. The flop is a 7&acirc;&trade;&yen;9&acirc;&trade;&nbsp;6&acirc;&trade;&brvbar;. I bet $10 and he calls. This means nothing.</p>
 <p>Turn is a Q&acirc;&trade;&pound;, completely irrelevant. I bet $26, but the loose-passive player min-check-raises me to $52.</p>

@@ -1,26 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: The first day of the rest of my life
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 6
-wordpress_url: http://www.damienburke.org/wordpress/?p=6
 date: '2007-11-05 18:12:00 +0000'
-date_gmt: '2007-11-05 23:12:00 +0000'
 categories:
 - Poker
 tags:
 - cash game
 - records
-comments: []
 ---
 <p>322 hands. 1.55 hours. -$15.15</p>
 <p>I'm back after a twenty-seven day tilt-induced hiatus. I've turned over a new leaf, I'm determined to be more disciplined, and more focused. Yet already I hate poker again.</p>

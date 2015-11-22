@@ -1,26 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Day Five: Back There Again'
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 15
-wordpress_url: http://www.damienburke.org/wordpress/?p=15
 date: '2007-11-10 22:49:00 +0000'
-date_gmt: '2007-11-11 03:49:00 +0000'
 categories:
 - Poker
 tags:
 - cash game
 - records
-comments: []
 ---
 <p>4 hours. +$950.</p>
 <p>If you play well and get good cards, sometimes things like this will happen.</p>

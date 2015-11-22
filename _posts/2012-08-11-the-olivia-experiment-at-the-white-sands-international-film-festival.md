@@ -1,11 +1,9 @@
 ---
-layout: post
 title: The Olivia Experiment at the White Sands International Film Festival
 date: '2012-08-11 12:19:03 +0000'
 categories:
 - Acting
 tags: []
-comments: []
 ---
 
 [The Olivia Experiment](http://www.theoliviaexperiment.com) has been chosen by

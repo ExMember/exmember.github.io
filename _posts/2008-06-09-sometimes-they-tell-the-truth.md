@@ -1,24 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: Sometimes They Tell the Truth
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 62
-wordpress_url: http://damienburke.org/news/?p=62
 date: '2008-06-09 12:05:39 +0000'
-date_gmt: '2008-06-09 17:05:39 +0000'
 categories:
 - Poker
 tags: []
-comments: []
 ---
 <p>I've got black kings under the gun and raise the $3&#47;$5 blinds to $20. I've been experimenting a lot with raise sizes at this point. The table is very deep and plays very loose-passive pre-flop as a result. I only have $300, but am not keen to stack off against random hands on the flop.</p>
 <p>The button min-raises. She's a tight and straight-forward player. I'm really happy at this point. She thinks she has the best hand, so I'm going to let her put all her money in before she sees anything that might change her mind.</p>

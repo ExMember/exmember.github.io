@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: Petrified Forest Reviews
 date: '2014-10-13 10:38:29 +0000'
 categories:

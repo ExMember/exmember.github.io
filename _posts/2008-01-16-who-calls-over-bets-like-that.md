@@ -1,26 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: Who calls over-bets like that?
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 28
-wordpress_url: http://www.damienburke.org/wordpress/?p=28
 date: '2008-01-16 13:17:00 +0000'
-date_gmt: '2008-01-16 18:17:00 +0000'
 categories:
 - Poker
 tags:
 - hand history
 - online
-comments: []
 ---
 <p>Everything seemed to go wrong after dinner today. I lost 71% of my before dinner winnings. It went just as quickly as it had come.</p>
 <p>Second to act I raised to $6 with pocket kings.  The villain directly behind me re-raised to $12. I raised the pot again, $22. Villain flat called.</p>

@@ -1,13 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: Another edition of "Where's Duke's Gang?"
 date: '2014-03-22 10:54:58 +0000'
 categories:
 - Acting
 tags: []
-comments: []
 ---
 [The Petrified Forest](http:\\theatrewest.org\onstage\petrifiedforest\) opened
 Friday to a wonderful audience of theatre lovers at Theatre West. [Get your

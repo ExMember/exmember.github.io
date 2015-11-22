@@ -1,24 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: Five Shovels and a Grave
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 61
-wordpress_url: http://damienburke.org/news/?p=61
 date: '2008-06-02 12:07:02 +0000'
-date_gmt: '2008-06-02 17:07:02 +0000'
 categories:
 - Poker
 tags: []
-comments: []
 ---
 <p>A&acirc;&trade;&nbsp;Q&acirc;&trade;&brvbar; in middle position with a $5 limper. I make it $25 and get two callers behind.</p>
 <p>The flop is 945, all spades. We check to the middle position caller who doesn't hesitate and bets $201. It's folded back around to me.</p>

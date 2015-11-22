@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Olivia Experiment opens Aug 22
 date: '2014-08-20 08:53:29 +0000'
 categories:

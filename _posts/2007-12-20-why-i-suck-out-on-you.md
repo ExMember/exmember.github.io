@@ -1,27 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
 title: Why I Suck Out on You
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 24
-wordpress_url: http://www.damienburke.org/wordpress/?p=24
 date: '2007-12-20 21:00:00 +0000'
-date_gmt: '2007-12-21 02:00:00 +0000'
 categories:
 - Poker
 tags:
 - hand history
 - cash game
 - live
-comments: []
 ---
 <p>I've missed at least one session so far, so I've given up on posting about every session. Maybe next year I'll try posting a weekly summary.</p>
 <p>Last night I played a ten hour session. Poorly. Very poorly.</p>

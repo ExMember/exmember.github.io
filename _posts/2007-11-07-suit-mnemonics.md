@@ -1,24 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: Suit Mnemonics
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 12
-wordpress_url: http://www.damienburke.org/wordpress/?p=12
 date: '2007-11-07 19:09:00 +0000'
-date_gmt: '2007-11-08 00:09:00 +0000'
 categories:
 - Poker
 tags: []
-comments: []
 ---
 <p>Any time you spend re-checking your cards is time that you could have spent observing other players. Also, when you have to re-check your cards for suit you give up information to observant opponents.</p>
 <p>These are some of the mnemonics that help me remember what suits I have when playing holdem.</p>

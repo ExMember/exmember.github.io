@@ -1,26 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: Day one's disaster
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 7
-wordpress_url: http://www.damienburke.org/wordpress/?p=7
 date: '2007-11-06 05:00:00 +0000'
-date_gmt: '2007-11-06 10:00:00 +0000'
 categories:
 - Poker
 tags:
 - hand history
 - cash game
-comments: []
 ---
 <p>The hands you lose a lot of money on are always the first ones to look at when analysizing your game. This one was a dozey that I almost got away from.</p>
 <p>I've got A&acirc;&trade;&nbsp;Q&acirc;&trade;&nbsp; under-the-gun. I think Doyle was the one who coined the name "walking back to Dallas" for AQ. The general idea is that if a road gambler overplays AQ he'll eventually lose everything he has, including his car and bus fare. He'll have to walk back home to Dallas.</p>

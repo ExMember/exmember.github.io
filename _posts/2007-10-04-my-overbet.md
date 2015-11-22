@@ -1,26 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: My overbet
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 5
-wordpress_url: http://www.damienburke.org/wordpress/?p=5
 date: '2007-10-04 22:08:00 +0000'
-date_gmt: '2007-10-05 03:08:00 +0000'
 categories:
 - Poker
 tags:
 - hand history
 - cash game
-comments: []
 ---
 <p>Villain opens for $10.</p>
 <p>The amount of the raise doesn't say much. Four-times the blind is a pretty standard opener in this game. Here an extra $2 is added for the new player who had to post an extra big blind.</p>

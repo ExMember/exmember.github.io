@@ -1,24 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: The Fish Theory of Poker Rooms
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 66
-wordpress_url: http://damienburke.org/news/?p=66
 date: '2008-07-07 12:43:53 +0000'
-date_gmt: '2008-07-07 17:43:53 +0000'
 categories:
 - Poker
 tags: []
-comments: []
 ---
 <p>My uncle once told me he wanted to open up a single's bar. He told me about all the things he would do to attract women to the bar. If you can get the women to show up, the men would follow.</p>
 <p>The same philosophy works in poker rooms, live or online.</p>

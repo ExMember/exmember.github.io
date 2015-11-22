@@ -1,26 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Day three: It''s Alive'
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 13
-wordpress_url: http://www.damienburke.org/wordpress/?p=13
 date: '2007-11-09 05:30:00 +0000'
-date_gmt: '2007-11-09 10:30:00 +0000'
 categories:
 - Poker
 tags:
 - records
 - live
-comments: []
 ---
 <p>8 hours. +$465.</p>
 <p>The most astonishing thing about live poker is how much more profitable it is. Everything about live poker says it's should be less profitable:</p>

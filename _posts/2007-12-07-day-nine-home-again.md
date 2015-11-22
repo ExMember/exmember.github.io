@@ -1,27 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Day Nine: Home Again'
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 20
-wordpress_url: http://www.damienburke.org/wordpress/?p=20
 date: '2007-12-07 19:11:00 +0000'
-date_gmt: '2007-12-08 00:11:00 +0000'
 categories:
 - Poker
 tags:
 - cash game
 - records
 - live
-comments: []
 ---
 <p>14 hours, +$633</p>
 <p>After some time off recovering from my trip I'm back into my home LA card room. It's good to be home.</p>

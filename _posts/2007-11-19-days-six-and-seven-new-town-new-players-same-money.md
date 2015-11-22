@@ -1,24 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Days Six and Seven: New Town, New Players, Same Money'
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 18
-wordpress_url: http://www.damienburke.org/wordpress/?p=18
 date: '2007-11-19 16:33:00 +0000'
-date_gmt: '2007-11-19 21:33:00 +0000'
 categories:
 - Poker
 tags: []
-comments: []
 ---
 <p>Day Six: 6 hours, +$477.</p>
 <p>Day Seven: 10 hours, +77.</p>

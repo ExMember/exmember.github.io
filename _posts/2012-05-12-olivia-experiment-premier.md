@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Olivia Experiment premier
 date: '2012-05-12 17:21:17 +0000'
 categories:
@@ -9,7 +8,6 @@ tags:
 - trailer
 - film
 - The Olivia Experiment
-comments: []
 ---
 
 Five pm Thursday June 7th at the Mann Chinese Theater in Hollywood the [Dances

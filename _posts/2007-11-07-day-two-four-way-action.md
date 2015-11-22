@@ -1,26 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Day two: Four-way action'
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 11
-wordpress_url: http://www.damienburke.org/wordpress/?p=11
 date: '2007-11-07 18:53:00 +0000'
-date_gmt: '2007-11-07 23:53:00 +0000'
 categories:
 - Poker
 tags:
 - hand history
 - cash game
-comments: []
 ---
 <p>I raise to $6 from middle with AKo. The table captain calls. A moderately clueful player on the button raises to $22. Then the loose-passive calling station in the small blind calls. You don't see that very often.</p>
 <p>I'm in somthing of a pickle. If I call to try to hit top pair the clueful player and the journalist will likely overcall and I will find myself in a difficult position if I don't hit top pair. If I do hit, it may be hard to get paid off by the cluefull player, or maybe even the calling station.</p>

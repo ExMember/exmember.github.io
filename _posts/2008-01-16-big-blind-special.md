@@ -1,26 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: Big blind special
-author:
-  display_name: Damien
-  login: Damien
-  email: damien@damienburke.org
-  url: http://damienburke.org
-author_login: Damien
-author_email: damien@damienburke.org
-author_url: http://damienburke.org
-wordpress_id: 29
-wordpress_url: http://www.damienburke.org/wordpress/?p=29
 date: '2008-01-16 13:59:00 +0000'
-date_gmt: '2008-01-16 18:59:00 +0000'
 categories:
 - Poker
 tags:
 - hand history
 - online
-comments: []
 ---
 <p>There is a min-raise from middle position. The small-blind calls. I make a very loose call with 62o in the big blind.</p>
 <p>The flop is exactly what I was hoping for, J&acirc;&trade;&brvbar;2&acirc;&trade;&yen;2&acirc;&trade;&brvbar;.</p>
