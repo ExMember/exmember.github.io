@@ -56,6 +56,8 @@ I've developed firmware, desktop applications, and web-based applications. I
 have built two different companies based on software I wrote and I am currently
 working on my first hand-held application.
 
+Occasionally I write about [software development](/software).
+
 # Producer
 
 ![](/images/about-me/pulp-shakespeare.jpg)
