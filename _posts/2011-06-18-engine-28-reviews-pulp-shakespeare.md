@@ -13,11 +13,11 @@ Kerry Lengel interviewed the director of Pulp Shakespeare:
 > started out, in, of all places, on Wikispaces.com, where a page dubbed "Pulp
 > Bard" crowdsourced the rewrite.
 
-> Director Jordan Mansell made some changes of his own for his Fringe version,
+> Director Jordan Monsell made some changes of his own for his Fringe version,
 > produced under the moniker Her Majesty's Secret Players.
 
 > "The through-line for both Tarantino and Shakespeare is interesting characters
-> who like to talk a lot," says Mansell, whose current reading list includes
+> who like to talk a lot," says Monsell, whose current reading list includes
 > Abraham Lincoln, Vampire Slayer.
 
 > "The underlining themes in Shakespeare are love and death and betrayal," he
