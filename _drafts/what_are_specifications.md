@@ -4,9 +4,9 @@
 
 Before we can write a specification we have to know what it is.
 
-Specification is a noun, derived from the verb specify. So a specification is
-the result of specifying, or something that specifies. To specify is to state
-explicitly or in detail.
+Specification is a noun, derived from the verb to specify. To specify is to
+state explicitly or in detail. So a specification is the result of stating
+explicitly or in detail, or something that states explicitly or in detail.
 
 For our purpose let's say a specification is the thing that identifies how a
 piece of software should behave.
@@ -23,10 +23,10 @@ springing into existence with no little or no effort. They are equally easy to
 change, as fluid as thought itself.
 
 This flexibility is also a downside of implicit specifications. When the
-behavior changes constantly and without warning it is very difficult for
-other components or users to effectively use the software component. When the
-specification changes constantly it's difficult to even write code that meets
-the specification, you are trying to hit a moving target.
+behavior changes constantly and without warning it is very difficult for users
+to effectively use the software component. When the specification changes
+constantly it's difficult to even write code that meets the specification, you
+are trying to hit a moving target.
 
 Complicated or confusing specifications exasperate the problems. When implicit
 they change for no other reason than it is not possible to maintain them
