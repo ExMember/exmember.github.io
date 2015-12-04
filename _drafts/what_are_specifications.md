@@ -19,8 +19,8 @@ necessary for a large bureaucratic company, or useful at NASA or a large bank
 where the stakes are really high, but they are a small startup and flying by the
 seat of their pants so they don't need or use any specifications.
 
-I asked Barbara to show me the last function she had written and then I asked
-her what it did.
+I asked Barbara to show me the last function she had written. Then I asked her
+what it did.
 
 "It calculates the distance between the user's eyes."
 
@@ -51,9 +51,10 @@ very frustrated.
 There are several ways this can happen and in most cases all of these factors
 are present to varying extents.
 
-- Alice and Barbara's initial communication could have been flawed
-- Alice's implicit specification could have changed since their communication
-- Barbara's implicit specification could have changed since their communication
+- Alice and Barbara's initial conversation could have failed to communicate
+  Barbara's implicit specification.
+- Alice's implicit specification could have changed since their communication.
+- Barbara's implicit specification could have changed since their communication.
 
 Implicit specifications have a lot of upsides. They are very easy to create,
 springing into existence with no little or no effort. They are equally easy to
@@ -62,12 +63,12 @@ change, as fluid as thought itself.
 This flexibility is also a downside of implicit specifications. When the
 behavior changes constantly and without warning it is very difficult for users
 to effectively use the software. When the specification changes constantly it's
-difficult to write code that meets the specification, you are trying to hit a
+difficult to write code that meets the specification; you are trying to hit a
 moving target.
 
-Complicated or confusing specifications exasperate the problems. When implicit,
-they change for no other reason than it is not possible to maintain them
-completely in working memory.
+Complex or confusing specifications exasperate the problems. When implicit, they
+change for no other reason than it is not possible to maintain them completely
+in working memory.
 
 Keeping specifications implicit also makes it easy to overlook problems such as
 ambiguity, incompleteness, or inconsistency.
@@ -88,12 +89,12 @@ specification that is no longer implicit, but written in a natural language.
 ## Natural language specification
 
 Alice has an idea about how a piece of software should work. This time she
-writes it down in order to avoid all the problems her and Barbara have had with
-implicit specifications. She gives her written, natural language specification
-to Barbara who goes off and writes the code.
+writes it down in order to avoid all the problems they had had with implicit
+specifications. She gives her written, natural language specification to Barbara
+who goes off and writes the code.
 
 Barbara brings the code she has written back to Alice and they discover that it
-doesn't meet her idea of that the code should do. Both Alice and Barbara are
+doesn't meet Alice's idea of that the code should do. Both Alice and Barbara are
 very frustrated.
 
 One of the curious characteristics of natural languages is that they are
@@ -114,10 +115,10 @@ any ambiguities.
 Alice has an idea about how a piece of software should work. She talks about it
 with Barbara and writes it down in natural language, but this time she tries
 very hard to be extremely precise and eliminate any ambiguities. This is a lot
-of work but when she's happy with the result she give it to Barbara who goes off
-and writes the code.
+of work but when she's happy with the result she gives it to Barbara who goes
+off and writes the code.
 
-Barbara has a very difficult time, these specifications are very difficult to
+Barbara has a difficult time, these specifications are very difficult to
 understand, but she figures it out and writes the code and brings it back to
 Alice. Alice and Barbara discover that the software doesn't do what Barbara
 intended. Alice and Barbara are both very frustrated.
@@ -125,11 +126,11 @@ intended. Alice and Barbara are both very frustrated.
 There are several ways this can happen and in most cases multiple factors are
 present to varying extent.
 
-- Despite her best effort, Alice's specification may still be ambiguous
+- Despite her best effort, Alice's specification may still be ambiguous.
 - In an effort to be precise and unambiguous Alice's specification may not say
-  what she intended
+  what she intended.
 - In an effort to be precise and unambiguous, Alice's spec may have been so
-  difficult to read that Barbara misinterpreted it
+  difficult to read that Barbara misinterpreted it.
 
 Alice and Barbara work very hard to be able to read and write precise and
 unambiguous specifications in natural language, but this is a fundamentally
@@ -140,6 +141,21 @@ still not completely precise and unambiguous.
 
 ## Executable specifications
 
+Alice has an idea about how a piece of software should work. She talks about it
+with Barbara and they work on writing a specification. They are both very
+frustrated by trying to be precise, complete, and unambiguous in natural
+language and the legalese-like writing that results.
+
+Barbara realizes she writes precise and unambiguous language all day, and while
+it's difficult to do in English, in computer languages it's perfectly natural.
+
+
+Alice and Barbara write this specification in computer code. It as precise,
+unambiguous, and like the rest of Barbara's code, easy to understand.
+
+TODO: Alice and Barbara always work together on specifications
+
+TODO: English, not "natural language" Probably lots more concreteness in examples
 Let's talk about how to write specifications.
 
 You can write them in English if you like. But English is a very imprecise
