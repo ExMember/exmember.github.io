@@ -40,21 +40,8 @@ implicit specification.
 
 ## Implicit specifications
 
-Alice has an idea about how a piece of software should work. This is an implicit
-specification. Alice tries to communicate this specification to Barbara. Barbara
-now has an idea of how the code should work so she goes off and writes it.
-
-Barbara brings the code she has written back to Alice and they discovers it
-doesn't meet her idea of what the code should do. Both Alice and Barbara are
-very frustrated.
-
-There are several ways this can happen and in most cases all of these factors
-are present to varying extents.
-
-- Alice and Barbara's initial conversation could have failed to communicate
-  Barbara's implicit specification.
-- Alice's implicit specification could have changed since their communication.
-- Barbara's implicit specification could have changed since their communication.
+An implicit specification is any specification that doesn't exist outside of
+someone's head.
 
 Implicit specifications have a lot of upsides. They are very easy to create,
 springing into existence with no little or no effort. They are equally easy to
@@ -78,82 +65,35 @@ in language is to make them explicit. If the communication is not captured,
 for example a water-cooler conversation, then the explicit specification is lost
 forever and what you have left is multiple implicit specifications.
 
-Alice and Barbara recognize what happened and come up with a plan to write down
-what it is the code is supposed to do so that they know they have the same idea
-of what it's supposed to do and that idea doesn't change without them knowing
-it.
+## Plain English specification
 
-They write in the same language they communicate in and the result is a
-specification that is no longer implicit, but written in a natural language.
+A plain English specification is a specification written in plain English.[0]
 
-## Natural language specification
-
-Alice has an idea about how a piece of software should work. This time she
-writes it down in order to avoid all the problems they had had with implicit
-specifications. She gives her written, natural language specification to Barbara
-who goes off and writes the code.
-
-Barbara brings the code she has written back to Alice and they discover that it
-doesn't meet Alice's idea of that the code should do. Both Alice and Barbara are
-very frustrated.
-
-One of the curious characteristics of natural languages is that they are
-ambiguous. For example Alice may have written that something happens bi-weekly.
-In Alice's code it happens once every 3.5 days, but Alice intended for it to
-happen every fourteen days.
-
-Alice and Barbara agree to talk about the specifications before Barbara goes off
-and writes the code. This goes a long way towards reducing misunderstandings,
-but it does not eliminate them.
-
-After some more discussion, Alice and Barbara further agree that Alice should be
-much more careful and precise when writing her specifications so as to eliminate
-any ambiguities.
+One of the curious characteristics of English is that it is ambiguous and
+imprecise. For example, if I say something is biweekly, does that mean it
+happens every three and a half days or every fourteen days? (TODO: imprecise
+example)
 
 ## Legalese specifications
 
-Alice has an idea about how a piece of software should work. She talks about it
-with Barbara and writes it down in natural language, but this time she tries
-very hard to be extremely precise and eliminate any ambiguities. This is a lot
-of work but when she's happy with the result she gives it to Barbara who goes
-off and writes the code.
+Eliminating ambiguities and ensuring precision in language is the same work a
+lawyer does when writing a contract or other legal document and the outcomes are
+very similar. I call these legalese specifications.
 
-Barbara has a difficult time, these specifications are very difficult to
-understand, but she figures it out and writes the code and brings it back to
-Alice. Alice and Barbara discover that the software doesn't do what Barbara
-intended. Alice and Barbara are both very frustrated.
-
-There are several ways this can happen and in most cases multiple factors are
-present to varying extent.
-
-- Despite her best effort, Alice's specification may still be ambiguous.
-- In an effort to be precise and unambiguous Alice's specification may not say
-  what she intended.
-- In an effort to be precise and unambiguous, Alice's spec may have been so
-  difficult to read that Barbara misinterpreted it.
-
-Alice and Barbara work very hard to be able to read and write precise and
-unambiguous specifications in natural language, but this is a fundamentally
-difficult problem. In the general case people who have the job of writing
-precise and unambiguous language are known as lawyers and their output is known
-as legalese; which is famous for being incredibly difficult to understand while
-still not completely precise and unambiguous.
+Even for experts, writing and reading legalese takes considerable effort. And
+after all their training, experience, expertise, and effort, the existence of
+courts demonstrates that the writing is still not always as precise or
+unambiguous as needed.
 
 ## Executable specifications
 
-Alice has an idea about how a piece of software should work. She talks about it
-with Barbara and they work on writing a specification. They are both very
-frustrated by trying to be precise, complete, and unambiguous in natural
-language and the legalese-like writing that results.
+An executable specification is computer code that specifies how another computer
+program works.
 
-Barbara realizes she writes precise and unambiguous language all day, and while
-it's difficult to do in English, in computer languages it's perfectly natural.
+Executable specifications are precise and unambiguous by their nature as
+computer code.
 
-
-Alice and Barbara write this specification in computer code. It as precise,
-unambiguous, and like the rest of Barbara's code, easy to understand.
-
-TODO: Alice and Barbara always work together on specifications
+==
 
 TODO: English, not "natural language" Probably lots more concreteness in examples
 Let's talk about how to write specifications.
@@ -173,3 +113,6 @@ Write your specifications, in executable software, and then use that software to
 drive your development.
 
 I call it specification-driven development!
+
+[0] Everything I say about plain English specifications is most likely true
+about specifications written in any natural language.
