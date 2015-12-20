@@ -1,4 +1,4 @@
-# How to Write Specifications
+# Types of Specifications
 
 ## What is a specification?
 
@@ -13,49 +13,35 @@ piece of software should behave.
 
 ## No specifications
 
-Alice and Barbara don't use specifications, at least that's what they told me.
-All that overhead was too much work and unpleasant to boot. It might be
-necessary for a large bureaucratic company, or useful at NASA or a large bank
-where the stakes are really high, but they are a small startup and flying by the
-seat of their pants so they don't need or use any specifications.
+For a lot of people software specifications have a bad rap. They are considered
+an unpleasant way to add a lot of overhead to development and avoidable unless
+you are part of a large bureaucracy or somewhere the stakes are exceptionally
+high, like NASA or a large bank.
 
-I asked Barbara to show me the last function she had written. Then I asked her
-what it did.
-
-"It calculates the distance between the user's eyes."
-
-I asked Alice what the application they were working on does.
-
-"It rates your funny-face making skills relative to your friends."
-
-Alice and Barbara did have specifications. Barbara knew what her function was
-supposed to do. Alice knew what the application was supposed to do. Those are
-specifications.
-
-Specifications are unavoidable. If you don't know what it does how could you
-possibly know what to write? How would you know when you are done?
-
-When a specification is not completely captured or communicated I call it an
-implicit specification.
+But specifications are unavoidable. If you don't know what a method does how
+could you possibly know how to write it? How would you know when you are done?
+If you don't know what the application is supposed to do, how do you know if
+it is doing it right?
 
 ## Implicit specifications
 
-An implicit specification is any specification that doesn't exist outside of
-someone's head.
+When a specification is not completely captured or communicated I call it an
+implicit specification.  An implicit specification is any specification that
+doesn't exist outside of someone's head.
 
 Implicit specifications have a lot of upsides. They are very easy to create,
 springing into existence with no little or no effort. They are equally easy to
 change, as fluid as thought itself.
 
-This flexibility is also a downside of implicit specifications. When the
-behavior changes constantly and without warning it is very difficult for users
-to effectively use the software. When the specification changes constantly it's
-difficult to write code that meets the specification; you are trying to hit a
-moving target.
+This flexibility is also the downside of implicit specifications. When the
+behavior changes constantly and without warning it is very difficult to
+effectively use the software. When the specification changes constantly it's
+difficult to write code that meets the it; you are trying to hit a moving
+target.
 
-Complex or confusing specifications exasperate the problems. When implicit, they
-change for no other reason than it is not possible to maintain them completely
-in working memory.
+Large, complicated, or confusing specifications exasperate the problem. When
+implicit, these specifications change for no other reason than it is not
+possible to maintain them completely in working memory.
 
 Keeping specifications implicit also makes it easy to overlook problems such as
 ambiguity, incompleteness, or inconsistency.
@@ -71,19 +57,19 @@ A plain English specification is a specification written in plain English.[0]
 
 One of the curious characteristics of English is that it is ambiguous and
 imprecise. For example, if I say something is biweekly, does that mean it
-happens every three and a half days or every fourteen days? (TODO: imprecise
-example)
+happens every three-and-a-half days or every fourteen days? If I say your
+account is locked after too many failed login attempts, how many is too many?
 
 ## Legalese specifications
 
 Eliminating ambiguities and ensuring precision in language is the same work a
-lawyer does when writing a contract or other legal document and the outcomes are
-very similar. I call these legalese specifications.
+lawyer does when writing a contract or other legal document. The outcomes are
+are also very similar. I call these legalese specifications.
 
 Even for experts, writing and reading legalese takes considerable effort. And
 after all their training, experience, expertise, and effort, the existence of
-courts demonstrates that the writing is still not always as precise or
-unambiguous as needed.
+courts demonstrates that legalese is still not always as precise or unambiguous
+as needed.
 
 ## Executable specifications
 
@@ -93,26 +79,20 @@ program works.
 Executable specifications are precise and unambiguous by their nature as
 computer code.
 
-==
+Executable specifications are also cheap to keep around for regression testing.
+A computer can test your application in seconds or minutes against a
+specification that a human would spend days or weeks on.
 
-TODO: English, not "natural language" Probably lots more concreteness in examples
-Let's talk about how to write specifications.
+## Recommendations
 
-You can write them in English if you like. But English is a very imprecise
-language. Anything you write will be easy to misinterpret and fail to include
-some details.
-
-If you try to write very formal English you will end up with what we call
-legalese. It will be incredibly difficult to read and write and it will still be
-subject to misinterpretation and missing details.
-
-Write your specifications in code. Executable software is the only effective way
-to describe the behavior of executable software.
+You can't actually do without specifications. My recommendation is that you
+write them down and you write them in as computer code. Executable software is
+the only effective way to describe the behavior of executable software.
 
 Write your specifications, in executable software, and then use that software to
 drive your development.
 
-I call it specification-driven development!
+I call it specification-driven development.
 
 [0] Everything I say about plain English specifications is most likely true
 about specifications written in any natural language.
