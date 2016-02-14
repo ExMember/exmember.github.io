@@ -13,21 +13,30 @@ piece of software should behave.
 
 ## No specifications
 
-For a lot of people software specifications have a bad rap. They are considered
-an unpleasant way to add a lot of overhead to development and avoidable unless
-you are part of a large bureaucracy or somewhere the stakes are exceptionally
-high, like NASA or a large bank.
+"We don't have have specifications, that's too much overhead. That's fine if
+you're at NASA or Chase but we're a lean mean startup that has to add features
+fast."
 
-But specifications are unavoidable. If you don't know what a method does how
-could you possibly know how to write it? How would you know when you are done?
-If you don't know what the application is supposed to do, how do you know if
-it is doing it right?
+"We'll what feature are you working on now?"
+
+"I'm adding a subscription option that gives users a regular allotment of
+credits."
+
+"That's a specification."
+
+It is not possible to have no specifications. If you don't know what a method
+does how could you possibly know how to write it? If you don't know what your
+application is supposed to do, how do you make it do that?
 
 ## Implicit specifications
 
-When a specification is not completely captured or communicated I call it an
-implicit specification.  An implicit specification is any specification that
-doesn't exist outside of someone's head.
+"Yeah, we know the software is doing, but it's not like we have any actual
+specification document."
+
+"You have implicit specifications."
+
+An implicit specification is any specification that doesn't exist outside of
+someone's head.
 
 Implicit specifications have a lot of upsides. They are very easy to create,
 springing into existence with no little or no effort. They are equally easy to
@@ -53,14 +62,29 @@ forever and what you have left is multiple implicit specifications.
 
 ## Plain English specification
 
+"In order to avoid those type of confusions we write our specs down."
+
+"What spec are you working on implementing now?"
+
+"I'll read it to you, 'Ensure subscribers each have 100 credits biweekly.'"
+
 A plain English specification is a specification written in plain English.[0]
 
 One of the curious characteristics of English is that it is ambiguous and
-imprecise. For example, if I say something is biweekly, does that mean it
-happens every three-and-a-half days or every fourteen days? If I say your
-account is locked after too many failed login attempts, how many is too many?
+imprecise. For example, does this happens twice a week or every two weeks? Do
+subscribers get their credit balance set to a total of 100 no matter what the
+previous value was or is it incremented 100 more than the previous balance?
 
 ## Legalese specifications
+
+"We work very hard to avoid ambiguity in our specs."
+
+"Oh? What spec are you working on now?"
+
+"It says, 'Whereas user a subscriber has paid a monthly fee, when the month or
+mid-month period has ended, the subscriber shall ….'"
+
+" — never mind."
 
 Eliminating ambiguities and ensuring precision in language is the same work a
 lawyer does when writing a contract or other legal document. The outcomes are
