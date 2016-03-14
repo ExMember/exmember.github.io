@@ -2,14 +2,16 @@
 
 ## What is a specification?
 
-Before we can write a specification we have to know what it is.
+Before we can talk about specifications we have to know what they are.
 
 Specification is a noun, derived from the verb to specify. To specify is to
-state explicitly or in detail. So a specification is the result of stating
-explicitly or in detail, or something that states explicitly or in detail.
+state explicitly or in detail. Therefore a specification is the result of
+stating explicitly or in detail, or something that states explicitly or in
+detail.
 
-For our purpose let's say a specification is the thing that identifies how a
-piece of software should behave.
+Every software team has their own unique points of view, cultural wisdom, and
+shared practices regarding specifications but they can be grouped into a few
+categories.
 
 ## No specifications
 
@@ -17,7 +19,7 @@ piece of software should behave.
 you're at NASA or Chase but we're a lean mean startup that has to add features
 fast."
 
-"We'll what feature are you working on now?"
+"What feature are you working on now?"
 
 "I'm adding a subscription option that gives users a regular allotment of
 credits."
@@ -30,7 +32,7 @@ application is supposed to do, how do you make it do that?
 
 ## Implicit specifications
 
-"Yeah, we know the software is doing, but it's not like we have any actual
+"Yeah, we know what the software is doing, but it's not like we have any actual
 specification document."
 
 "You have implicit specifications."
@@ -82,9 +84,9 @@ previous value was or is it incremented 100 more than the previous balance?
 "Oh? What spec are you working on now?"
 
 "It says, 'Whereas user a subscriber has paid a monthly fee, when the month or
-mid-month period has ended, the subscriber shall ….'"
+mid-month period has ended, and the subscriber as at least -- '"
 
-" — never mind."
+" —- never mind."
 
 Eliminating ambiguities and ensuring precision in language is the same work a
 lawyer does when writing a contract or other legal document. The outcomes are
@@ -103,15 +105,15 @@ program works.
 Executable specifications are precise and unambiguous by their nature as
 computer code.
 
-Executable specifications are also cheap to keep around for regression testing.
-A computer can test your application in seconds or minutes against a
-specification that a human would spend days or weeks on.
+Executable specifications are very useful to keep for regression testing.  A
+computer can test your application in seconds or minutes against a specification
+that a human would spend days or weeks on.
 
 ## Recommendations
 
 You can't actually do without specifications. My recommendation is that you
-write them down and you write them in as computer code. Executable software is
-the only effective way to describe the behavior of executable software.
+write them down and you write them as computer code. Executable software is the
+only effective way to describe the behavior of executable software.
 
 Write your specifications, in executable software, and then use that software to
 drive your development.
