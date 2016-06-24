@@ -70,3 +70,8 @@ During the 2012-2013 season I was the field producer for the World Series of
 Poker Circuit final table broadcasts on ESPN. Over the course of six months we
 went to thirteen different locations in eleven states (and one Canadian
 province) creating as-live broadcast of tournaments finales.
+
+# Writer
+
+I've written screenplays, TV shows, thousands of
+[tweets](https://twitter.com/exmember) (some of them clever), this blurb, and everything else published [here](/everything).
