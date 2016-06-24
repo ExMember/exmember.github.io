@@ -83,10 +83,10 @@ previous value was or is it incremented 100 more than the previous balance?
 
 "Oh? What spec are you working on now?"
 
-"It says, 'Whereas user a subscriber has paid a monthly fee, when the month or
-mid-month period has ended, and the subscriber as at least -- '"
+"It says, 'Whereas a user has paid a monthly subscription fee, when the month or
+mid-month period has ended, and the subscriber has at least -- '"
 
-" —- never mind."
+"-- never mind."
 
 Eliminating ambiguities and ensuring precision in language is the same work a
 lawyer does when writing a contract or other legal document. The outcomes are
@@ -105,15 +105,15 @@ program works.
 Executable specifications are precise and unambiguous by their nature as
 computer code.
 
-Executable specifications are very useful to keep for regression testing.  A
+Executable specifications are very useful to keep for regression testing. A
 computer can test your application in seconds or minutes against a specification
 that a human would spend days or weeks on.
 
 ## Recommendations
 
 You can't actually do without specifications. My recommendation is that you
-write them down and you write them as computer code. Executable software is the
-only effective way to describe the behavior of executable software.
+write them down and that you write them as computer code. Executable software is
+the only effective way to describe the behavior of executable software.
 
 Write your specifications, in executable software, and then use that software to
 drive your development.
