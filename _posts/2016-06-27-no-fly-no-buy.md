@@ -37,7 +37,7 @@ and are released back into the public. If the criminal justice system has
 determined that this person is no longer a threat to the public then there is
 no need to continue to restrict their rights.
 
-Sen. Collins' proposal have none of these safeguards which makes it not only
+Sen. Collins' proposal has none of these safeguards which makes it not only
 incompatible with the Constitution, but worse; an assault on due process, rule
 of law, and the fundamental rights of people who have never been convicted or
 even charged with a crime.
