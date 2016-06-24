@@ -1,4 +1,9 @@
-# Types of Specifications
+---
+title: Types of Specifications
+category:
+  - software
+tags: []
+---
 
 ## What is a specification?
 
@@ -124,8 +129,6 @@ I call it specification-driven development.
 
 [0] Everything I say about plain English specifications is most likely true
 about specifications written in any natural language.
-
-<hr/>
 
 This essay was originally written for [Ministry of
 Velocity](http://www.ministryofvelocity.com/) and was first published
