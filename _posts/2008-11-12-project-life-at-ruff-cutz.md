@@ -1,7 +1,7 @@
 ---
 title: 'Project: Life at Ruff Cutz'
 date: '2008-11-12 23:44:03 +0000'
-categories:
+category:
 - acting
 tags:
 - screening

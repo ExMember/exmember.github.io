@@ -1,7 +1,7 @@
 ---
 title: On the Way to Work
 date: '2009-03-26 20:24:49 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

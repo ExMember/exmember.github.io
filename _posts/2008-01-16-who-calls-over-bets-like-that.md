@@ -1,7 +1,7 @@
 ---
 title: Who calls over-bets like that?
 date: '2008-01-16 13:17:00 +0000'
-categories:
+category:
 - poker
 tags:
 - hand history

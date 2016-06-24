@@ -1,7 +1,7 @@
 ---
 title: Suit Mnemonics
 date: '2007-11-07 19:09:00 +0000'
-categories:
+category:
 - poker
 tags: []
 ---

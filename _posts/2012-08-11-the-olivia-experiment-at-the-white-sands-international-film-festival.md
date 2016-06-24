@@ -1,7 +1,7 @@
 ---
 title: The Olivia Experiment at the White Sands International Film Festival
 date: '2012-08-11 12:19:03 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

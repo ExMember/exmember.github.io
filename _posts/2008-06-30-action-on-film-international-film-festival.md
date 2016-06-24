@@ -1,7 +1,7 @@
 ---
 title: Action on Film International Film Festival
 date: '2008-06-30 03:47:30 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

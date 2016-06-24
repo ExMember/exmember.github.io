@@ -1,7 +1,7 @@
 ---
 title: Pulp Shakespeare
 date: '2011-05-05 08:44:12 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

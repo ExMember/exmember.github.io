@@ -1,7 +1,7 @@
 ---
 title: 'Day Eleven: Discipline? What discipline?'
 date: '2007-12-18 05:51:00 +0000'
-categories:
+category:
 - poker
 tags:
 - cash game

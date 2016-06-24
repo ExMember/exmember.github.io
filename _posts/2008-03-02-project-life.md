@@ -1,7 +1,7 @@
 ---
 title: 'Project: Life'
 date: '2008-03-02 12:00:41 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

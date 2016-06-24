@@ -1,7 +1,7 @@
 ---
 title: Olivia Experiment in Westside Today
 date: '2012-05-15 16:34:30 +0000'
-categories:
+category:
 - acting
 tags:
 - film

@@ -1,7 +1,7 @@
 ---
 title: '"3 Monkeys" shoot'
 date: '2007-08-05 12:00:45 +0000'
-categories:
+category:
 - acting
 ---
 "This scene in 12 Monkey's really belongs in Eron: Smartest Men in the Room."

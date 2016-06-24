@@ -1,7 +1,7 @@
 ---
 title: Another edition of "Where's Duke's Gang?"
 date: '2014-03-22 10:54:58 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

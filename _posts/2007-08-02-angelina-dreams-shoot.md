@@ -1,7 +1,7 @@
 ---
 title: '"Angelina Dreams" shoot'
 date: '2007-08-02 12:00:40 +0000'
-categories:
+category:
 - acting
 ---
 Just shot the very intense short "Angelina Dreams". I had a great time, and I

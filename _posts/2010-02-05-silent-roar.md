@@ -1,7 +1,7 @@
 ---
 title: Silent Roar
 date: '2010-02-05 16:31:30 +0000'
-categories:
+category:
 - acting
 tags:
 - theater

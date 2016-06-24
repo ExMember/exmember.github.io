@@ -1,7 +1,7 @@
 ---
 title: Represented
 date: '2008-06-22 18:49:20 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

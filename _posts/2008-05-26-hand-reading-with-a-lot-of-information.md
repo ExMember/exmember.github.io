@@ -1,7 +1,7 @@
 ---
 title: Hand Reading Example with a lot of Information
 date: '2008-05-26 20:58:17 +0000'
-categories:
+category:
 - poker
 tags: []
 ---

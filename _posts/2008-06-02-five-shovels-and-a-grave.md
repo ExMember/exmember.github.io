@@ -1,7 +1,7 @@
 ---
 title: Five Shovels and a Grave
 date: '2008-06-02 12:07:02 +0000'
-categories:
+category:
 - poker
 tags: []
 ---

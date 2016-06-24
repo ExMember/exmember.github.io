@@ -1,7 +1,7 @@
 ---
 title: Landing of the Urban Rebels
 date: '2012-12-12 14:34:07 +0000'
-categories:
+category:
 - acting
 tags:
 - Landing of the Urban Rebels

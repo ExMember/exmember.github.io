@@ -1,7 +1,7 @@
 ---
 title: '"Ianna''s Dance" shoot'
 date: '2008-03-22 12:00:46 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

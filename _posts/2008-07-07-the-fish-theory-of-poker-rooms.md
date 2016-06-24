@@ -1,7 +1,7 @@
 ---
 title: The Fish Theory of Poker Rooms
 date: '2008-07-07 12:43:53 +0000'
-categories:
+category:
 - poker
 tags: []
 ---

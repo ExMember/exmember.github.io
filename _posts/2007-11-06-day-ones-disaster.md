@@ -1,7 +1,7 @@
 ---
 title: Day one's disaster
 date: '2007-11-06 05:00:00 +0000'
-categories:
+category:
 - poker
 tags:
 - hand history

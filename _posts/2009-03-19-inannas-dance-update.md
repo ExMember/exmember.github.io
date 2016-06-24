@@ -1,7 +1,7 @@
 ---
 title: Inanna's Dance update
 date: '2009-03-19 15:00:21 +0000'
-categories:
+category:
 - acting
 tags:
 - Ianna's Dance

@@ -1,7 +1,7 @@
 ---
 title: 'Day three: It''s Alive'
 date: '2007-11-09 05:30:00 +0000'
-categories:
+category:
 - poker
 tags:
 - records

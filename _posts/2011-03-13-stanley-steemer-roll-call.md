@@ -1,7 +1,7 @@
 ---
 title: Stanley Steemer "Roll Call"
 date: '2011-03-13 02:06:09 +0000'
-categories:
+category:
 - acting
 tags:
 - shoot

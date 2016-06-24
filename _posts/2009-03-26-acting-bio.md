@@ -1,7 +1,7 @@
 ---
 title: Acting Bio
 date: '2009-03-26 15:16:39 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

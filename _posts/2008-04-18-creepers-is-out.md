@@ -1,7 +1,7 @@
 ---
 title: '"Creepers" is out'
 date: '2008-04-18 12:00:47 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

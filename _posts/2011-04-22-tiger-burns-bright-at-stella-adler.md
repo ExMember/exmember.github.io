@@ -1,7 +1,7 @@
 ---
 title: "Tiger Burns Bright at Stella Adler"
 date: '2011-04-22 10:50:28 +0000'
-categories:
+category:
 - acting
 tags:
 - theater

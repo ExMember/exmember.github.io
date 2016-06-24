@@ -1,7 +1,7 @@
 ---
 title: Omaha 8 Hand Selection
 date: '2008-07-14 12:37:35 +0000'
-categories:
+category:
 - poker
 tags:
 - hand history

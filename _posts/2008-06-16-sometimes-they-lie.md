@@ -1,7 +1,7 @@
 ---
 title: Sometimes They Lie
 date: '2008-06-16 12:04:44 +0000'
-categories:
+category:
 - poker
 tags: []
 ---

@@ -1,7 +1,7 @@
 ---
 title: Tiger Tiger Burning Bright
 date: '2011-02-06 23:43:20 +0000'
-categories:
+category:
 - acting
 tags:
 - theater

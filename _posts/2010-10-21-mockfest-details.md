@@ -1,7 +1,7 @@
 ---
 title: Mockfest Details
 date: '2010-10-21 12:28:39 +0000'
-categories:
+category:
 - acting
 tags:
 - screening

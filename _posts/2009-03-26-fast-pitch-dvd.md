@@ -1,7 +1,7 @@
 ---
 title: Fast Pitch DVD
 date: '2009-03-26 12:42:28 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

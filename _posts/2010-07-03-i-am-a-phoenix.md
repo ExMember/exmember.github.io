@@ -1,7 +1,7 @@
 ---
 title: I am a Phoenix
 date: '2010-07-03 10:59:33 +0000'
-categories:
+category:
 - acting
 tags:
 - commercial

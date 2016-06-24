@@ -1,7 +1,7 @@
 ---
 title: '"Pax Romana" recording'
 date: '2008-04-17 12:00:08 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

@@ -1,7 +1,7 @@
 ---
 title: Hellogoodbye "Baby it's a Fact" video
 date: '2008-03-01 12:00:01 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

@@ -1,7 +1,7 @@
 ---
 title: University of Phoenix still
 date: '2010-10-04 08:17:23 +0000'
-categories:
+category:
 - acting
 tags:
 - commercial

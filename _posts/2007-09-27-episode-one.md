@@ -1,7 +1,7 @@
 ---
 title: Episode one
 date: '2007-09-27 04:03:00 +0000'
-categories:
+category:
 - poker
 tags: []
 ---

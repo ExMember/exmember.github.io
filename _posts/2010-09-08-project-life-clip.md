@@ -1,7 +1,7 @@
 ---
 title: '"Project: Life" clip'
 date: '2010-09-08 15:50:38 +0000'
-categories:
+category:
 - acting
 tags:
 - 'Project: Life'

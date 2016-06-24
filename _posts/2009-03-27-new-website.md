@@ -1,7 +1,7 @@
 ---
 title: New Website
 date: '2009-03-27 13:35:17 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

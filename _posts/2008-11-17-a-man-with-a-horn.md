@@ -1,7 +1,7 @@
 ---
 title: '"A Man with a Horn"'
 date: '2008-11-17 17:00:28 +0000'
-categories:
+category:
 - acting
 tags:
 - CSI

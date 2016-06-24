@@ -1,7 +1,7 @@
 ---
 title: See What they See
 date: '2008-06-23 11:54:07 +0000'
-categories:
+category:
 - poker
 tags: []
 ---

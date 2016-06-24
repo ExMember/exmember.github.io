@@ -1,7 +1,7 @@
 ---
 title: '"I Do and I Don''t" shoot'
 date: '2008-11-13 00:03:28 +0000'
-categories:
+category:
 - acting
 tags:
 - I Do and I Don't

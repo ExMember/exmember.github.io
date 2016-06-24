@@ -1,7 +1,7 @@
 ---
 title: Glitches shoot
 date: '2008-12-14 23:04:39 +0000'
-categories:
+category:
 - acting
 tags:
 - shoot

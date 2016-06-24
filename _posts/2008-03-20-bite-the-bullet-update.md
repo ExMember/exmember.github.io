@@ -1,7 +1,7 @@
 ---
 title: '"Bite the Bullet" update'
 date: '2008-03-20 12:00:02 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

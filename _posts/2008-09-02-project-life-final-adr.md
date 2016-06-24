@@ -1,7 +1,7 @@
 ---
 title: '"Project: Life" final ADR'
 date: '2008-09-02 13:15:03 +0000'
-categories:
+category:
 - acting
 tags:
 - 'Project: Life'

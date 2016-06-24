@@ -1,7 +1,7 @@
 ---
 title: '"Gambler''s Anonymous" coming soon'
 date: '2008-06-01 22:07:08 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

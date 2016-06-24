@@ -1,7 +1,7 @@
 ---
 title: '"Creepers" West Coast Premier'
 date: '2008-09-01 09:01:10 +0000'
-categories:
+category:
 - acting
 tags:
 - screening

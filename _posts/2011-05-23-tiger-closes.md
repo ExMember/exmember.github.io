@@ -1,7 +1,7 @@
 ---
 title: Tiger closes
 date: '2011-05-23 17:20:07 +0000'
-categories:
+category:
 - acting
 tags:
 - theater

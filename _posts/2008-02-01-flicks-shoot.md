@@ -1,7 +1,7 @@
 ---
 title: '"Flicks" shoot'
 date: '2008-02-01 12:00:13 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

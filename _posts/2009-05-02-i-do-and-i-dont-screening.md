@@ -1,7 +1,7 @@
 ---
 title: '"I Do and I Don''t" Screening'
 date: '2009-05-02 13:22:13 +0000'
-categories:
+category:
 - acting
 tags:
 - screening

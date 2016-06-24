@@ -1,7 +1,7 @@
 ---
 title: Pulp Shakespeare opening
 date: '2011-06-10 09:00:58 +0000'
-categories:
+category:
 - acting
 tags:
 - theater

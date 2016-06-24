@@ -1,7 +1,7 @@
 ---
 title: '"Creepers" shoot'
 date: '2007-09-23 12:00:44 +0000'
-categories:
+category:
 - acting
 ---
 An extra-terrestial invasion is causing a disturbance in a local grocery store.

@@ -1,7 +1,7 @@
 ---
 title: Meet the Cast of Tiger Tiger Burning Bright
 date: '2011-03-14 00:27:42 +0000'
-categories:
+category:
 - acting
 tags:
 - trailer

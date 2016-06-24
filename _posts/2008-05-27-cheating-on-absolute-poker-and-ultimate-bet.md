@@ -1,7 +1,7 @@
 ---
 title: Cheating on Absolute Poker and Ultimate Bet
 date: '2008-05-27 05:47:29 +0000'
-categories:
+category:
 - poker
 tags:
 - online

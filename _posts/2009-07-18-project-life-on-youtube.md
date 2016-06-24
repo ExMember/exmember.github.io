@@ -1,7 +1,7 @@
 ---
 title: 'Project: Life on YouTube'
 date: '2009-07-18 10:51:59 +0000'
-categories:
+category:
 - acting
 tags:
 - 'Project: Life'

@@ -1,7 +1,7 @@
 ---
 title: Sometimes They Tell the Truth
 date: '2008-06-09 12:05:39 +0000'
-categories:
+category:
 - poker
 tags: []
 ---

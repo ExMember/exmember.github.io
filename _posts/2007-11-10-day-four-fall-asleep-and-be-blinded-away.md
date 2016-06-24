@@ -1,7 +1,7 @@
 ---
 title: 'Day Four: Fall Asleep and Be Blinded Away'
 date: '2007-11-10 07:33:00 +0000'
-categories:
+category:
 - poker
 tags:
 - cash game

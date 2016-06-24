@@ -1,7 +1,7 @@
 ---
 title: Upcoming CSI shoot
 date: '2008-09-09 22:40:47 +0000'
-categories:
+category:
 - acting
 tags:
 - CSI

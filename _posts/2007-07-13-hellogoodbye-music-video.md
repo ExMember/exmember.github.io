@@ -1,7 +1,7 @@
 ---
 title: Hellogoodbye Music Video
 date: '2007-07-13 12:00:41 +0000'
-categories:
+category:
 - acting
 ---
 Just shot a music video for [Hellogoodbye](http://www.hellogoodbye.net/)'s hit

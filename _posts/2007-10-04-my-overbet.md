@@ -1,7 +1,7 @@
 ---
 title: My overbet
 date: '2007-10-04 22:08:00 +0000'
-categories:
+category:
 - poker
 tags:
 - hand history

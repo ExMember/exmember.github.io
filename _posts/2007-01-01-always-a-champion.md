@@ -1,7 +1,7 @@
 ---
 title: Always a Champion
 date: '2007-01-01 11:00:33 +0000'
-categories:
+category:
 - acting
 ---
 Champion's new site [Always a

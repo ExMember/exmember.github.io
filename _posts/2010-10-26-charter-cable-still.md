@@ -1,7 +1,7 @@
 ---
 title: Charter Cable Still
 date: '2010-10-26 10:35:58 +0000'
-categories:
+category:
 - acting
 tags:
 - commercial

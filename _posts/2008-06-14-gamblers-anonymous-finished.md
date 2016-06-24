@@ -1,7 +1,7 @@
 ---
 title: '"Gambler''s Anonymous" finished'
 date: '2008-06-14 19:52:07 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

@@ -1,7 +1,7 @@
 ---
 title: Phoenix Airing
 date: '2010-07-17 22:40:52 +0000'
-categories:
+category:
 - acting
 tags:
 - commercial

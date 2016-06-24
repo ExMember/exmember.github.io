@@ -1,7 +1,7 @@
 ---
 title: Industrial shoot
 date: '2008-05-13 20:21:18 +0000'
-categories:
+category:
 - acting
 tags: []
 ---

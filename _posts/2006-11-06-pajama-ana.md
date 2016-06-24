@@ -1,7 +1,7 @@
 ---
 title: Pajama Ana
 date: '2006-11-06 12:00:43 +0000'
-categories:
+category:
 - acting
 ---
 Come see me in "Pajama Ana: The Princess of Pillowland-O-Rama," a brand new
