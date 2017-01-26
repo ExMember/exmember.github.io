@@ -1,14 +1,19 @@
 ---
-title: Avoid Tree-Structured Specs
+title: Tree-Structured Specs vs. Exception Specs
 category:
   - software
 tags: []
 ---
 
 <---
-Ignore this implementation of the post class. It's only here so we can run the
-specs in this file using a magic incantation like this: 
-`sed -n '/^```/,/^```/ p' < _drafts/exception-spec-versus-tree-specs.md | sed '/^```/ d' | rspec /dev/stdin`
+Ignore this implementation of the post class. It's only here so we can run
+the specs in this file using a magic incantation like this: 
+
+```sh
+
+sed -n '/^```/,/^```/ p' < _drafts/exception-spec-versus-tree-specs.md | sed '/^```/ d' | rspec /dev/stdin
+
+```
 
 ```ruby
 class Post
@@ -29,14 +34,15 @@ end
 ```
 --->
 
-Let's imagine that we were rebuilding civilization after of apocalypse.
-Everyone has a particular job to do in this technological reboot and yours is to
-write a blog platform. It could be worse; someone is out there inspecting new
-designs for septic tanks.
+After years of fighting, the zombies have been contained and now it's time
+to rebuild civilization. Everyone has a particular job to do in this
+technological reboot and yours is to write a blog platform. It could be
+worse. Someone is out there inspecting septic tank interiors.
 
-Your post-apocalyptic PM used to be a newspaper editor and as such he's a
-stickler for some journalism best practices. For instance, he wants to make sure
-that posts cannot be edited after they have been published.
+Your post-apocalyptic project manager used to be a newspaper editor and as
+such he's a stickler for some journalism best practices. For instance, he
+wants to make sure that posts cannot be edited after they have been
+published.
 
 So you write this spec:
 
@@ -58,9 +64,9 @@ RSpec.describe Post do
 end
 ```
 
-Before the cataclysm, at his paper your PM was a bit of a control freak. He
-almost burst a blood vessel when a writer changed an article that he had already
-approved.  He also wants to make sure that cannot happen in your new blog
+Before the cataclysm, your PM was a bit of a control freak. He almost
+burst a blood vessel when a writer changed an article that he had already
+approved. He wants to make sure that cannot happen in your new blog
 platform.
 
 So you modify your specs to look like this:
@@ -107,12 +113,12 @@ RSpec.describe Post do
 end
 ```
 
-The newspaper industry was struggling even before the end of the world as we
-knew it and our PM knows how important it is to pinch pennies. To avoid paying
-translators more than once for the same article he wants to make sure that no
-one changes an article after it has been translated.
+The newspaper industry was struggling even before the end of the world as
+we knew it and your PM knows how important it is to pinch pennies. To
+avoid paying translators more than once for the same article he wants to
+make sure that no one changes an article after it has been translated.
 
-So you modify your spec again so it looks like this:
+So you modify your spec again. Now it looks like this:
 
 ```ruby
 RSpec.describe Post do
@@ -200,9 +206,10 @@ RSpec.describe Post do
 end
 ```
 
-This is spec is starting to get pretty long and hard to follow. And being the
-sort of engineer who is smart enough to survive an apocalypse you see the patter
-that the spec doubles in size every time a new condition is added.
+This is spec is starting to get pretty long and hard to follow. And being
+the sort of engineer who is smart enough to survive a zombie apocalypse
+you can see that the spec doubles in size every time a new condition is
+added.
 
 That's not tenable. Let's rewind and see if we can find a better way.
 
@@ -250,17 +257,19 @@ RSpec.describe Post do
 end
 ```
 
-This is structured like a binary tree with an expectation at each terminal leaf.
-Every condition we add adds another level to the tree, doubles the number of
-terminal leaves, and doubles the number of expectations.
+The specification is structured like a binary tree with an expectation at
+each terminal leaf. Every condition we add adds another level to the tree,
+doubles the number of terminal leaves, and doubles the number of
+expectations.
 
-But part of the reason you've survived this long is your ability to tell humans
-apart from zombies. Applying that skill to this spec you notice one of the
-expectations is different from all of the rest.
+Part of the reason you've survived this long is your ability to tell
+humans apart from zombies. When you apply the same pattern-matching skills
+to this spec you notice one of the expectations is different from all of
+the rest.
 
-In one situation the post is editable. All the other specs are exceptions to
-that situation. When you re-factor the specs to reflect that they look more like
-this:
+In one situation the post is editable. All the other specs are exceptions
+to that situation. When you re-factor the specs to reflect that they look
+more like this:
 
 ```ruby
 RSpec.describe Post do
@@ -289,7 +298,7 @@ RSpec.describe Post do
 end
 ```
 
-This style of spec is more concise, easier to read, and easier to modify. When
+The spec is now more concise, easier to read, and easier to modify. When
 you add the translation requirement it looks like this:
 
 ```ruby
@@ -321,7 +330,7 @@ RSpec.describe Post do
       it { is_expected.not_to be_editable }
     end
 
-    context "when the the post has been translated" do
+    context "when the post has been translated" do
       let(:translated) { true }
 
       it { is_expected.not_to be_editable }
@@ -329,6 +338,11 @@ RSpec.describe Post do
   end
 end
 ```
+
+When your objects have one normal case and a series of exceptions it makes
+sense to organize your specs that way. They will be shorter, clearer,
+easier to understand, and easier to modify; exactly what you will need
+them to be in order to thrive in the post-zombie apocalypse world.
 
 This essay was originally written for [Ministry of
 Velocity](http://www.ministryofvelocity.com/) and was first published
