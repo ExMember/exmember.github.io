@@ -1,11 +1,12 @@
 ---
-title: Tree-Structured Specs vs. Exception Specs
+title: Tree Specs vs. Exception Specs
 category:
   - software
 tags: []
 ---
 
-<---
+{::comment}
+
 Ignore this implementation of the post class. It's only here so we can run
 the specs in this file using a magic incantation like this: 
 
@@ -32,7 +33,8 @@ class Post
   end
 end
 ```
---->
+
+{:/comment}
 
 After years of fighting, the zombies have been contained and now it's time
 to rebuild civilization. Everyone has a particular job to do in this
@@ -343,8 +345,3 @@ When your objects have one normal case and a series of exceptions it makes
 sense to organize your specs that way. They will be shorter, clearer,
 easier to understand, and easier to modify; exactly what you will need
 them to be in order to thrive in the post-zombie apocalypse world.
-
-This essay was originally written for [Ministry of
-Velocity](http://www.ministryofvelocity.com/) and was first published
-[here](XXXXX)
-on their [blog](https://blog.ministryofvelocity.com/).
