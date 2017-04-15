@@ -6,6 +6,8 @@ twitter_username: exmember
 github_username: exmember
 permalink: /:title.html
 
+include: ['.htaccess']
+
 # Build settings
 markdown: kramdown
 timezone: America/Los_Angeles
