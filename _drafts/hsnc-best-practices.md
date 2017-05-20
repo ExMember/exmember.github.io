@@ -95,10 +95,53 @@ government officials; therefore be it
 > RESOLVED that this writer recommends positions adopted by the HSDNC be
 written as resolutions.
 
-
 ## Communicate their position to other parts of city government
 
-### Community Impact statements
+The HSDNC is an advisory board to they city and as such can communicate their
+positions to other parts of the city government.
+
+However, the HSDNC cannot communicate their position to governments or
+governmental agencies outside the city. The HSDNC is part of the government of
+the City of Los Angeles and with the City of Los Angeles only the Mayor and the
+City Council have power over intergovernmental relations.
+
+### Community impact statements
+
+The best way to communicate the HSDNC's position to the city council is via
+a Community Impact Statement (CIS). The community impact statement process was
+created as a way for neighborhood councils to express their support, opposition,
+or suggestions about any matter pending before the city council, city council
+committees, or city commission.
+
+If a community impact statement is submitted in time, the NC's position will be
+printed on the agenda. The full statement becomes part of the council file.
+
+At meetings where the item appears on the agenda, if the NC has filed
+a CIS, a representative from the board will be given five minutes to speak about
+the board stance on the matter. Speakers are usually given one to two minutes
+for their comments.
+
+The best way to format a CIS is as a resolution like any other position the
+board takes. However, it is very important with a CIS to be specific about the
+relevant council file; the board stance (for, against, for if amended, against
+if amended, no position, neutral position,), and the agency the statement is
+directed to (the city council, or a city commission).
+
+Here is an example resolution to submit a CIS:
+
+> WHEREAS the Congress of Neighborhood is very effective at promoting citizen
+> participation in government; and
+
+> WHEREAS the Department of Neighborhood Empowerment plans to hold the Congress
+> of Neighborhoods in the 4th floor media room, rotunda, Spring St. forecourt,
+> and south lawn in city hall on September 9th, 2017 from 6 am to 5 pm;
+> therefore be it
+
+> RESOLVED the Hollywood Studio District Neighborhood Council is for Council
+> File 13-0378-S3, directed to the City Council, authorizing the use of the 4th
+> floor media room, rotunda, Spring St. forecourt, and south lawn in city hall
+> on September 9th, 2017 from 6 am to 5 pm.
+
 
 ### Letters
 
