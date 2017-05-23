@@ -58,27 +58,27 @@ one licensed to practice law in your jurisdiction. If your neighborhood council
 needs legal advice the city attorney's office has an entire division dedicated
 to providing that.
 
-# What the HSDNC can do
+# So you want the HSDNC to...
 
-Through an official action by the board, the HSDNC can:
-- Take a position
-- Communicate their position to other parts of the city government
-- Authorize spending of the HSDNC's budget
+The best way to get the HSDNC to accomplish anything is to present it to
+the board as a well-researched and complete action that the board can vote
+to approve.
 
-Official action is generally a majority vote of board members voting at
-a meeting at which there is a quorum.[^V.3]
+Ideally, the action would be recommended by a committee but if there is no
+committee with relevant jurisdiction, or there is no time for the
+committee to consider the item you can send it directly to the vice chair
+and the executive committee will decide whether to include it on the board
+agenda.
 
-[V.3] HSDNC Bylaws, art. V, section 3, rev. June 1, 2015.
-
-## Take a position
+## Take a stance
 
 The HSDNC can take a position on any item whatsoever, with very few
-exceptions. (Anything on the ballot?)
+exceptions. [[Anything on the ballot?]]
 
-The best way to format a position is as a resolution. A resolution is
-a single statement consisting of a series of "whereas" clauses describing
-the background and reasoning, and one or more "resolved" clauses stating
-the position.
+The best way to format a statement of the council's stance is as
+a resolution. A resolution is a single statement consisting of a series of
+"whereas" clauses describing the background and reasoning, and one or more
+"resolved" clauses stating the position.
 
 Here is an example resolution:
 
@@ -95,15 +95,10 @@ government officials; therefore be it
 > RESOLVED that this writer recommends positions adopted by the HSDNC be
 written as resolutions.
 
-## Communicate their position to other parts of city government
+## Communicate their stance to other parts of city government
 
 The HSDNC is an advisory board to they city and as such can communicate their
 positions to other parts of the city government.
-
-However, the HSDNC cannot communicate their position to governments or
-governmental agencies outside the city. The HSDNC is part of the government of
-the City of Los Angeles and with the City of Los Angeles only the Mayor and the
-City Council have power over intergovernmental relations.
 
 The best way to communicate the HSDNC's position to the city council is via
 a Community Impact Statement (CIS). The community impact statement process was
@@ -122,47 +117,53 @@ for their comments.
 The best way to format a CIS is as a resolution like any other position the
 board takes. However, it is very important with a CIS to be specific about the
 relevant council file; the board stance (for, against, for if amended, against
-if amended, no position, neutral position,), and the agency the statement is
+if amended, no position, neutral position), and the agency the statement is
 directed to (the city council, or a city commission).
 
 Here is an example resolution to submit a CIS:
 
-> WHEREAS the Congress of Neighborhood is very effective at promoting citizen
-> participation in government; and
+> WHEREAS the Congress of Neighborhood is very effective at promoting
+citizen participation in government; and
 
-> WHEREAS the Department of Neighborhood Empowerment plans to hold the Congress
-> of Neighborhoods in the 4th floor media room, rotunda, Spring St. forecourt,
-> and south lawn in city hall on September 9th, 2017 from 6 am to 5 pm;
-> therefore be it
+> WHEREAS the Department of Neighborhood Empowerment plans to hold the
+Congress of Neighborhoods in the 4th floor media room, rotunda, Spring
+St. forecourt, and south lawn in city hall on September 9th, 2017 from
+6 am to 5 pm; therefore be it
 
 > RESOLVED that the Hollywood Studio District Neighborhood Council is for
-> Council File 13-0378-S3, directed to the City Council, authorizing the use of
-> the 4th floor media room, rotunda, Spring St. forecourt, and south lawn in
-> city hall on September 9th, 2017 from 6 am to 5 pm.
+Council File 13-0378-S3, directed to the City Council, authorizing the
+use of the 4th floor media room, rotunda, Spring St. forecourt, and
+south lawn in city hall on September 9th, 2017 from 6 am to 5 pm.
 
-## Spend the NC budget
+## Communicate their stance outside the city government
+
+The HSDNC cannot communicate their position to governments or
+governmental agencies outside the city. The HSDNC is part of the
+government of the City of Los Angeles and within the City of Los Angeles
+only the Mayor and the City Council have power over intergovernmental
+relations.
+
+## Spend money on NC operations
 
 Each neighborhood council is given an annual budget currently amounting to
-$47,000 per fiscal year. This money can be used for operations, outreach,
-community improvement projects, neighborhood purpose grants (NPG), and
-conducting NC elections.
+\$47,000 per fiscal year. This money can be used for operations, outreach,
+community improvement projects, and conducting NC elections.
 
-If you wish to apply for an NPG, the application can be found on the [city
-clerk's
-website][http://clerk.lacity.org/neighborhood-council-funding/documents-and-forms].
-Send the completed application, along with all supporting documentation to the
-chair and treasurer. They will bring it to the executive committee which will
-decide whether to put it on the board agenda.
+[[## Community improvement projects]]
 
-## What the HSDNC cannot do
+## Give money to an organization to create a benefit in the community
 
-The HSDNC cannot do anything that is not in the list above.
+A portion of the NC's can be used to provide grants to public schools or
+501(c)(3)'s to support a public purpose and benefit the public-at-large.
 
-If it is not on that list, the HSDNC cannot do it.
+If you wish to apply for an Neighborhood Purpose Grant (NPG), the
+[application][http://clerk.cityofla.acsitefactory.com/sites/g/files/wph606/f/NPG-Application-1-26-15-final1.pdf]
+is available on the city clerk's website.
 
+Send the completed application, along with all supporting documentation to
+the chair and treasurer. They will bring it to the executive committee
+which will decide whether to put it on the board agenda.
 # Committees
-
-### Recommend that the Board do things
 
 # How to call a Board meeting
 
@@ -253,7 +254,42 @@ the rest of the materials in the order they will be needed.
 
 # How to call a Committee meeting
 
-# I want the Board to...
+## Time
 
-Board meetings are ill-suited for and do not have time to discuss issues in depth and identify the best possible action. Have proposed actions complete for the board to approve, preferably with a committee recommendation.
+Regular committee meetings should be at the date and time set by the
+standing meeting calendar. Special meetings can be called when necessary
+but should be avoided.
+
+## Place
+
+Committee meetings must be held within the boundaries of the NC.
+
+Committee meeting locations must be open to the public. [[Cite Brown
+Act.]]
+
+Committee meeting locations must be ADA compliant. [[Cite Brown Act. Link
+to ADA compliance checklist.]]
+
+## Agendas
+
+Agenda items should contain enough detail to provide sufficient notice to
+a reasonable person about the action the board is contemplating.
+
+All NC committee agendas need to be posted via the city's Early
+Notification System (ENS), physically at the Lemon Grove park, and on the
+HSDNC website.
+
+To post the agenda via ENS send the agenda as a PDF to NC support with the date
+and title of the meeting in the subject.
+
+To post the agenda at Lemon Grove park you can go there yourself, or email the
+recreation coordinator and ask them to post it for you.
+
+To post the agenda on the website add an event to the [meetings
+calendar][https://hsdnc.nationbuilder.com/admin/sites/1/pages/804/events_old] on
+NationBuilder and upload the agenda to it as a PDF.
+
+Board agendas should also be sent to the HSDNC [mailing
+list][https://hsdnc.nationbuilder.com/admin/broadcasters/1/mailings] on
+NationBuilder.
 
