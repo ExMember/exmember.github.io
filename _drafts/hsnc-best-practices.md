@@ -12,9 +12,9 @@ serve as advisors to the city of Los Angeles on issues of concern to the
 neighborhood.
 
 Their purpose is "to promote more citizen participation in government and
-make government responsible to local needs."[^IX.900]
+make government responsible to local needs."[^IX-900]
 
-[IX.900] Los Angeles, California, City Charter, art IX, sec. 900.
+[^IX-900]: Los Angeles, California, City Charter, art IX, sec. 900.
 
 # What is the Hollywood Studio District Neighborhood Council?
 
@@ -27,7 +27,7 @@ El Centro Ave, North of Melrose, and west Western Avenue or the Hollywood
 freeway.
 
 More information about the HSDNC can be found on their
-[website][http://www.hsdnc.org/].
+[website](http://www.hsdnc.org/).
 
 # What is this document?
 
@@ -157,7 +157,7 @@ A portion of the NC's can be used to provide grants to public schools or
 501(c)(3)'s to support a public purpose and benefit the public-at-large.
 
 If you wish to apply for an Neighborhood Purpose Grant (NPG), the
-[application][http://clerk.cityofla.acsitefactory.com/sites/g/files/wph606/f/NPG-Application-1-26-15-final1.pdf]
+[application](http://clerk.cityofla.acsitefactory.com/sites/g/files/wph606/f/NPG-Application-1-26-15-final1.pdf)
 is available on the city clerk's website.
 
 Send the completed application, along with all supporting documentation to
@@ -220,7 +220,7 @@ a reasonable person about the action the board is contemplating. If the board is
 taking a position or submitting a community impact statement, the entire
 resolution should be included.
 
-[IIX.2] HSDNC Bylaws, art. IIX, section 2, rev. June 1, 2015.
+[IIX.2]: HSDNC Bylaws, art. IIX, section 2, rev. June 1, 2015.
 
 ## Posting the agenda
 
@@ -234,11 +234,11 @@ To post the agenda at Lemon Grove park you can go there yourself, or email the
 recreation coordinator and ask them to post it for you.
 
 To post the agenda on the website add an event to the [meetings
-calendar][https://hsdnc.nationbuilder.com/admin/sites/1/pages/804/events_old] on
-NationBuilder and upload the agenda to it as a PDF.
+calendar](https://hsdnc.nationbuilder.com/admin/sites/1/pages/804/events_old)
+on NationBuilder and upload the agenda to it as a PDF.
 
 Board agendas should also be sent to the HSDNC [mailing
-list][https://hsdnc.nationbuilder.com/admin/broadcasters/1/mailings] on
+list](https://hsdnc.nationbuilder.com/admin/broadcasters/1/mailings) on
 NationBuilder.
 
 ## Paper copies
@@ -286,10 +286,10 @@ To post the agenda at Lemon Grove park you can go there yourself, or email the
 recreation coordinator and ask them to post it for you.
 
 To post the agenda on the website add an event to the [meetings
-calendar][https://hsdnc.nationbuilder.com/admin/sites/1/pages/804/events_old] on
-NationBuilder and upload the agenda to it as a PDF.
+calendar](https://hsdnc.nationbuilder.com/admin/sites/1/pages/804/events_old)
+on NationBuilder and upload the agenda to it as a PDF.
 
 Board agendas should also be sent to the HSDNC [mailing
-list][https://hsdnc.nationbuilder.com/admin/broadcasters/1/mailings] on
+list](https://hsdnc.nationbuilder.com/admin/broadcasters/1/mailings) on
 NationBuilder.
 
