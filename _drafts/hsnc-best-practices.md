@@ -23,8 +23,8 @@ neighborhood council that represents the Hollywood Studio District of Los
 Angeles.
 
 The Hollywood Studio District is the area south of Hollywood Blvd, east of
-El Centro Ave, North of Melrose, and west Western Avenue or the Hollywood
-freeway.
+El Centro Ave, North of Melrose, and west of Western Avenue or the
+Hollywood freeway.
 
 More information about the HSDNC can be found on their
 [website](http://www.hsdnc.org/).
@@ -44,7 +44,7 @@ deliberative bodies.
 
 This is a living document, intended to be updated as things and my
 understanding of them change. If you would like to recommend any
-amendments, updates, or corrections please feel free to email me -- or
+amendments, updates, or corrections please feel free to email me --- or
 better yet, open a pull request.
 
 # What this document is not
@@ -153,8 +153,9 @@ community improvement projects, and conducting NC elections.
 
 ## Give money to an organization to create a benefit in the community
 
-A portion of the NC's can be used to provide grants to public schools or
-501(c)(3)'s to support a public purpose and benefit the public-at-large.
+A portion of the NC's budget can be used to provide grants to public
+schools or 501(c)(3)'s to support a public purpose and benefit the
+public-at-large.
 
 If you wish to apply for an Neighborhood Purpose Grant (NPG), the
 [application](http://clerk.cityofla.acsitefactory.com/sites/g/files/wph606/f/NPG-Application-1-26-15-final1.pdf)
@@ -163,35 +164,39 @@ is available on the city clerk's website.
 Send the completed application, along with all supporting documentation to
 the chair and treasurer. They will bring it to the executive committee
 which will decide whether to put it on the board agenda.
-# Committees
 
-# How to call a Board meeting
+# How to call meeting
 
-## Time
+## When
 
-Regular board meetings should be at the date and time set by the standing
-meeting calendar. For the HSDNC this is every second Monday at 6:30 pm.
+Regular meetings should be at the date and time set by the standing
+meeting calendar. For the HSDNC board this is every second Monday at 6:30
+pm.
 
-Special board meetings can be called when necessary but should be avoided. It is
-very difficult to find a date and time that all board members are available and
-stakeholders, who are familiar with the standing meeting calendar, are less
-likely to be aware of a special meeting.
+Special meetings can be called when necessary but should be avoided. It is
+very difficult to find a date and time that all the  board or committee
+members are available and stakeholders, who are familiar with the standing
+meeting calendar, are less likely to be aware of a special meeting.
 
-## Place
+## Where
 
-Board meetings must be held within the boundaries of the NC.
+Meetings must be held within the boundaries of the NC.
 
-Board meeting locations must be open to the public. [[Cite Brown Act.]]
+Meeting locations must be open to the public. [[Cite Brown Act.]]
 
-Board meeting locations must be ADA compliant. [[Cite Brown Act. Link to ADA
+Meeting locations must be ADA compliant. [[Cite Brown Act. Link to ADA
 compliance checklist.]]
 
-The HSDNC has twenty board members and routinely sees 20 members of the public
-at board meetings so meeting locations should accommodate at least 50 people.
+The HSDNC has twenty board members and routinely sees 20 members of the
+public at board meetings so board meeting locations should accommodate at
+least 50 people.
 
-## Setting the Agenda
+Committees are typically much smaller and the meeting are less
+well-attended so their venues can be smaller.
 
-The board agenda is set by the executive committee.[^IIX.2]
+## Setting the agenda
+
+The board agenda is set by the executive committee.[^IIX-2]
 
 To help ensure the best possible agenda and make the executive committee meeting
 efficient, the chair should prepare a proposed agenda. The executive committee
@@ -200,7 +205,7 @@ the committee can decide to add any agenda items that were not on the chair's
 proposed agenda. And finally they can discuss changing the order of agenda items
 as they see fit.
 
-The easiest way to create an agenda is to  start with a duplicate of the
+The easiest way to create an agenda is to start with a duplicate of the
 previous month's agenda. Change the date on the first page and in the footer,
 remove the items that don't happen every month, and update the dates for the
 minutes and MER that need to be approved.
@@ -215,12 +220,14 @@ agenda even if there are good reasons for it not to be on the board agenda. It
 is easy to remove an item from the proposed agenda. It is difficult to remember
 to discuss an item that is not on the proposed agenda.
 
-Agenda items should contain enough detail to provide sufficient notice to
-a reasonable person about the action the board is contemplating. If the board is
-taking a position or submitting a community impact statement, the entire
-resolution should be included.
+Committee agendas are set by the committee chair.
 
-[IIX.2]: HSDNC Bylaws, art. IIX, section 2, rev. June 1, 2015.
+Agenda items should contain enough detail to provide sufficient notice to
+a reasonable person about the action the board is contemplating. If the
+board is taking a position or submitting a community impact statement, the
+entire resolution should be included.
+
+[^IIX-2]: HSDNC Bylaws, art. IIX, section 2, rev. June 1, 2015.
 
 ## Posting the agenda
 
@@ -239,7 +246,8 @@ on NationBuilder and upload the agenda to it as a PDF.
 
 Board agendas should also be sent to the HSDNC [mailing
 list](https://hsdnc.nationbuilder.com/admin/broadcasters/1/mailings) on
-NationBuilder.
+NationBuilder. Board agendas should be sent to all supporters. Committee
+agendas should be sent to people who are interested in that committee.
 
 ## Paper copies
 
@@ -251,45 +259,3 @@ disruptive.
 Meetings go smoother if every board member is given a packet of the materials
 they need before the meeting begins. For ease of use, put the agenda first, and
 the rest of the materials in the order they will be needed.
-
-# How to call a Committee meeting
-
-## Time
-
-Regular committee meetings should be at the date and time set by the
-standing meeting calendar. Special meetings can be called when necessary
-but should be avoided.
-
-## Place
-
-Committee meetings must be held within the boundaries of the NC.
-
-Committee meeting locations must be open to the public. [[Cite Brown
-Act.]]
-
-Committee meeting locations must be ADA compliant. [[Cite Brown Act. Link
-to ADA compliance checklist.]]
-
-## Agendas
-
-Agenda items should contain enough detail to provide sufficient notice to
-a reasonable person about the action the board is contemplating.
-
-All NC committee agendas need to be posted via the city's Early
-Notification System (ENS), physically at the Lemon Grove park, and on the
-HSDNC website.
-
-To post the agenda via ENS send the agenda as a PDF to NC support with the date
-and title of the meeting in the subject.
-
-To post the agenda at Lemon Grove park you can go there yourself, or email the
-recreation coordinator and ask them to post it for you.
-
-To post the agenda on the website add an event to the [meetings
-calendar](https://hsdnc.nationbuilder.com/admin/sites/1/pages/804/events_old)
-on NationBuilder and upload the agenda to it as a PDF.
-
-Board agendas should also be sent to the HSDNC [mailing
-list](https://hsdnc.nationbuilder.com/admin/broadcasters/1/mailings) on
-NationBuilder.
-
