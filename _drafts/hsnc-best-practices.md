@@ -54,9 +54,9 @@ of the HSDNC, the City of Los Angeles, or any other organization.
 
 This document is not legal advice. I am not a lawyer. I am not your
 lawyer. If you need a lawyer I believe I am required to advise you find
-one licensed to practice law in your jurisdiction. If your neighborhood council
-needs legal advice the city attorney's office has an entire division dedicated
-to providing that.
+one licensed to practice law in your jurisdiction. If your neighborhood
+council needs legal advice the city attorney's office has an entire
+division dedicated to providing that.
 
 # So you want the HSDNC to...
 
@@ -97,28 +97,30 @@ written as resolutions.
 
 ## Communicate their stance to other parts of city government
 
-The HSDNC is an advisory board to they city and as such can communicate their
-positions to other parts of the city government.
+The HSDNC is an advisory board to they city and as such can communicate
+their positions to other parts of the city government.
 
-The best way to communicate the HSDNC's position to the city council is via
-a Community Impact Statement (CIS). The community impact statement process was
-created as a way for neighborhood councils to express their support, opposition,
-or suggestions about any matter pending before the city council, city council
-committees, or city commission.
+The best way to communicate the HSDNC's position to the city council is
+via a Community Impact Statement (CIS). The community impact statement
+process was created as a way for neighborhood councils to express their
+support, opposition, or suggestions about any matter pending before the
+city council, city council committees, or city commission.
 
-If a community impact statement is submitted in time, the NC's position will be
-printed on the agenda. The full statement becomes part of the council file.
+If a community impact statement is submitted in time, the NC's position
+will be printed on the agenda. The full statement becomes part of the
+council file.
 
 At meetings where the item appears on the agenda, if the NC has filed
-a CIS, a representative from the board will be given five minutes to speak about
-the board stance on the matter. Speakers are usually given one to two minutes
-for their comments.
+a CIS, a representative from the board will be given five minutes to speak
+about the board stance on the matter. Speakers are usually given one to
+two minutes for their comments.
 
-The best way to format a CIS is as a resolution like any other position the
-board takes. However, it is very important with a CIS to be specific about the
-relevant council file; the board stance (for, against, for if amended, against
-if amended, no position, neutral position), and the agency the statement is
-directed to (the city council, or a city commission).
+The best way to format a CIS is as a resolution like any other position
+the board takes. However, it is very important with a CIS to be specific
+about the relevant council file; the board stance (for, against, for if
+amended, against if amended, no position, neutral position), and the
+agency the statement is directed to (the city council, or a city
+commission).
 
 Here is an example resolution to submit a CIS:
 
@@ -126,22 +128,21 @@ Here is an example resolution to submit a CIS:
 citizen participation in government; and
 
 > WHEREAS the Department of Neighborhood Empowerment plans to hold the
-Congress of Neighborhoods in the 4th floor media room, rotunda, Spring
-St. forecourt, and south lawn in city hall on September 9th, 2017 from
-6 am to 5 pm; therefore be it
+Congress of Neighborhoods in the 4th floor media room, rotunda, Spring St.
+forecourt, and south lawn in city hall on September 9th, 2017 from 6 am to
+5 pm; therefore be it
 
 > RESOLVED that the Hollywood Studio District Neighborhood Council is for
-Council File 13-0378-S3, directed to the City Council, authorizing the
-use of the 4th floor media room, rotunda, Spring St. forecourt, and
-south lawn in city hall on September 9th, 2017 from 6 am to 5 pm.
+Council File 13-0378-S3, directed to the City Council, authorizing the use
+of the 4th floor media room, rotunda, Spring St. forecourt, and south lawn
+in city hall on September 9th, 2017 from 6 am to 5 pm.
 
 ## Communicate their stance outside the city government
 
-The HSDNC cannot communicate their position to governments or
-governmental agencies outside the city. The HSDNC is part of the
-government of the City of Los Angeles and within the City of Los Angeles
-only the Mayor and the City Council have power over intergovernmental
-relations.
+The HSDNC cannot communicate their position to governments or governmental
+agencies outside the city. The HSDNC is part of the government of the City
+of Los Angeles and within the City of Los Angeles only the Mayor and the
+City Council have power over intergovernmental relations.
 
 ## Spend money on NC operations
 
@@ -198,27 +199,28 @@ well-attended so their venues can be smaller.
 
 The board agenda is set by the executive committee.[^IIX-2]
 
-To help ensure the best possible agenda and make the executive committee meeting
-efficient, the chair should prepare a proposed agenda. The executive committee
-can review each item individually to amend or remove as they wish. Afterwards,
-the committee can decide to add any agenda items that were not on the chair's
-proposed agenda. And finally they can discuss changing the order of agenda items
-as they see fit.
+To help ensure the best possible agenda and make the executive committee
+meeting efficient, the chair should prepare a proposed agenda. The
+executive committee can review each item individually to amend or remove
+as they wish. Afterwards, the committee can decide to add any agenda items
+that were not on the chair's proposed agenda. And finally they can discuss
+changing the order of agenda items as they see fit.
 
 The easiest way to create an agenda is to start with a duplicate of the
-previous month's agenda. Change the date on the first page and in the footer,
-remove the items that don't happen every month, and update the dates for the
-minutes and MER that need to be approved.
+previous month's agenda. Change the date on the first page and in the
+footer, remove the items that don't happen every month, and update the
+dates for the minutes and MER that need to be approved.
 
-The chair should create a proposed agenda for the next meeting as soon as the
-current agenda is finalized. This makes it easy to add items as soon as they are
-brought to the chair's attention instead of trying to gather them all together
-immediately before the executive committee meeting.
+The chair should create a proposed agenda for the next meeting as soon as
+the current agenda is finalized. This makes it easy to add items as soon
+as they are brought to the chair's attention instead of trying to gather
+them all together immediately before the executive committee meeting.
 
 It is best to err on the side of including an item on the chair's proposed
-agenda even if there are good reasons for it not to be on the board agenda. It
-is easy to remove an item from the proposed agenda. It is difficult to remember
-to discuss an item that is not on the proposed agenda.
+agenda even if there are good reasons for it not to be on the board
+agenda. It is easy to remove an item from the proposed agenda. It is
+difficult to remember to discuss an item that is not on the proposed
+agenda.
 
 Committee agendas are set by the committee chair.
 
@@ -231,14 +233,14 @@ entire resolution should be included.
 
 ## Posting the agenda
 
-All NC agendas need to be posted via the city's Early Notification System (ENS),
-physically at the Lemon Grove park, and on the HSDNC website.
+All NC agendas need to be posted via the city's Early Notification System
+(ENS), physically at the Lemon Grove park, and on the HSDNC website.
 
-To post the agenda via ENS send the agenda as a PDF to NC support with the date
-and title of the meeting in the subject.
+To post the agenda via ENS send the agenda as a PDF to NC support with the
+date and title of the meeting in the subject.
 
-To post the agenda at Lemon Grove park you can go there yourself, or email the
-recreation coordinator and ask them to post it for you.
+To post the agenda at Lemon Grove park you can go there yourself, or email
+the recreation coordinator and ask them to post it for you.
 
 To post the agenda on the website add an event to the [meetings
 calendar](https://hsdnc.nationbuilder.com/admin/sites/1/pages/804/events_old)
@@ -252,10 +254,11 @@ agendas should be sent to people who are interested in that committee.
 ## Paper copies
 
 During the board meeting, board members are going to need the agenda, the
-minutes of the previous meeting, the previous month's MER, and possibly other
-materials. Distributing these items individually is time-consuming and
-disruptive.
+minutes of the previous meeting, the previous month's MER, and possibly
+other materials. Distributing these items individually is time-consuming
+and disruptive.
 
-Meetings go smoother if every board member is given a packet of the materials
-they need before the meeting begins. For ease of use, put the agenda first, and
-the rest of the materials in the order they will be needed.
+Meetings go smoother if every board member is given a packet of the
+materials they need before the meeting begins. For ease of use, put the
+agenda first, and the rest of the materials in the order they will be
+needed.
