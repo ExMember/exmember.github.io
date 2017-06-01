@@ -35,7 +35,7 @@ This document is my personal opinion on how best to operate the HSDNC,
 based on my experience as a board member, committee chair, and board
 chair, as well as my best understanding of the laws, rules, and
 regulations governing neighborhood councils and the guidance offered by
-the Department of Neighborhood Empowerment and other city staff.
+the Department of Neighborhood Empowerment (DONE) and other city staff.
 
 Some of the things in this document will be specific to the HSDNC, but
 I anticipate that much of it will useful to other neighborhood councils in
@@ -50,7 +50,7 @@ better yet, open a pull request.
 # What this document is not
 
 This document does not represent the policy, procedures, rules, or opinion
-of the HSDNC, the City of Los Angeles, or any other organization.
+of the HSDNC, DONE, the City of Los Angeles, or any other organization.
 
 This document is not legal advice. I am not a lawyer. I am not your
 lawyer. If you need a lawyer I believe I am required to advise you find
@@ -73,7 +73,7 @@ agenda.
 ## Take a stance
 
 The HSDNC can take a position on any item whatsoever, with very few
-exceptions. [[Anything on the ballot?]]
+exceptions.
 
 The best way to format a statement of the council's stance is as
 a resolution. A resolution is a single statement consisting of a series of
@@ -133,16 +133,17 @@ forecourt, and south lawn in city hall on September 9th, 2017 from 6 am to
 5 pm; therefore be it
 
 > RESOLVED that the Hollywood Studio District Neighborhood Council is for
-Council File 13-0378-S3, directed to the City Council, authorizing the use
-of the 4th floor media room, rotunda, Spring St. forecourt, and south lawn
-in city hall on September 9th, 2017 from 6 am to 5 pm.
+Council File 13-0378-S3, authorizing the use of the 4th floor media room,
+rotunda, Spring St. forecourt, and south lawn in city hall on September
+9th, 2017 from 6 am to 5 pm.
 
 ## Communicate their stance outside the city government
 
 The HSDNC cannot communicate their position to governments or governmental
-agencies outside the city. The HSDNC is part of the government of the City
-of Los Angeles and within the City of Los Angeles only the Mayor and the
-City Council have power over intergovernmental relations.
+agencies outside the city. The HSDNC, like all neighborhood councils, is
+part of the government of the City of Los Angeles and within the City of
+Los Angeles only the Mayor and the City Council have power over
+intergovernmental relations.
 
 ## Spend money on NC operations
 
@@ -176,17 +177,17 @@ pm.
 
 Special meetings can be called when necessary but should be avoided. It is
 very difficult to find a date and time that all the  board or committee
-members are available and stakeholders, who are familiar with the standing
-meeting calendar, are less likely to be aware of a special meeting.
+members are available. Also, other stakeholders, who are familiar with the
+standing meeting calendar, are less likely to be aware of a special
+meeting.
 
 ## Where
 
-Meetings must be held within the boundaries of the NC.
+Meetings must be held within the boundaries of the NC.[^VIII-1]
 
-Meeting locations must be open to the public. [[Cite Brown Act.]]
+Meeting locations must be open to the public.[^54961-a]
 
-Meeting locations must be ADA compliant. [[Cite Brown Act. Link to ADA
-compliance checklist.]]
+Meeting locations must be ADA compliant.[^54961-a]
 
 The HSDNC has twenty board members and routinely sees 20 members of the
 public at board meetings so board meeting locations should accommodate at
@@ -194,6 +195,11 @@ least 50 people.
 
 Committees are typically much smaller and the meeting are less
 well-attended so their venues can be smaller.
+
+ [^VIII-1]: HSDNC Bylaws, art. VIII, section 1, rev. June 1, 2015.
+
+ [^54961-a]: Brown Act, California Government code sec. 54961 paragraph
+ a
 
 ## Setting the agenda
 
