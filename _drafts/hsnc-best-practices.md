@@ -151,7 +151,7 @@ Each neighborhood council is given an annual budget currently amounting to
 \$47,000 per fiscal year. This money can be used for operations, outreach,
 community improvement projects, and conducting NC elections.
 
-[[## Community improvement projects]]
+<!--- ## Community improvement projects]] --->
 
 ## Give money to an organization to create a benefit in the community
 
@@ -198,8 +198,7 @@ well-attended so their venues can be smaller.
 
  [^VIII-1]: HSDNC Bylaws, art. VIII, section 1, rev. June 1, 2015.
 
- [^54961-a]: Brown Act, California Government code sec. 54961 paragraph
- a
+ [^54961-a]: Brown Act, California Government code sec. 54961 paragraph a
 
 ## Setting the agenda
 
@@ -239,8 +238,9 @@ entire resolution should be included.
 
 ## Posting the agenda
 
-All NC agendas need to be posted via the city's Early Notification System
-(ENS), physically at the Lemon Grove park, and on the HSDNC website.
+All HSDNC agendas need to be posted via the city's Early Notification
+System (ENS), physically at the Lemon Grove park, and on the HSDNC
+website.
 
 To post the agenda via ENS send the agenda as a PDF to NC support with the
 date and title of the meeting in the subject.
@@ -252,7 +252,7 @@ To post the agenda on the website add an event to the [meetings
 calendar](https://hsdnc.nationbuilder.com/admin/sites/1/pages/804/events_old)
 on NationBuilder and upload the agenda to it as a PDF.
 
-Board agendas should also be sent to the HSDNC [mailing
+Agendas should also be sent to the HSDNC [mailing
 list](https://hsdnc.nationbuilder.com/admin/broadcasters/1/mailings) on
 NationBuilder. Board agendas should be sent to all supporters. Committee
 agendas should be sent to people who are interested in that committee.
