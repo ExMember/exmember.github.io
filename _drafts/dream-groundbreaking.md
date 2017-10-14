@@ -1,3 +1,17 @@
+---
+title: Remarks at the groundbreaking for The Dream @ Tamarind South
+category:
+- policy
+tags: [speech]
+--
+
+On October 15, 2017 I was offered the opportunity to say a few words at
+the groundbreaking ceremony for The Dream @ Tamarind South, a 32-unit
+building at 1310 Tamarind Avenue.
+
+These are the remarks I prepared:
+
+
 According to the Los Angeles Homeless Services Authority there are over
 fifteen hundred people in Hollywood who are homeless.[1] Fifteen hundred
 men, women, and children; fifteen hundred of our neighbors in this small
