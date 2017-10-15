@@ -1,5 +1,5 @@
 ---
-title: Remarks at the groundbreaking for The Dream @ Tamarind South
+title: Groundbreaking for The Dream @ Tamarind South
 category:
 - policy
 tags: [speech]
