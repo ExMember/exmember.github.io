@@ -22,8 +22,8 @@ But with projects like this one that we can increase the supply of housing
 and mitigate the unaffordability crisis and homelessness crisis we are
 facing in Hollywood and in Los Angeles.
 
-Projects like the Dream at Tamarind are a key part of keeping Hollywood
-the exciting, dynamic place where anyone can make it big. 
+Projects like the Dream at Tamarind are a key part of keeping Hollywood an
+exciting, dynamic place where anyone can make it big.
 
 Multi-unit buildings near job and transit centers allow lower-income
 families to live here in Hollywood, a region with excellent job and career
