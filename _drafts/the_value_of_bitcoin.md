@@ -188,7 +188,6 @@ It is possible to make a lot of money on speculation buy either being
 lucky or predicting investor sentiment. There is no known way to reliable
 and ethically generate either of those conditions.
 
-
 [^fiat-definition]: [Merriam-Webster](https://www.merriam-webster.com/dictionary/fiat)
 
 [^31 U.S.C. § 5103]: [31 U.S.C. § 5103](https://www.law.cornell.edu/uscode/text/31/5103)
