@@ -1,5 +1,5 @@
 ---
-title: The Value of a Bitcoin
+title: The Value of Bitcoin
 category:
 tags:
 ---
@@ -8,11 +8,11 @@ My goal here is to determine the value of bitcoin from first principles.
 When I say bitcoin I am referring to the digital asset, not the underlying
 technology, software, or protocols.
 
-I will start with the assumption that bitcoin is money. Then, once we have
-determined how to measure the value of money, we can apply that process to
-bitcoin and see what result we get.
-
-But first a digression.
+I will start with establishing what money is, and how bitcoin is like
+money. Then I will describe how to determine the value of money and apply
+that same process to bitcoin. Afterwards we'll discuss what that means for
+people who have bought or are considering buying bitcoin. And finally,
+what this means for other block chain currencies.
 
 ## What is money?
 
