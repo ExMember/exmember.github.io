@@ -111,8 +111,13 @@ supports it.
 
 The U.S. Government has declared US Dollars to be legal tender, which
 means that is is accepted for all debts, public charges, taxes, and
-dues.[^31 U.S.C. § 5103]. As long as US governments demands US dollars, it
-has value to people who need to pay.
+dues.[^31 U.S.C. § 5103]. As long as the US government demands US dollars,
+it has value to people who need to pay.
+
+In theory, a government's demand for their own currency could end at any
+time. However, the benefits of being able to create your own money are so
+great that as long as the government is capable of operating in its own
+best interest it will maintain the value of its currency.
 
 ## Secondary demand for money
 
@@ -134,8 +139,54 @@ We see this every time a government falls. Once the government no longer
 provides the underlying demand for its currency, nobody wants it and the
 value of the currency drops to zero.
 
-## Speculative demand
+## The value of bitcoin
 
+Bitcoin does not have utility like a commodity money. It does not
+represent a commodity with utility. And it does not have any a fundamental
+underlying source of demand like fiat money. Bitcoin has no value.
+
+This is notwithstanding the amazing features of public block chain
+technologies. Fast and cheap transfers, facilitated without trusted
+intermediaries, is not enough to make the thing being transferred
+valuable.
+
+## Value versus price
+
+Up until now I have written a lot about value but I haven't talked about
+price. The value of something is what it is worth. The price is what
+people pay for it. This distinction makes it possible for me to say that
+bitcoin has no value even though the current price is thousands of
+dollars.
+
+## Value investing versus speculation
+
+Value investing is the process of identifying and purchasing assets that
+are worth more than their price. When a value investor pays \$70 to buy an
+asset that is worth \$100, they make \$30 in profit instantly.
+
+Because bitcoin has no value, it cannot be a value investment.
+
+Speculation is the process of guessing which assets people will pay more
+for in the future and buying those assets with the intent of selling them
+when the price goes up.
+
+Bitcoin meteoric rise in price has created astonishing returns for
+speculators and it may continue to do so. Because the price is limited
+only by what people believe other people will pay for bitcoin in the
+future there is no limit to how high it can go.
+
+However, like all speculative bubbles, the price of bitcoin is unstable.
+A sufficiently large shock to the confidence of speculators that the price
+will continue to go up will cause it to crash all the way to zero. Over
+time the odds of such a shock happening approach 100%. Eventually the
+price of bitcoin will fall to effectively zero.
+
+Unfortunately, it is impossible to identify when this crash will happen,
+only that it will.
+
+It is possible to make a lot of money on speculation buy either being
+lucky or predicting investor sentiment. There is no known way to reliable
+and ethically generate either of those conditions.
 
 
 [^fiat-definition]: [Merriam-Webster](https://www.merriam-webster.com/dictionary/fiat)
