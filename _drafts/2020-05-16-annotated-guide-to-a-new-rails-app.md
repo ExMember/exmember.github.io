@@ -66,9 +66,21 @@ To install: `\curl -sSL https://get.rvm.io | bash -s stable`
 [rbenv](https://github.com/rbenv/rbenv) is another (possibly
 [better](https://github.com/rbenv/rbenv/wiki/Why-rbenv%3F)) option.
 
+If you already have RVM update it with `rvm get`.
+
+Make sure you are using the ruby version you want to be using, `rvm use
+ruby-<version_number>`. You can see the latest Ruby version on the
+[website](https://www.ruby-lang.org/en/).
+
 ## Rails init
 
-If you do not have the rails gem already, install it with `gem install rails`.
+If you do not have the Rails gem already, install it with `gem install rails`.
+
+If you already have the Rails gem you can update it with `gem update rails`.
+
+Make sure you are using the version of Rails you want to be using with `rails
+--version`. You can see the latest version or Rails on the
+[website](https://rubyonrails.org).
 
 To create a new rails project run: `rails new projectname`.
 
@@ -164,6 +176,8 @@ To switch to PostgreSQL:
 `projectname_development` for the development database, `projectname_test` for
 the test database, and `projectname_production` for the production database.
 
+Test that this works by running `rake db:create`.
+
 ## Remove gem version specifiers
 
 Using version specifiers in your Gemfile will make it harder to update gems as
@@ -253,6 +267,14 @@ Use [RSpec](https://rspec.info) instead of
 4. Remove fixtures. In `spec/rails_helper.rb` remove the line starting with
 `config.fixture_path = `.
 4. Remove minitest boilerplate. `git rm -r test/`.
+5. Make a commit
+
+Test that this works by running `rails generate model foo`.
+
+You should get a migration, a model file, and an rspec spec file for the model.
+You should not get any minitest files. RSpec (`rspec`) should run successfully.
+
+Remove the files created by the generator.
 
 ## RSpec::Its
 
@@ -292,6 +314,14 @@ config.generator.request_specs = false
 config.generator.controller_specs = true
 ```
 
+After making a commit, test that this works by running `rails generate resource foo`.
+
+You should get a migration, a model, a controller, a route, a model spec, and
+a controller spec. You should not get a helper, stylesheet, view spec, or
+request spec.
+
+Remove the files created by the generator.
+
 ## Use UUIDs
 
 By default, Rails uses integers as primary keys. Using UUIDs instead prevents
@@ -300,7 +330,7 @@ integer overflow problem if too many objects are created.
 
 To enable UUIDs in PostgreSQL:
 
-1. Generate a migration: `rails generate migration EnablePgcryptoExtension`.
+1. Generate a migration: `rails generate migration EnableUuids`.
 2. Put this in the change method of the migration: `enable_extension 'pgcrypto'`
 3. Run the migration: `rake db:migrate`
 
@@ -309,7 +339,13 @@ To configure the generators to use UUIDs as primary keys.
 In `config/application.rb` add `config.generator.orm :active_record,
 primary_key_type: :uuid`.
 
-## Use Runocop
+After making a commit, test that this works by running `rails generate model foo` and `rake db:migrate`.
+
+The migration and schema should both indicate that the id is a uuid.
+
+Run `rake db:rollback` and remove the generated files before continuing.
+
+## Use Rubocop
 
 [Rubocop](https://docs.rubocop.org/en/stable/) enforces standard conventions in
 Ruby code.
@@ -320,7 +356,7 @@ of your `Gemfile` and run `bundle`.
 3. Run Rubocop with auto correct, `rubocop --auto-correct`.
 4. Correct errors that rubocop cannot correct automatically.
 
-A complete Robocop config is below. Enabled cops need no explanation.
+Configure rubocop with the `.rubocop.yml` file.
 
 ### Rubocop-rails
 
@@ -329,6 +365,16 @@ extension focused on enforcing Rails best practices and coding conventions.
 
 ```yaml
 require: rubocop-rails
+```
+
+### Enable new cops
+
+New cops are added all the time and by default are pending until the next major
+release. This enables them automatically so we can more easily stay up to date.
+
+```yaml
+AllCops:
+  NewCops: enable
 ```
 
 ### Global exclusion
@@ -341,7 +387,7 @@ AllCops:
     - bin/*
     - config.ru
     - db/schema.rb
-    - node_modules
+    - node_modules/**/*
 ```
 
 ### Documentation
@@ -539,125 +585,15 @@ Style/TrailingCommaInHashLiteral:
   EnforcedStyleForMultiline: comma
 ```
 
-### A complete Rubocop configuration
-
-```yaml
-require: rubocop-rails
-
-AllCops:
-  Exclude:
-    - bin/*
-    - config.ru
-    - db/schema.rb
-    - node_modules
-
-Style/Documentation:
-  Enabled: false
-
-Style/HashEachMethods:
-  Enabled: true
-
-Style/HashTransformKeys:
-  Enabled: true
-
-Style/HashTransformValues:
-  Enabled: true
-
-Layout/ArgumentAlignment:
-  EnforcedStyle: with_fixed_indentation
-
-Layout/FirstArrayElementIndentation:
-  EnforcedStyle: consistent
-
-Layout/HashAlignment:
-  EnforcedLastArgumentHashStyle: ignore_implicit
-
-Layout/LineLength:
-  IgnoreCopDirectives: true
-  IgnoredPatterns:
-    - '^\s*# '
-
-Layout/ParameterAlignment:
-  EnforcedStyle: with_fixed_indentation
-
-Layout/SpaceAroundMethodCallOperator:
-  Enabled: true
-
-Lint/AmbiguousBlockAssociation:
-  Exclude:
-    - "**/*_spec.rb"
-
-Lint/RaiseException:
-  Enabled: true
-
-Lint/StructNewOverride:
-  Enabled: true
-
-Metrics/BlockLength:
-  Exclude:
-    - Guardfile
-    - config/environments/*
-    - config/routes.rb
-    - "**/*_spec.rb"
-    - spec/support/*_shared_examples.rb
-
-Metrics/MethodLength:
-  Exclude:
-    - "db/migrate/*.rb"
-
-Rails:
-  Enabled: true
-
-Rails/BulkChangeTable:
-  Enabled: true
-
-Style/BlockDelimiters:
-  EnforcedStyle: braces_for_chaining
-
-Style/ClassAndModuleChildren:
-  Enabled: false
-
-Style/EmptyMethod:
-  EnforcedStyle: expanded
-
-Style/ExponentialNotation:
-  Enabled: true
-
-Style/FrozenStringLiteralComment:
-  Enabled: false
-
-Style/PercentLiteralDelimiters:
-  Enabled: true
-
-Style/StringLiterals:
-  Exclude:
-    - lib/tasks/*.rake
-    - spec/**/*_spec.rb
-
-Style/TrailingCommaInArguments:
-  EnforcedStyleForMultiline: comma
-
-Style/TrailingCommaInArrayLiteral:
-  EnforcedStyleForMultiline: comma
-
-Style/TrailingCommaInHashLiteral:
-  EnforcedStyleForMultiline: comma
-
-Layout/EmptyLinesAroundAttributeAccessor:
-  Enabled: true
-
-Style/SlicingWithRange:
-  Enabled: true
-```
-
 ## Library vulnerability checks
 
 Use [bundler-audit](https://github.com/rubysec/bundler-audit) to check for
 security vulnerabilities in your gems.
 
-To install add `bundler-audit` to your `Gemfile` and run `bundle`.
+To install add `bundler-audit` to the development section of your `Gemfile` and
+run `bundle`.
 
-To run use the command `rake bundle:audit`.
+To run use the command `bundle audit`.
 
 Update any gems with vulnerabilities.
 
@@ -705,26 +641,122 @@ leave off the comments and the version specifier for license finder.
 
 To run, use this command: `license_finder`.
 
+To whitelist approved licences use `license_finder whitelist add <licences>`.
+Here is a reasonable starting list:
+
+`bundle exec license_finder whitelist add MIT MIT* ruby "Apache 2.0" ISC BSD "Simplified BSD" "New BSD" BSD-3-Clause 0BSD BSD* Unlicense CC0-1.0 CC-BY-3.0 CC-BY-4.0 WTFPL "Brakeman Public Use License"`
+
+Some packages list multiple licenses in a way that license finder doesn't
+understand. For those we need to correct what license are available.
+
+```sh
+bundle exec license_finder licenses add amdefine MIT
+bundle exec license_finder licenses add amdefine BSD-3-Clause
+
+bundle exec license_finder licenses add atob MIT
+bundle exec license_finder licenses add atob Apache-2.0
+
+bundle exec license_finder licenses add node-forge BSD-3-Clause
+bundle exec license_finder licenses add node-forge GPL-2.0
+
+bundle exec license_finder licenses add pako MIT
+bundle exec license_finder licenses add pako Zlib
+
+bundle exec license_finder licenses add path-is-inside WTFPL
+bundle exec license_finder licenses add path-is-inside MIT
+
+bundle exec license_finder licenses add sha.js MIT
+bundle exec license_finder licenses add sha.js BSD-3-Clause
+```
+
+Finally, bundler-audit is has a GPL license, which means we can't incorporate
+it into non-GPL code. But it is not part of our app, it's only a tool we use
+it's okay.
+
+```sh
+bundle exec license_finder approvals add bundler-audit
+```
+
 ## Default rake task
 
 Having a single command to run all of your automated checks and specs makes it
 easy to run them after every change.
 
-In your `Rakefile` before the call to `load_tasks` add the following:
+First we need to create the rake tasks that don't already exist.
+
+### Rubocop
+
+In `lib/tasks/rubocop.rake` put
 
 ```ruby
-require 'rubocop/rake_task'
-RuboCop::RakeTask.new
-
-require 'bundler/audit/task'
-Bundler::Audit::Task.new
+if Gem::Specification.find_all_by_name('rubocop').present?
+  require 'rubocop/rake_task'
+  RuboCop::RakeTask.new
+end
 ```
 
-Then after all the tasks are loaded, define your new tasks:
+Now you can run `rake rubocop`.
+
+### Bundler audit
+
+In `lib/tasks/bundler_audit.rake` put
+
+```ruby
+if Gem::Specification.find_all_by_name('bundler-audit').present?
+  require 'bundler/audit/task'
+  Bundler::Audit::Task.new
+end
+```
+
+Now you can run `rake bundle:audit`.
+
+### License finder
+
+In `lib/tasks/license_finder.rake` put
+
+```ruby
+task license_finder: :environment do
+  sh 'license_finder', '--quiet'
+end
+```
+
+Now you can run `rake license_finder`.
+
+### Rails best practices
+
+In `lib/tasks/rails_best_practices.rake` put
+
+```ruby
+task rails_best_practices: :environment do
+  sh 'rails_best_practices'
+end
+```
+
+Now you can run `rake rails_best_practices`.
+
+### Brakeman
+
+In `lib/tasks/brakeman.rake` put
+
+```ruby
+if Gem::Specification.find_all_by_name('brakeman').present?
+  namespace :brakeman do
+    desc "Check your code with Brakeman"
+    task check: :environment do
+      require 'brakeman'
+      r = Brakeman.run app_path: '.', print_report: true, pager: false
+      exit Brakeman::Warnings_Found_Exit_Code unless r.filtered_warnings.empty?
+    end
+  end
+end
+```
+
+### Default rake task
+
+In `Rakefile` define your default rake task.
 
 ```ruby
 task default: %i[
-  reset_articles
   rubocop
   spec
   rails_best_practices
@@ -732,14 +764,6 @@ task default: %i[
   brakeman:check
   bundle:audit
 ]
-
-task license_finder: :environment do
-  sh 'license_finder', '--quiet'
-end
-
-task rails_best_practices: :environment do
-  sh 'rails_best_practices'
-end
 ```
 
 To run the default task with all of your automated checks and specs use this
@@ -767,14 +791,20 @@ avoid running the slower checks before discovering that you can't deploy.
 #!/bin/bash
 set -e
 
-$(heroku whoami) || (echo "Not logged into heroku. Run \`heroku login\`."; exit 1)
+heroku whoami > /dev/null || (echo "Not logged into heroku. Run \`heroku login\`."; exit 1)
 test -z "$(git status --porcelain)" || (echo "Git repo not clean"; exit 1)
 
 rake
 
 git push origin
 git push https://git.heroku.com/heroku_app_name.git develop:master
-heroku run rake db:migrate reset_articles --app heroku_app_name
+heroku run rake db:migrate --app heroku_app_name
+```
+
+Don't forget to make your deploy script executable.
+
+```sh
+chmod +x bin/deploy
 ```
 
 ## Gem update script
@@ -792,6 +822,11 @@ rake
 git commit -am "Updated gems"
 ```
 
+Don't forget to make your gem update script executable.
+
+```sh
+chmod +x bin/gem_update
+```
 ## Add a README
 
 ```markdown
@@ -799,13 +834,19 @@ git commit -am "Updated gems"
 
 What it is
 
-## Development setup
+## Development
 
-TODO
+### Specs
 
-## Deploy process
+`rake`
+
+### Deployment
 
 `bin/deploy`
+
+### Updating libraries
+
+`bin/gem_update`
 ```
 
 ## Authentication
