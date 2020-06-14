@@ -5,6 +5,12 @@ category:
 tags: [rails]
 ---
 
+[TODO:
+  - FactoryBot
+  (https://github.com/thoughtbot/factory_bot/blob/master/GETTING_STARTED.md)
+  - ShouldaMatchers
+]
+
 ## Introduction
 
 I love [Ruby on Rails](https://rubyonrails.org). I think it's a fantastic
@@ -89,7 +95,7 @@ rails project in that directory.
 
 The Rails new command accepts a lot of options that make a lot of the later
 recommendations unnecessary. I haven't included them here because a) I don't
-know what they are, and b) I am likely to foget them and still need to make the
+know what they are, and b) I am likely to forget them and still need to make the
 changes later.
 
 ## Git
@@ -150,6 +156,7 @@ If this is an open source project, add a Code of Conduct.
 
 The [Contributor Covenant](https://www.contributor-covenant.org) is probably a
 good choice. Put it in the a file called `CODE_OF_CONDUCT.md`.
+
 ## Database
 
 Rails uses SQLite as the database by default because it is fully-contained;
@@ -628,7 +635,7 @@ all of your dependencies are distributed under a license you can use.
 To install, add this to the development section of your `Gemfile`.
 
 ```ruby
-  # license_finder (6.0) doesn't work
+  # license_finder (7.0) doesn't work
   # license_finder (6.2) depends on thor 1.0
   # bundler-audit (0.6) depends on thor 0.18
   # Once we get bundler-audit 0.7, we can upgrate to license_finder 6.2
