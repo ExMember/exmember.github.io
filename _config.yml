@@ -23,16 +23,16 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: post
+      layout: page
   -
     scope:
       path: ""
       type: pages
     values:
-      layout: post
+      layout: page
   -
     scope:
       path: ""
       type: drafts
     values:
-      layout: post
+      layout: page
