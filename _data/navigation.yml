@@ -1,0 +1,62 @@
+primary:
+  - text: Talaria Software
+    href: https://www.talariasoftware.com
+    external: true
+  - text: Neverbust
+    href: https://www.neverbust.com
+    external: true
+  - text: EarlyWords
+    href: https://earlywords.io
+    external: true
+  - text: Writing
+    href: /everything
+  # - text: Navigation section
+  #   links:
+  #     - text: Demo link A
+  #       href: /two/a/
+  #     - text: Demo link B
+  #       href: /two/b/
+  #     - text: Demo link C
+  #       href: /two/c/
+  #     - text: Demo link D
+  #       href: /two/a/
+  #     - text: Demo link E
+  #       href: /two/b/
+  #     - text: Demo link F
+  #       href: /two/c/
+
+# secondary:
+#   - text: Documentation
+#     href: /docs/
+#   - text: Theme
+#     href: /theme/
+
+docs:
+  - text: Sidenav Documentation
+    href: /docs/
+  - text: Sidenav Navigation section
+    links:
+      - text: Demo link A
+        href: /two/a/
+      - text: Demo link B
+        href: /two/b/
+      - text: Demo link C
+        href: /two/c/
+  - text: Sidenav Referenced section
+    links: footer
+  - text: Sidenav External link
+    href: https://18f.gsa.gov
+    external: true
+
+footer:
+  - text: Talaria Software
+    href: https://www.talariasoftware.com
+    external: true
+  - text: Neverbust
+    href: https://www.neverbust.com
+    external: true
+  - text: EarlyWords
+    href: https://earlywords.io
+    external: true
+  - text: Writing
+    href: /everything

@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-remote-theme
+
 # Site settings
 title: Damien Burke
 email: damien@damienburke.com
@@ -11,6 +14,7 @@ include: ['.htaccess']
 # Build settings
 markdown: kramdown
 timezone: America/Los_Angeles
+remote_theme: 18F/uswds-jekyll
 future: false
 
 defaults:

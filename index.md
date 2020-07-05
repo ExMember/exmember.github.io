@@ -1,8 +1,7 @@
 ---
+layout: home
 ---
 # About Me
-
-![](/images/about-me/actor.jpg)
 
 I started working on Internet startups in 1999 and never stopped. I have been an
 engineer, founder, consultant, CTO, and product manager.
