@@ -27,10 +27,10 @@ contact:
       href: https://twitter.com/exmember
       external: true
       type: twitter
-    # - text: GitHub
-    #   href: https://github.com/exmember
-    #   external: true
-    #   type: github
+    - text: GitHub
+      href: https://github.com/exmember
+      external: true
+      type: github
     # - text: Facebook
     #   href: https://facebook.com
     #   external: true
