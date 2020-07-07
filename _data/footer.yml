@@ -31,6 +31,10 @@ contact:
       href: https://github.com/exmember
       external: true
       type: github
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/damienburke/
+      external: true
+      type: linkedin
     # - text: Facebook
     #   href: https://facebook.com
     #   external: true

@@ -3,3 +3,7 @@
   background-image: url('../../images/social-icons/png/github32.png');
 }
 
+.usa-link-linkedin {
+  @extend .usa-social_link;
+  background-image: url('../../images/social-icons/png/linkedin32.png');
+}
