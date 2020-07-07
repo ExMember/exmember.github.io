@@ -1,3 +1,13 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
 .usa-link-github {
   @extend .usa-social_link;
   background-image: url('../../images/social-icons/png/github32.png');
