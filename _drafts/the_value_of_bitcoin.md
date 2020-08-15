@@ -2,6 +2,8 @@
 title: The Value of Bitcoin
 category:
 tags:
+- bitcoin
+- money
 ---
 
 My goal here is to determine the value of bitcoin from first principles.
@@ -20,11 +22,11 @@ Money, by definition, has three characteristics. It is a store of value,
 a medium of exchange, and a unit of account.
 
 A unit of account is something that is useful to measure the value (or
-cost) of other items. In the same way we inches to measure length, we use
-a currency, (like dollars) to measure value.
+cost) of other items. In the same way we use inches to measure length, we use
+a money, (like dollars) to measure value.
 
 A medium of exchange is something that is useful in trade. I write
-software and eat bananas. It's hard to trade grapes for software labor, so
+software and eat bananas. It's hard to trade bananas for software labor, so
 instead I trade my labor for money, which I can then trade for bananas.
 
 A store of value is something that is useful because it can be saved and
@@ -46,7 +48,7 @@ ounce of copper is equal to every other ounce of copper.
 Not all commodities are suitable as money. Barrels of crude oil are too
 heavy to carry to the store. Pork bellies rot if they are not kept frozen.
 
-Gold and silver have been used as money throughout most of the world.
+Gold and silver are commodities that have been used as money throughout most of the world.
 
 ### Representative currency
 
@@ -57,14 +59,14 @@ Copper is heavy and difficult to ship, so around 800 BC the Tang Dynasty
 began to pay merchants with pieces of paper that could be exchanged for
 copper in the capital.
 
-As recently as 1933 the US Government issued gold certificate. Each
+As recently as 1933 the US Government created representative currency in the form of gold certificates. Each
 certificate could be exchanged for a fixed amount of gold.
 
 ### Fiat money
 
 Fiat is Latin for "let it be done" and means an authoritative or arbitrary
 order.[^fiat-definition] Fiat money is not an economic good like commodity
-money, nor does it represent one. It is called fiat because something,
+money, nor does it represent one like representative money. It is called fiat because something,
 usually a government, declares it to be money.
 
 ## Bitcoin as money
@@ -82,7 +84,7 @@ identity, it use an address tied to a secret key.
 
 Because anyone can process bitcoin transactions, there is the potential
 for them to happen faster and cheaper than other systems. Because there is
-no need to tie an account to an identity there is the potential for pseudo
+no need to tie an account to an identity, there is the potential for pseudo
 or complete anonymity. Because the ledger is distributed transfers can be
 made without needed to trust any third-party. 
 
@@ -125,8 +127,8 @@ Much of the demand for money come from people who do not want it for its
 underlying value. 
 
 Investors don't buy gold coins to make circuit boards. I want dollars so
-I can pay taxes, but also so I can buy grapes from the grocer. The grocer
-wants dollars so he can pay his suppliers and landlord and stock boy. And
+I can pay taxes, but also so I can buy bananas from the grocer. The grocer
+wants dollars so he can pay his suppliers and landlord and clerks. And
 they all want dollars so they can buy a myriad of things.
 
 And even though much of the trade in dollars is not to immediately satisfy
@@ -166,11 +168,11 @@ asset that is worth \$100, they make \$30 in profit instantly.
 
 Because bitcoin has no value, it cannot be a value investment.
 
-Speculation is the process of guessing which assets people will pay more
+Speculation is the process of speculating on which assets people will pay more
 for in the future and buying those assets with the intent of selling them
 when the price goes up.
 
-Bitcoin meteoric rise in price has created astonishing returns for
+Bitcoin's meteoric rise in price has created astonishing returns for
 speculators and it may continue to do so. Because the price is limited
 only by what people believe other people will pay for bitcoin in the
 future there is no limit to how high it can go.
