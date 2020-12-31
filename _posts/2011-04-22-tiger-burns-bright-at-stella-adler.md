@@ -10,9 +10,7 @@ tags:
 - curvewire
 ---
 
-A very kind
-[review](http://curvewire.com/posts/blog/&acirc;&euro;&oelig;tiger&acirc;&euro;-burns-bright-stella-adler)
-from RS Bailey on Curve Wire.
+A very kind review from RS Bailey on Curve Wire.
 
 > "Tiger Tiger Burning Bright" is well-written and intelligent play with a
 genuine feel for the underside of life and the everyday people it affects. Sam
@@ -23,7 +21,7 @@ monumental performances from his cast.
 
 Come see for yourself, Thursday, Friday, and Saturday at 8, Sundays at 3 at the
 Stella Adler Theatre in Hollywood. For tickets and information go to
-[plays411.net/tiger](plays411.net/tiger) or call 323-960-7740.
+plays411.net/tiger or call 323-960-7740.
 
 ![Clarence and Adelaide with
 Cille](images/tiger-tiger-clarence-adelaide-cille.jpg)

@@ -15,6 +15,18 @@ future: false
 plugins:
   - jekyll-feed
 
+exclude:
+  - bin
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - Rakefile
+  - tmp
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
 defaults:
   -
     scope:
