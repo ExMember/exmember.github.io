@@ -1,0 +1,332 @@
+<!-- 
+Ignore this implementation of the post class. It's only here so we can run
+the specs in this file using a magic incantation like this: 
+
+```sh
+
+sed -n '/^```/,/^```/ p' < _drafts/exception-spec-versus-tree-specs.md | sed '/^```/ d' | rspec /dev/stdin
+
+```
+
+```ruby
+class Post
+  attr_accessor :published_at
+  attr_accessor :editor_approved
+  attr_accessor :translated
+
+  def initialize(published_at: nil, editor_approved: false, translated: false)
+    @published_at = published_at
+    @editor_approved = editor_approved
+    @translated = translated
+  end
+
+  def editable?
+    !published_at && !editor_approved && !translated
+  end
+end
+```
+ -->
+
+<p>After years of fighting, the zombies have been contained and now it’s time
+to rebuild civilization. Everyone has a particular job to do in this
+technological reboot and yours is to write a blog platform. It could be
+worse. Someone is out there inspecting septic tank interiors.</p>
+
+<p>Your post-apocalyptic project manager used to be a newspaper editor and as
+such he’s a stickler for some journalism best practices. For instance, he
+wants to make sure that posts cannot be edited after they have been
+published.</p>
+
+<p>So you write this spec:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="no">RSpec</span><span class="p">.</span><span class="nf">describe</span> <span class="no">Post</span> <span class="k">do</span>
+  <span class="n">describe</span> <span class="s2">"#editable?"</span> <span class="k">do</span>
+    <span class="n">context</span> <span class="s2">"when the post is published"</span> <span class="k">do</span>
+      <span class="n">subject</span> <span class="p">{</span> <span class="no">Post</span><span class="p">.</span><span class="nf">new</span> <span class="ss">published_at: </span><span class="no">Time</span><span class="p">.</span><span class="nf">now</span><span class="p">.</span><span class="nf">utc</span> <span class="p">}</span>
+
+      <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+    <span class="k">end</span>
+
+    <span class="n">context</span> <span class="s2">"when the post is not published"</span> <span class="k">do</span>
+      <span class="n">subject</span> <span class="p">{</span> <span class="no">Post</span><span class="p">.</span><span class="nf">new</span> <span class="ss">published_at: </span><span class="kp">nil</span> <span class="p">}</span>
+
+      <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">to</span> <span class="n">be_editable</span> <span class="p">}</span>
+    <span class="k">end</span>
+  <span class="k">end</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<p>Before the cataclysm, your PM was a bit of a control freak. He almost
+burst a blood vessel when a writer changed an article that he had already
+approved. He wants to make sure that cannot happen in your new blog
+platform.</p>
+
+<p>So you modify your specs to look like this:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="no">RSpec</span><span class="p">.</span><span class="nf">describe</span> <span class="no">Post</span> <span class="k">do</span>
+  <span class="n">describe</span> <span class="s2">"#editable?"</span> <span class="k">do</span>
+    <span class="n">subject</span> <span class="k">do</span>
+      <span class="no">Post</span><span class="p">.</span><span class="nf">new</span> <span class="ss">published_at: </span><span class="n">published_at</span><span class="p">,</span> <span class="ss">editor_approved: </span><span class="n">editor_approved</span>
+    <span class="k">end</span>
+
+    <span class="n">context</span> <span class="s2">"when the post is published"</span> <span class="k">do</span>
+      <span class="n">let</span><span class="p">(</span><span class="ss">:published_at</span><span class="p">)</span> <span class="p">{</span> <span class="no">Time</span><span class="p">.</span><span class="nf">now</span><span class="p">.</span><span class="nf">utc</span> <span class="p">}</span>
+
+      <span class="n">context</span> <span class="s2">"when the editor has approved"</span> <span class="k">do</span>
+        <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">true</span> <span class="p">}</span>
+
+        <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+      <span class="k">end</span>
+
+      <span class="n">context</span> <span class="s2">"when the editor has not approved"</span> <span class="k">do</span>
+        <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">false</span> <span class="p">}</span>
+
+        <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+      <span class="k">end</span>
+    <span class="k">end</span>
+
+    <span class="n">context</span> <span class="s2">"when the post is not published"</span> <span class="k">do</span>
+      <span class="n">let</span><span class="p">(</span><span class="ss">:published_at</span><span class="p">)</span> <span class="p">{</span> <span class="kp">nil</span> <span class="p">}</span>
+
+      <span class="n">context</span> <span class="s2">"when the editor has approved"</span> <span class="k">do</span>
+        <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">true</span> <span class="p">}</span>
+
+        <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+      <span class="k">end</span>
+
+      <span class="n">context</span> <span class="s2">"when the editor has not approved"</span> <span class="k">do</span>
+        <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">false</span> <span class="p">}</span>
+
+        <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">to</span> <span class="n">be_editable</span> <span class="p">}</span>
+      <span class="k">end</span>
+    <span class="k">end</span>
+  <span class="k">end</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<p>The newspaper industry was struggling even before the end of the world as
+we knew it and your PM knows how important it is to pinch pennies. To
+avoid paying translators more than once for the same article he wants to
+make sure that no one changes an article after it has been translated.</p>
+
+<p>So you modify your spec again. Now it looks like this:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="no">RSpec</span><span class="p">.</span><span class="nf">describe</span> <span class="no">Post</span> <span class="k">do</span>
+  <span class="n">describe</span> <span class="s2">"#editable?"</span> <span class="k">do</span>
+    <span class="n">subject</span> <span class="k">do</span>
+      <span class="no">Post</span><span class="p">.</span><span class="nf">new</span><span class="p">(</span>
+        <span class="ss">published_at: </span><span class="n">published_at</span><span class="p">,</span>
+        <span class="ss">editor_approved: </span><span class="n">editor_approved</span><span class="p">,</span>
+        <span class="ss">translated: </span><span class="n">translated</span><span class="p">,</span>
+      <span class="p">)</span>
+    <span class="k">end</span>
+
+    <span class="n">context</span> <span class="s2">"when the post is published"</span> <span class="k">do</span>
+      <span class="n">let</span><span class="p">(</span><span class="ss">:published_at</span><span class="p">)</span> <span class="p">{</span> <span class="no">Time</span><span class="p">.</span><span class="nf">now</span><span class="p">.</span><span class="nf">utc</span> <span class="p">}</span>
+
+      <span class="n">context</span> <span class="s2">"when the editor has approved"</span> <span class="k">do</span>
+        <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">true</span> <span class="p">}</span>
+
+        <span class="n">context</span> <span class="s2">"when the post has been translated"</span> <span class="k">do</span>
+          <span class="n">let</span><span class="p">(</span><span class="ss">:translated</span><span class="p">)</span> <span class="p">{</span> <span class="kp">true</span> <span class="p">}</span>
+
+          <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+        <span class="k">end</span>
+
+        <span class="n">context</span> <span class="s2">"when the post has not been translated"</span> <span class="k">do</span>
+          <span class="n">let</span><span class="p">(</span><span class="ss">:translated</span><span class="p">)</span> <span class="p">{</span> <span class="kp">false</span> <span class="p">}</span>
+
+          <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+        <span class="k">end</span>
+      <span class="k">end</span>
+
+      <span class="n">context</span> <span class="s2">"when the editor has not approved"</span> <span class="k">do</span>
+        <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">false</span> <span class="p">}</span>
+
+        <span class="n">context</span> <span class="s2">"when the post has been translated"</span> <span class="k">do</span>
+          <span class="n">let</span><span class="p">(</span><span class="ss">:translated</span><span class="p">)</span> <span class="p">{</span> <span class="kp">true</span> <span class="p">}</span>
+
+          <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+        <span class="k">end</span>
+
+        <span class="n">context</span> <span class="s2">"when the post has not been translated"</span> <span class="k">do</span>
+          <span class="n">let</span><span class="p">(</span><span class="ss">:translated</span><span class="p">)</span> <span class="p">{</span> <span class="kp">false</span> <span class="p">}</span>
+
+          <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+        <span class="k">end</span>
+      <span class="k">end</span>
+    <span class="k">end</span>
+
+    <span class="n">context</span> <span class="s2">"when the post is not published"</span> <span class="k">do</span>
+      <span class="n">let</span><span class="p">(</span><span class="ss">:published_at</span><span class="p">)</span> <span class="p">{</span> <span class="kp">nil</span> <span class="p">}</span>
+
+      <span class="n">context</span> <span class="s2">"when the editor has approved"</span> <span class="k">do</span>
+        <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">true</span> <span class="p">}</span>
+
+        <span class="n">context</span> <span class="s2">"when the post has been translated"</span> <span class="k">do</span>
+          <span class="n">let</span><span class="p">(</span><span class="ss">:translated</span><span class="p">)</span> <span class="p">{</span> <span class="kp">true</span> <span class="p">}</span>
+
+          <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+        <span class="k">end</span>
+
+        <span class="n">context</span> <span class="s2">"when the post has not been translated"</span> <span class="k">do</span>
+          <span class="n">let</span><span class="p">(</span><span class="ss">:translated</span><span class="p">)</span> <span class="p">{</span> <span class="kp">false</span> <span class="p">}</span>
+
+          <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+        <span class="k">end</span>
+      <span class="k">end</span>
+
+      <span class="n">context</span> <span class="s2">"when the editor has not approved"</span> <span class="k">do</span>
+        <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">false</span> <span class="p">}</span>
+
+        <span class="n">context</span> <span class="s2">"when the post has been translated"</span> <span class="k">do</span>
+          <span class="n">let</span><span class="p">(</span><span class="ss">:translated</span><span class="p">)</span> <span class="p">{</span> <span class="kp">true</span> <span class="p">}</span>
+
+          <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+        <span class="k">end</span>
+
+        <span class="n">context</span> <span class="s2">"when the post has not been translated"</span> <span class="k">do</span>
+          <span class="n">let</span><span class="p">(</span><span class="ss">:translated</span><span class="p">)</span> <span class="p">{</span> <span class="kp">false</span> <span class="p">}</span>
+
+          <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">to</span> <span class="n">be_editable</span> <span class="p">}</span>
+        <span class="k">end</span>
+      <span class="k">end</span>
+    <span class="k">end</span>
+  <span class="k">end</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<p>This is spec is starting to get pretty long and hard to follow. And being
+the sort of engineer who is smart enough to survive a zombie apocalypse
+you can see that the spec doubles in size every time a new condition is
+added.</p>
+
+<p>That’s not tenable. Let’s rewind and see if we can find a better way.</p>
+
+<p>Before the translation requirement, the spec looked like this:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="no">RSpec</span><span class="p">.</span><span class="nf">describe</span> <span class="no">Post</span> <span class="k">do</span>
+  <span class="n">describe</span> <span class="s2">"#editable?"</span> <span class="k">do</span>
+    <span class="n">subject</span> <span class="k">do</span>
+      <span class="no">Post</span><span class="p">.</span><span class="nf">new</span> <span class="ss">published_at: </span><span class="n">published_at</span><span class="p">,</span> <span class="ss">editor_approved: </span><span class="n">editor_approved</span>
+    <span class="k">end</span>
+
+    <span class="n">context</span> <span class="s2">"when the post is published"</span> <span class="k">do</span>
+      <span class="n">let</span><span class="p">(</span><span class="ss">:published_at</span><span class="p">)</span> <span class="p">{</span> <span class="no">Time</span><span class="p">.</span><span class="nf">now</span><span class="p">.</span><span class="nf">utc</span> <span class="p">}</span>
+
+      <span class="n">context</span> <span class="s2">"when the editor has approved"</span> <span class="k">do</span>
+        <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">true</span> <span class="p">}</span>
+
+        <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+      <span class="k">end</span>
+
+      <span class="n">context</span> <span class="s2">"when the editor has not approved"</span> <span class="k">do</span>
+        <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">false</span> <span class="p">}</span>
+
+        <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+      <span class="k">end</span>
+    <span class="k">end</span>
+
+    <span class="n">context</span> <span class="s2">"when the post is not published"</span> <span class="k">do</span>
+      <span class="n">let</span><span class="p">(</span><span class="ss">:published_at</span><span class="p">)</span> <span class="p">{</span> <span class="kp">nil</span> <span class="p">}</span>
+
+      <span class="n">context</span> <span class="s2">"when the editor has approved"</span> <span class="k">do</span>
+        <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">true</span> <span class="p">}</span>
+
+        <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+      <span class="k">end</span>
+
+      <span class="n">context</span> <span class="s2">"when the editor has not approved"</span> <span class="k">do</span>
+        <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">false</span> <span class="p">}</span>
+
+        <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">to</span> <span class="n">be_editable</span> <span class="p">}</span>
+      <span class="k">end</span>
+    <span class="k">end</span>
+  <span class="k">end</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<p>The specification is structured like a binary tree with an expectation at
+each terminal leaf. Every condition we add adds another level to the tree,
+doubles the number of terminal leaves, and doubles the number of
+expectations.</p>
+
+<p>Part of the reason you’ve survived this long is your ability to tell
+humans apart from zombies. When you apply the same pattern-matching skills
+to this spec you notice one of the expectations is different from all of
+the rest.</p>
+
+<p>In one situation the post is editable. All the other specs are exceptions
+to that situation. When you re-factor the specs to reflect that they look
+more like this:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="no">RSpec</span><span class="p">.</span><span class="nf">describe</span> <span class="no">Post</span> <span class="k">do</span>
+  <span class="n">describe</span> <span class="s2">"#editable?"</span> <span class="k">do</span>
+    <span class="n">subject</span> <span class="k">do</span>
+      <span class="no">Post</span><span class="p">.</span><span class="nf">new</span> <span class="ss">published_at: </span><span class="n">published_at</span><span class="p">,</span> <span class="ss">editor_approved: </span><span class="n">editor_approved</span>
+    <span class="k">end</span>
+
+    <span class="n">let</span><span class="p">(</span><span class="ss">:published_at</span><span class="p">)</span> <span class="p">{</span> <span class="kp">nil</span> <span class="p">}</span>
+    <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">false</span> <span class="p">}</span>
+
+    <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">to</span> <span class="n">be_editable</span> <span class="p">}</span>
+
+    <span class="n">context</span> <span class="s2">"when the post is published"</span> <span class="k">do</span>
+      <span class="n">let</span><span class="p">(</span><span class="ss">:published_at</span><span class="p">)</span> <span class="p">{</span> <span class="no">Time</span><span class="p">.</span><span class="nf">now</span><span class="p">.</span><span class="nf">utc</span> <span class="p">}</span>
+
+      <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+    <span class="k">end</span>
+
+    <span class="n">context</span> <span class="s2">"when the editor has approved"</span> <span class="k">do</span>
+      <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">true</span> <span class="p">}</span>
+
+      <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+    <span class="k">end</span>
+  <span class="k">end</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<p>The spec is now more concise, easier to read, and easier to modify. When
+you add the translation requirement it looks like this:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="no">RSpec</span><span class="p">.</span><span class="nf">describe</span> <span class="no">Post</span> <span class="k">do</span>
+  <span class="n">describe</span> <span class="s2">"#editable?"</span> <span class="k">do</span>
+    <span class="n">subject</span> <span class="k">do</span>
+      <span class="no">Post</span><span class="p">.</span><span class="nf">new</span><span class="p">(</span>
+        <span class="ss">published_at: </span><span class="n">published_at</span><span class="p">,</span>
+        <span class="ss">editor_approved: </span><span class="n">editor_approved</span><span class="p">,</span>
+        <span class="ss">translated: </span><span class="n">translated</span><span class="p">,</span>
+      <span class="p">)</span>
+    <span class="k">end</span>
+
+    <span class="n">let</span><span class="p">(</span><span class="ss">:published_at</span><span class="p">)</span> <span class="p">{</span> <span class="kp">nil</span> <span class="p">}</span>
+    <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">false</span> <span class="p">}</span>
+    <span class="n">let</span><span class="p">(</span><span class="ss">:translated</span><span class="p">)</span> <span class="p">{</span> <span class="kp">false</span> <span class="p">}</span>
+
+    <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">to</span> <span class="n">be_editable</span> <span class="p">}</span>
+
+    <span class="n">context</span> <span class="s2">"when the post is published"</span> <span class="k">do</span>
+      <span class="n">let</span><span class="p">(</span><span class="ss">:published_at</span><span class="p">)</span> <span class="p">{</span> <span class="no">Time</span><span class="p">.</span><span class="nf">now</span><span class="p">.</span><span class="nf">utc</span> <span class="p">}</span>
+
+      <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+    <span class="k">end</span>
+
+    <span class="n">context</span> <span class="s2">"when the editor has approved"</span> <span class="k">do</span>
+      <span class="n">let</span><span class="p">(</span><span class="ss">:editor_approved</span><span class="p">)</span> <span class="p">{</span> <span class="kp">true</span> <span class="p">}</span>
+
+      <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+    <span class="k">end</span>
+
+    <span class="n">context</span> <span class="s2">"when the post has been translated"</span> <span class="k">do</span>
+      <span class="n">let</span><span class="p">(</span><span class="ss">:translated</span><span class="p">)</span> <span class="p">{</span> <span class="kp">true</span> <span class="p">}</span>
+
+      <span class="n">it</span> <span class="p">{</span> <span class="n">is_expected</span><span class="p">.</span><span class="nf">not_to</span> <span class="n">be_editable</span> <span class="p">}</span>
+    <span class="k">end</span>
+  <span class="k">end</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<p>When your objects have one normal case and a series of exceptions it makes
+sense to organize your specs that way. They will be shorter, clearer,
+easier to understand, and easier to modify; exactly what you will need
+them to be in order to thrive in the post-zombie apocalypse world.</p>
