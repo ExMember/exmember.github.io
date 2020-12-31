@@ -1,15 +1,9 @@
-// min-height 100vh breaks the header menu
-// so don't do it when the header menu is shown
-@include at-media($theme-header-min-width) {
-  body {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-  }
 
   main {
     flex: 1 0 auto;
   }
+.policy-list {
+  & li + li::before { content: " | "; }
 }
 
 .usa-social-link--github {
