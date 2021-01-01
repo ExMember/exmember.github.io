@@ -4,6 +4,7 @@ task :test do
   sh 'bundle exec jekyll build --future'
   options = {
     assume_extension: true,
+    cache: { timeframe: '30d' },
     check_html: true,
     check_external_hash: true,
     check_img_http: true,
