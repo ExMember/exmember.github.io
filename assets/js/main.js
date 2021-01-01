@@ -13,15 +13,15 @@
 
 
 
-<meta name='twitter:site' content='Damien+Burke'>
+<meta name='twitter:site' content='Damien Burke'>
 <meta name='twitter:title' content=''>
 <meta name='twitter:creator' content='@exmember'>
 
-<meta name='og:locale' content='en'>
-<meta name='og:site_name' content='Damien+Burke'>
-<meta name='og:title' content=''>
-<meta name='og:type' content='website'>
-<meta name='og:url' content='https://talriasoftware.com%2Fassets%2Fjs%2Fmain.js'>
+<meta property='og:locale' content='en'>
+<meta property='og:site_name' content='Damien Burke'>
+<meta property='og:title' content=''>
+<meta property='og:type' content='website'>
+<meta property='og:url' content='https://damienburke.com/assets/js/main.js'>
 
     
 
