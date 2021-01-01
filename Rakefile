@@ -5,7 +5,7 @@ task :test do
   options = {
     assume_extension: true,
     check_html: true,
-    # check_external_hash: true,
+    check_external_hash: true,
     check_img_http: true,
     check_sri: true,
     http_status_ignore: [999], # Fake status used by LinkedIn
