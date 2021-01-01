@@ -15,4 +15,4 @@ Boston University Center For Digital Imaging Arts. The festival is November
 chance to see a rough cut of this very exciting film.
 
 If you aren't going to be in Massachusetts this weekend, the [trailer is on
-YouTube](http://www.youtube.com/watch?v=CAoD1ZUWbr8).
+YouTube](https://www.youtube.com/watch?v=CAoD1ZUWbr8).

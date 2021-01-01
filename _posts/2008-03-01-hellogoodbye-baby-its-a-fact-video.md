@@ -6,7 +6,7 @@ category:
 tags: []
 ---
 My non-MTV-watching self did not know that this video had been out for quite
-sometime. I found the [video](http://www.youtube.com/watch?v=k9QE_pG0VDg) on
+sometime. I found the [video](https://www.youtube.com/watch?v=k9QE_pG0VDg) on
 YouTube. Three minutes and five seconds in you can see me on the right hand side
 of the star quarterback and antagonist. (His right, not yours)
 

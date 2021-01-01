@@ -131,7 +131,7 @@ I call it specification-driven development.
 about specifications written in any natural language.
 
 This essay was originally written for [Ministry of
-Velocity](http://www.ministryofvelocity.com/) and was first published
+Velocity](https://www.ministryofvelocity.com/) and was first published
 [here](https://blog.ministryofvelocity.com/types-of-specifications-69b2790dcd2d#.ifo1u8t60
 )
 on their [blog](https://blog.ministryofvelocity.com/).

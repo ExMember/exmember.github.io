@@ -16,4 +16,4 @@ Thanks also to everyone who came out to see us.
 
 If you didn't see it, Angela Gomez wrote an wonderful
 [review](http://www.socal.com/6373/172/Silent+Roar.html) at Socal.com. I think
-she did a great job capturing the essence of the show. 
+she did a great job capturing the essence of the show.

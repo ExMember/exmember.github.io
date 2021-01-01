@@ -21,4 +21,4 @@ company.
 We perform for our first school group on Monday April 27 but don't open for the
 public until Sunday May 31.
 
-All the details on at [Theatricum.com](http://theatricum.com). Come and see us!
+All the details on at [Theatricum.com](https://theatricum.com). Come and see us!

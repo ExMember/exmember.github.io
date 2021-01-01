@@ -16,11 +16,11 @@
 
 # Math
 
-Math is processed and formatted by [MathJax](http://mathjax.org)
+Math is processed and formatted by [MathJax](https://mathjax.org)
 
 [AsciiMath](http://asciimath.org/) is preferred because it is more readable, but
 for things AsciiMath doesn't support, or for importing complicated math from
-other places, [LaTeX](http://en.wikibooks.org/wiki/LaTeX/Mathematics) is also
+other places, [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) is also
 supported.
 
 ## AsciiMath

@@ -22,7 +22,7 @@ The cheating has been allowed to continue facilitated by some combination of
 incompetence and assistance within those poker rooms.
 
 A detailed summary, including all available documentation and statistical proofs
-can be found [here](http://forumserver.twoplustwo.com/showthread.php?t=208114).
+can be found [here](https://forumserver.twoplustwo.com/showthread.php?t=208114).
 
 ### Is online poker rigged?
 
@@ -33,11 +33,11 @@ there is in cheating.
 You see a lot more "action flops" online not because the decks are stacked to
 induce rake, but because you see more hands in a given amount of time and  your
 memory is subject to the [availability
-bias](http://en.wikipedia.org/wiki/Availability_heuristic).
+bias](https://en.wikipedia.org/wiki/Availability_heuristic).
 
 There is no "doom switch" flipped after you cash out. That's a result of cashing
 out after a good run and then experiencing a [regression to the
-mean](http://en.wikipedia.org/wiki/Regression_toward_the_mean).
+mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean).
 
 Collusion may be a problem. Online poker rooms have the tools to stop collusion,
 but need to be more skilled than the colluders to be effective. Contrast this

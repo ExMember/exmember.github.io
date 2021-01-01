@@ -6,7 +6,7 @@ category:
 tags: []
 ---
 "The Olivia Experiment" will open at the [Laemmle Music
-Hall](http://www.laemmle.com/theaters/4) in Beverly Hills on Friday August 15th.
+Hall](https://www.laemmle.com/theaters/4) in Beverly Hills on Friday August 15th.
 
 It's a great movie, I'm in it, and you should see it.
 

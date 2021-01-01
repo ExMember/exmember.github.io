@@ -10,5 +10,5 @@ tags:
 ---
 
 It's official. I am now represented by [Rich Smith of Brady, Brannon &
-Rich](http://bbrtalentagency.com) for commercial and commercial print. It's an
+Rich](https://bbrtalentagency.com) for commercial and commercial print. It's an
 honor to have a powerhouse agency like BBR demonstrate their faith in me.

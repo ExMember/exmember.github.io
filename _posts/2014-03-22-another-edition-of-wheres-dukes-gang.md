@@ -5,7 +5,7 @@ category:
 - acting
 tags: []
 ---
-[The Petrified Forest](http://theatrewest.org/onstage/petrifiedforest/) opened
+[The Petrified Forest](https://theatrewest.org/onstage/petrifiedforest/) opened
 Friday to a wonderful audience of theatre lovers at Theatre West. Get your
 tickets right away or win them by being sending in the first right answer to
 ["Where's Duke's Gang?"](https://vine.co/v/MMMeax2D7jQ)

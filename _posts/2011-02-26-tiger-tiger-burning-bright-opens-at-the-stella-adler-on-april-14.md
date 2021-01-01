@@ -71,7 +71,7 @@ WHEN: April 14- May 22,2011. Thurs.-Sat. at 8, Sun. at 3.
 ADMISSION: $20. Seniors, students, members of performing arts unions (with ID.),
 groups of eight or more, $10 (Use promotional code "BEST").  RESERVATIONS: (323)
 960-7740.  
-ONLINE TICKETING: [http://www.Plays411.com/tiger](http://www.Plays411.com/tiger)
+ONLINE TICKETING: https://www.Plays411.com/tiger
 
 Publicist: Philip Sokoloff  
  PO Box 94387  

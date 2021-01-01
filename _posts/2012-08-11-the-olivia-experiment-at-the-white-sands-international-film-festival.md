@@ -6,7 +6,7 @@ category:
 tags: []
 ---
 
-[The Olivia Experiment](http://www.theoliviaexperiment.com) has been chosen by
+[The Olivia Experiment](https://www.theoliviaexperiment.com) has been chosen by
 the [White Sands International Film Festival](http://www.wsiff.com) and will
 screen Thursday August 23 at noon.
 

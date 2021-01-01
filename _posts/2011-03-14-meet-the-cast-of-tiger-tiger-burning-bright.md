@@ -12,7 +12,7 @@ tags:
 Richard Reliford shot and edited this promo video introducing our cast.
 
 <iframe title="Tiger Tiger Burning Bright 'Meet the Cast' Promo" width="480"
-height="390" src="http://www.youtube.com/embed/lZknYPYzNq4?rel=0"
+height="390" src="https://www.youtube.com/embed/lZknYPYzNq4?rel=0"
 frameborder="0" allowfullscreen></iframe>
 
 I (obviously) didn't know what to say at the time. I would have liked to say

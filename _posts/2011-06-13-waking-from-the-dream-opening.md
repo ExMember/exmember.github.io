@@ -21,7 +21,7 @@ The rest of the pieces explore living with delusions in various ways. Come early
 for the art show, Japanese treats and tea, and a different pre-show every night.
 
 "Waking from the Dream" at the [Write Act Repertory
-Theater](http://writeactrep.org/), 7:30pm June 8th, 13th, 14th, 15th, 20th,
+Theater](https://writeactrep.org/), 7:30pm June 8th, 13th, 14th, 15th, 20th,
 21st, and 22nd. Tickets are $15. Call (323) 469-3113 for reservations.
 
 ![Velma and Manny](images/waking-from-the-dream-velma-and-manny.jpg)

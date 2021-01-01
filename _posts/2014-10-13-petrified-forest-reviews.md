@@ -18,14 +18,14 @@ entertaining today as it must have been in 1935 when it was written... top-notch
 theatrical entertainment.
 
 -- [Life in
-LA](http://lifeinla.com/entertainment/streams/theatre/128-theatre/862/the-petrified-forest-is-alive-and-well.html)
+LA](https://lifeinla.com/entertainment/streams/theatre/128-theatre/862/the-petrified-forest-is-alive-and-well.html)
 
 > The Petrified Forest endures because it has it all: romance, suspense, danger,
 sex and even a little politics. A fantasy of the highway, it unfurls like a
 dream of a still-untamed corner of the American West.
 
 -- [Broadway
-World](http://www.broadwayworld.com/los-angeles/article/BWW-Reviews-THE-PETRIFIED-FOREST-is-a-Clever-Mash-Up-of-a-Love-Story-Gangster-Tale-and-Political-Drama-20140324)
+World](https://www.broadwayworld.com/los-angeles/article/BWW-Reviews-THE-PETRIFIED-FOREST-is-a-Clever-Mash-Up-of-a-Love-Story-Gangster-Tale-and-Political-Drama-20140324)
 
 > The story has an incredible denouement, with all actors, an amazing ensemble
 of 18, each one gifted in his\her own right, and at a level always expected from

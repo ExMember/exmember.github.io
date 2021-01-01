@@ -24,4 +24,4 @@ Kerry Lengel interviewed the director of Pulp Shakespeare:
 > says. "He really knew the human psyche, and that's immortal."
 
 We had an awesome show tonight and another full house so [buy your tickets
-now](http://www.hollywoodfringe.org/projects/466).
+now](https://www.hollywoodfringe.org/projects/466).

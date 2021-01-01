@@ -11,10 +11,10 @@ Another day, another video! See me in episode two of "No Kids. No Cry." I show
 at the fifty-eight second mark.
 
 <object width="480" height="385"><param name="movie"
-value="http://www.youtube.com/v/CmRiSBJfJmQ&hl=en_US&fs=1&rel=0"></param><param
+value="https://www.youtube.com/v/CmRiSBJfJmQ&hl=en_US&fs=1&rel=0"></param><param
 name="allowFullScreen" value="true"></param><param name="allowscriptaccess"
 value="always"></param><embed
-src="http://www.youtube.com/v/CmRiSBJfJmQ&hl=en_US&fs=1&rel=0"
+src="https://www.youtube.com/v/CmRiSBJfJmQ&hl=en_US&fs=1&rel=0"
 type="application/x-shockwave-flash" allowscriptaccess="always"
 allowfullscreen="true" width="480" height="385"></embed></object>
 

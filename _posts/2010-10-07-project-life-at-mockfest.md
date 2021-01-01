@@ -17,4 +17,4 @@ be at the festival.
 
 I'll post more information about date, time, and ticket prices as I get it. For
 more information about Mockfest go to
-[http://mockfilmfest.weebly.com/](http://mockfilmfest.weebly.com/).
+[https://mockfilmfest.weebly.com/](https://mockfilmfest.weebly.com/).

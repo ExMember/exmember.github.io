@@ -8,7 +8,7 @@ tags:
 - Creepers
 ---
 If you are in Atlanta this weekend you are in the right place for the
-Dragon\*Con Independent Film Festival(http://filmfest.dragoncon.org/) where you
+Dragon\*Con Independent Film Festival(https://filmfest.dragoncon.org/) where you
 can see me in the short film "Creepers".
 
 Producers CJ Johnson and Genevieve Wheeler will be there doing Q & A so you can

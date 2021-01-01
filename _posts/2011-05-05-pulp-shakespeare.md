@@ -14,10 +14,10 @@ Slurry Tale" at the Hollywood Fringe Festival.
 
 Our little merry band, Her Majesty's Secret Player is in need of patronage.
 [Make a pledge via our
-Kickstarter](http://www.kickstarter.com/projects/560939718/pulp-shakespeare).
+Kickstarter](https://www.kickstarter.com/projects/560939718/pulp-shakespeare).
 
-[Buy tickets](http://www.hollywoodfringe.org/projects/466).
+[Buy tickets](https://www.hollywoodfringe.org/projects/466).
 
 <iframe frameborder="0" height="410px"
-src="http://www.kickstarter.com/projects/560939718/pulp-shakespeare/widget/video.html"
+src="https://www.kickstarter.com/projects/560939718/pulp-shakespeare/widget/video.html"
 width="480px"></iframe>

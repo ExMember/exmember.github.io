@@ -27,7 +27,7 @@ El Centro Ave, North of Melrose, and west of Western Avenue or the
 Hollywood freeway.
 
 More information about the HSDNC can be found on their
-[website](http://www.hsdnc.org/).
+[website](https://www.hsdnc.org/).
 
 # What is this document?
 

@@ -58,6 +58,6 @@ The idea for this essay originated in a Twitter
 talk I gave at [&:conf](https://www.andconf.io/).
 
 This essay was originally written for [Ministry of
-Velocity](http://www.ministryofvelocity.com/) and was first published
+Velocity](https://www.ministryofvelocity.com/) and was first published
 [here](https://blog.ministryofvelocity.com/specifications-not-tests-20a74a35b2ee#.ppb6rjz1c)
 on their [blog](https://blog.ministryofvelocity.com/).

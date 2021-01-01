@@ -20,7 +20,7 @@ and riveting,"
 cast."
 
 See the rest of his
-[review](http://dailytrojan.com/2011/04/20/tiger-tiger-burning-bright-intrigues/).
+[review](https://dailytrojan.com/2011/04/20/tiger-tiger-burning-bright-intrigues/).
 
 Then come see for yourself at the "surprisingly intimate" Stella Adler Theatre.
 Performances are Thursday through Saturday at 8 pm and Sunday at 3 pm through

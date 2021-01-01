@@ -15,6 +15,6 @@ an interview at Fangoria and an
 [interview on Fear the Dead
 radio](https://myspace.com/beparanoid/video/fear-the-dead-radio-interview-with-cj-johnson/34282537).
 For all the news about "Creepers" you can go to [the official
-website](http://www.myspace.com/beparanoid).
+website](https://www.myspace.com/beparanoid).
 
 ![Be Paranoid](images/creepers_movie_poster_be_paranoid.jpg)
