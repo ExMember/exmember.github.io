@@ -17,8 +17,4 @@ you to my fellow performers for their wonderful work and supportive environment.
 And thank you to Langston Hughes who provided the marvelous text for me to
 perform.
 
-For more information about the iEvolve Theater Group visit their website:
-[www.iEvolveProductions.com](http://www.iEvolveProductions.com).
-
-
 ![Black Stars and Doves](images/Black-Stars-and-Doves-postcard.jpg)

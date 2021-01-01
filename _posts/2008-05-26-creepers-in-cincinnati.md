@@ -6,15 +6,14 @@ category:
 tags:
 - Creepers
 ---
-Creepers will be screened as a part of the [Cincinnati Horror Film
-Festival](http://cincinnati.horrorsociety.com/films.html) the first weekend in
-June. I am pretty sure this is my first introduction to Cincinnati audiences, so
-I hope they like it.
+Creepers will be screened as a part of the Cincinnati Horror Film Festival the
+first weekend in June. I am pretty sure this is my first introduction to
+Cincinnati audiences, so I hope they like it.
 
 The director C. J. Johnson has been working the press in the mean time. Here's
-an [interview at Fangoria](http://Fangoria.com/news_article.php?id=6184) and an
+an interview at Fangoria and an
 [interview on Fear the Dead
-radio](http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;videoid=2111098622).
+radio](https://myspace.com/beparanoid/video/fear-the-dead-radio-interview-with-cj-johnson/34282537).
 For all the news about "Creepers" you can go to [the official
 website](http://www.myspace.com/beparanoid).
 

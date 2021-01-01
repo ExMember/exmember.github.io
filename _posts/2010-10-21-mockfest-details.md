@@ -13,8 +13,7 @@ The world premiere of "Project: Life" will be at the opening night of Mockfest
 November 12th, 2010. The program starts at 6 pm at Raleigh Studios, 5300 Melrose
 Avenue Hollywood, CA 90038.
 
-Take a look at the [rest of the
-lineup](http://mockfilmfest.weebly.com/festival-schedule-2010.html) or [buy
+Take a look at the rest of the lineup or [buy
 tickets](http://mockfest.eventbrite.com/). I'll see you there!
 
 In the meantime, check out the new trailer made specially for MockFest:

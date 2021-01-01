@@ -8,7 +8,6 @@ tags:
 - The Olivia Experiment
 - press
 ---
-The press is starting to roll. Westside Today did a [writeup of The Olivia
-Experiment](http://www.westsidetoday.com/n7290/-the-olivia-experiment.html)
-yesterday.
+The press is starting to roll. *Westside Today* did a writeup of *The Olivia
+Experiment* yesterday.
 

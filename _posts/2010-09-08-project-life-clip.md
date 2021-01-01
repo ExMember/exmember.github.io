@@ -21,7 +21,7 @@ comments:
 
 I've finally managed to post a short clip from "Project: Life," a brilliant
 mockumentary I narrated a couple of years ago. See the clip and then go learn
-more about [the movie](http://projectlifemovie.com). Beg them to sell you DVD's.
+more about the movie. Beg them to sell you DVD's.
 You're going to want to see this.
 
 Update: You can actually see the whole movie on Youtube. [Part 1](http://www.youtube.com/watch?v=KluTIX4m520&hd=1) [Part 2](http://www.youtube.com/watch?v=GkzA0ZJ01Rk&hd=1)

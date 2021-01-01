@@ -14,4 +14,4 @@ Now Her Majesty's Secret Players are bringing it back for a limited run: October
 
 In addition to stage-managing I am part of the producing team for this run and I know it's something I can be proud of and I hope you will be there.
 
-Tickets are available now at Plays 411 [plays411.net/pulp](https://www.plays411.net/newsite/show/play_info.asp?show_id=2898). For more information visit our [website](http://www.hermajestyssecretplayers.org/main/).
+Tickets are available now at Plays 411.

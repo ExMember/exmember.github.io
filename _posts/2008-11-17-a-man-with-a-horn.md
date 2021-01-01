@@ -12,5 +12,4 @@ Horn" I play Stanley Brown, a man with a horn. It was scheduled to air on
 November 27th, but that is Thanksgiving and I think a rerun is airing instead.
 
 In the meantime you can look at the empty [TV.com episode
-page](http://www.tv.com/csi/young-man-with-a-horn/episode/1216124/summary.html?tag=episode_tabs;overview)
-or the [fan wiki](http://csi.wetpaint.com/page/908+%7C+Young+Man+with+a+Horn).
+page](http://www.tv.com/csi/young-man-with-a-horn/episode/1216124/summary.html?tag=episode_tabs;overview).

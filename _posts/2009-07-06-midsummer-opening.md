@@ -19,7 +19,7 @@ chance.
 Saturday June 11 at [Theatricum Botanicum](http://theatricum.com/), 1419 N.
 Topanga Canyon Blvd., Topanga, CA. For tickets or more information call the box
 office at 310-455-3723 or visit the
-[website](http://theatricum.com/tickets.htm).
+[website](http://theatricum.com/).
 
 If you can't see Saturday's show there is another matinee June 18, then evening
 shows every Thursday night in August and on Labor Day.

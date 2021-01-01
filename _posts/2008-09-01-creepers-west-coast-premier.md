@@ -15,5 +15,4 @@ Huntington Beach.
 It's 10 pm on Friday September 12 at the Huntington Beach Library & Cultural
 Center Theater, [7111 Talbert Ave Huntington Beach, CA
 92648](http://maps.google.com/maps?q=7111+Talbert+Ave+Huntington+Beach,+CA+92648).
-Tickets for program 16 are $6 and available at the festivals
-[website](http://www.blbmedia.com/socalfilmfest/tickets.aspx#PROGRAM_16_)
+Tickets for program 16 are $6 and available at the festival's website

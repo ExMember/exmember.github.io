@@ -8,8 +8,7 @@ tags: []
 I'm on the radio!
 
 It's actually not on the radio --it's actually not anywhere at the moment. But
-it is a radio play I recorded with [Tsunami Radio
-Theater](http://www.radiofreeplayhouse.com/).
+it is a radio play I recorded with Tsunami Radio Theater.
 
 It's called "Pax Romana" and it's a very ambitious history set at the peak of
 the Roman empire. It was also a lot of fun to work on. The cast was very large

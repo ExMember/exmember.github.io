@@ -24,7 +24,6 @@ See the rest of his
 
 Then come see for yourself at the "surprisingly intimate" Stella Adler Theatre.
 Performances are Thursday through Saturday at 8 pm and Sunday at 3 pm through
-May 22, 2011. Tickets available at
-[plays411.net/tiger](http://plays411.net/tiger).
+May 22, 2011. Tickets available at plays411.net/tiger.
 
 ![Mama's beautiful dream](images/tiger-tiger-mamas-beautiful-dream.jpg)

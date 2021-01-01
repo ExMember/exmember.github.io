@@ -36,19 +36,14 @@ reasonably think the calling station would fold. On top of that, I've shown
 extreme strength here.
 
 I'd need 31% equity to call $80 into a $172 pot. If he's as clueful as I think
-he is we can reasonably conclude his range is KK+ and my
-[equity](http://www.notedpokerauthority.com/poker-tools?ql=c8e9e184d075) is 20%.
-A clear fold.
+he is we can reasonably conclude his range is KK+ and my equity is 20%. A clear
+fold.
 
-If he's the type to marry QQ, then my
-[equity](http://www.notedpokerauthority.com/poker-tools?ql=2ab6e05e1d42) goes up
-to 30% and it's still a fold. Especially since I don't know if he'd really do
-that with QQ.
+If he's the type to marry QQ, then my equity goes up to 30% and it's still a
+fold. Especially since I don't know if he'd really do that with QQ.
 
 If he's a lot looser than I thought and would wildly overplay JJ in this
-situation, my
-[equity](http://www.notedpokerauthority.com/poker-tools?ql=e622d1dc95b6) is 34%
-and I'm not losing much by folding.
+situation, my equity is 34% and I'm not losing much by folding.
 
 However, there is still a calling station behind him. If he calls the all-in,
 that bloats the pot to $252. I am only left with $120 behind, and the calling
@@ -61,9 +56,7 @@ middle.
 
 I put $80 more in the main pot to make it's total $330, so I need 24% equity for
 that to be a breakeven call. Even with a wide range like QQ+ for the clueful
-player and AJ+ and TT+ for the loose-passive player my
-[equity](http://www.notedpokerauthority.com/poker-tools?ql=676e82ccb6bc) is only
-20%.
+player and AJ+ and TT+ for the loose-passive player my equity is only 20%.
 
 That's a very extensive digression. And all very moot because the clueful player
 folded.

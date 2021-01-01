@@ -248,14 +248,12 @@ date and title of the meeting in the subject.
 To post the agenda at Lemon Grove park you can go there yourself, or email
 the recreation coordinator and ask them to post it for you.
 
-To post the agenda on the website add an event to the [meetings
-calendar](https://hsdnc.nationbuilder.com/admin/sites/1/pages/804/events_old)
+To post the agenda on the website add an event to the meetings calendar
 on NationBuilder and upload the agenda to it as a PDF.
 
-Agendas should also be sent to the HSDNC [mailing
-list](https://hsdnc.nationbuilder.com/admin/broadcasters/1/mailings) on
-NationBuilder. Board agendas should be sent to all supporters. Committee
-agendas should be sent to people who are interested in that committee.
+Agendas should also be sent to the HSDNC mailing list on NationBuilder. Board
+agendas should be sent to all supporters. Committee agendas should be sent to
+people who are interested in that committee.
 
 ## Paper copies
 

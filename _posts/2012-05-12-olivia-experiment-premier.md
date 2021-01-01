@@ -15,6 +15,4 @@ With Films](http://www.danceswithfilms.com/) film festival will present the
 world premier of [The Olivia Experiment](http://www.theoliviaexperiment.com/).
 
 I've very proud of the bit part I have in this film and had a great time working
-on it. [Come see
-it](http://www.danceswithfilms.com/slate_theoliviaexperiment.html), it's sure to
-be a blast!
+on it. Come see it, it's sure to be a blast!
