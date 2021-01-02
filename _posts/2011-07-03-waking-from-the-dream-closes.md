@@ -1,6 +1,7 @@
 ---
 title: '"Waking from the Dream" closes'
 date: '2011-07-03 13:27:41 +0000'
+image: /images/waking-from-the-dream-cast-and-crew.jpg
 category:
 - acting
 tags:
@@ -17,4 +18,4 @@ Thank you. You were amazing!
 
 In appreciation, I will restrain myself from making another pun on the title.
 
-![Waking from a Dream cast and crew](images/waking-from-the-dream-cast-and-crew.jpg)
+![Waking from a Dream cast and crew](/images/waking-from-the-dream-cast-and-crew.jpg)

@@ -1,6 +1,7 @@
 ---
 title: "Tiger Burns Bright at Stella Adler"
 date: '2011-04-22 10:50:28 +0000'
+image: /images/tiger-tiger-clarence-adelaide-cille.jpg
 category:
 - acting
 tags:
@@ -24,4 +25,4 @@ Stella Adler Theatre in Hollywood. For tickets and information go to
 plays411.net/tiger or call 323-960-7740.
 
 ![Clarence and Adelaide with
-Cille](images/tiger-tiger-clarence-adelaide-cille.jpg)
+Cille](/images/tiger-tiger-clarence-adelaide-cille.jpg)

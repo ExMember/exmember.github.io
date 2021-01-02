@@ -1,6 +1,7 @@
 ---
 title: Tiger Tiger Burning Bright
 date: '2011-04-21 11:02:57 +0000'
+image: /images/tiger-tiger-mamas-beautiful-dream.jpg
 category:
 - acting
 tags:
@@ -26,4 +27,4 @@ Then come see for yourself at the "surprisingly intimate" Stella Adler Theatre.
 Performances are Thursday through Saturday at 8 pm and Sunday at 3 pm through
 May 22, 2011. Tickets available at plays411.net/tiger.
 
-![Mama's beautiful dream](images/tiger-tiger-mamas-beautiful-dream.jpg)
+![Mama's beautiful dream](/images/tiger-tiger-mamas-beautiful-dream.jpg)

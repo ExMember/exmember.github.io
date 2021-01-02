@@ -1,6 +1,7 @@
 ---
 title: '"I Do and I Don''t" Screening'
 date: '2009-05-02 13:22:13 +0000'
+image: /images/csun-2009-film-show-poster.jpg
 category:
 - acting
 tags:
@@ -18,8 +19,8 @@ recommended you arrive by at least 5pm to get in. Parking is $8.
 See me on the Big Screen, enjoy the live band and catered reception, and watch
 five awesome shorts in the same theater the Emmy Awards are held.
 
-![CSUN 2009 Film Showcase](images/csun-2009-film-show-poster.jpg)
+![CSUN 2009 Film Showcase](/images/csun-2009-film-show-poster.jpg)
 
-![Invitation - front](images/csun-2009-film-show-invite-front.jpg)
+![Invitation - front](/images/csun-2009-film-show-invite-front.jpg)
 
-![Invitation - back](images/csun-2009-film-show-invite-back.jpg)
+![Invitation - back](/images/csun-2009-film-show-invite-back.jpg)

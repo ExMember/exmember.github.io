@@ -1,6 +1,7 @@
 ---
 title: Landing of the Urban Rebels
 date: '2012-12-12 14:34:07 +0000'
+image: /images/Landing-of-the-Urban-Rebels-FlyerWhite3.jpg
 category:
 - acting
 tags:
@@ -18,4 +19,4 @@ were turned away at the door so get your tickets now.
 
 My performance dates will be announced soon. Watch this space.
 
-![Landing of the Urban Rebels](images/Landing-of-the-Urban-Rebels-FlyerWhite3.jpg)
+![Landing of the Urban Rebels](/images/Landing-of-the-Urban-Rebels-FlyerWhite3.jpg)

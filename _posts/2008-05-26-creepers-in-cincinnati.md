@@ -1,6 +1,7 @@
 ---
 title: '"Creepers" in Cincinnati'
 date: '2008-05-26 20:04:16 +0000'
+image: /images/creepers_movie_poster_be_paranoid.jpg
 category:
 - acting
 tags:
@@ -17,4 +18,4 @@ radio](https://myspace.com/beparanoid/video/fear-the-dead-radio-interview-with-c
 For all the news about "Creepers" you can go to [the official
 website](https://www.myspace.com/beparanoid).
 
-![Be Paranoid](images/creepers_movie_poster_be_paranoid.jpg)
+![Be Paranoid](/images/creepers_movie_poster_be_paranoid.jpg)

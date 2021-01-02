@@ -1,6 +1,7 @@
 ---
 title: Stanley Steemer "Roll Call"
 date: '2011-03-13 02:06:09 +0000'
+image: /images/stanley-steemer-employees.jpg
 category:
 - acting
 tags:
@@ -17,4 +18,4 @@ few weeks.
 In the meantime here's a picture of me with the lovely and talented fellow BBR
 client Lesley Surdi.
 
-![Stanley Steemer Employees](images/stanley-steemer-employees.jpg)
+![Stanley Steemer Employees](/images/stanley-steemer-employees.jpg)

@@ -1,6 +1,7 @@
 ---
 title: Tiger Tiger Burning Bright
 date: '2011-02-06 23:43:20 +0000'
+image: /images/tiger-tiger-flyer.jpg
 category:
 - acting
 tags:
@@ -18,7 +19,7 @@ May 22.
 
 Tickets and more information can be had at https://plays411.com/tiger or by calling 323-960-7740.
 
-![Tiger Tiger Burning Bright" flyer](images/tiger-tiger-flyer.jpg)
+![Tiger Tiger Burning Bright" flyer](/images/tiger-tiger-flyer.jpg)
 
 [PDF
 flyer](/dbcom/wp-content/uploads/2011/02/COLOR-TTBB-FLYER1.pdf)

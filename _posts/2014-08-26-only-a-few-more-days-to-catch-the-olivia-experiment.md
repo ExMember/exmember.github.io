@@ -1,6 +1,7 @@
 ---
 title: 'Only a few more days to catch "The Olivia Experiment" '
 date: '2014-08-26 00:18:15 +0000'
+image: /images/olivia-sold-out.jpg
 category:
 - acting
 tags:
@@ -14,7 +15,7 @@ They called it "refreshingly original" and "Porlandia meets Judy Blume."
 
 Did you show up to Friday's screening and see this? ![The Olivia Experiment 7:20
 Sold
-Out!](images/olivia-sold-out.jpg)
+Out!](/images/olivia-sold-out.jpg)
 
 There isn't much time left, "The Olivia Experiment" closes August 28th. [Tickets
 are available now](https://laemmle.com/films/38411).

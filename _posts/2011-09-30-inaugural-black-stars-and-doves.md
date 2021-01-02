@@ -1,6 +1,7 @@
 ---
 title: Inaugural "Black Stars and Doves"
 date: '2011-09-30 22:21:36 +0000'
+image: /images/Black-Stars-and-Doves-postcard.jpg
 category:
 - acting
 tags:
@@ -17,4 +18,4 @@ you to my fellow performers for their wonderful work and supportive environment.
 And thank you to Langston Hughes who provided the marvelous text for me to
 perform.
 
-![Black Stars and Doves](images/Black-Stars-and-Doves-postcard.jpg)
+![Black Stars and Doves](/images/Black-Stars-and-Doves-postcard.jpg)

@@ -1,6 +1,7 @@
 ---
 title: Waking from the Dream opening
 date: '2011-06-13 09:32:11 +0000'
+image: /images/waking-from-the-dream-velma-and-manny.jpg
 category:
 - acting
 tags:
@@ -24,4 +25,4 @@ for the art show, Japanese treats and tea, and a different pre-show every night.
 Theater](https://writeactrep.org/), 7:30pm June 8th, 13th, 14th, 15th, 20th,
 21st, and 22nd. Tickets are $15. Call (323) 469-3113 for reservations.
 
-![Velma and Manny](images/waking-from-the-dream-velma-and-manny.jpg)
+![Velma and Manny](/images/waking-from-the-dream-velma-and-manny.jpg)
