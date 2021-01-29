@@ -23,7 +23,7 @@
 <meta property='og:site_name' content='Damien Burke'>
 <meta property='og:title' content=''>
 <meta property='og:type' content='website'>
-<meta property='og:url' content='https://damienburke.com/assets/js/main.js'>
+<meta property='og:url' content='https://damienburke.com/assets/js/anchor.js'>
 <meta property='og:description' content=''>
 <meta property='og:image' content='https://damienburke.com/images/about-me/actor.jpg'>
 
