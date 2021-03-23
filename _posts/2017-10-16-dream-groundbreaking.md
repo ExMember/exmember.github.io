@@ -42,5 +42,5 @@ to Hollywood. Thank you, and we look forward many more.
 
 [^2]: Curbed LA [article](https://la.curbed.com/2017/6/20/15840642/ucla-forecast-affordable-housing-report-home-prices) on report from UCLA Anderson School of Management
 
-[^3]: [Housing Development Toolkit](https://www.whitehouse.gov/sites/whitehouse.gov/files/images/Housing_Development_Toolkit%20f.2.pdf)
+[^3]: [Housing Development Toolkit](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/images/Housing_Development_Toolkit%20f.2.pdf)
 
