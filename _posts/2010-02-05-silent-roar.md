@@ -9,7 +9,7 @@ tags:
 - Silent Roar
 ---
 
-Come and see me in the ["Silent Roar"](http://www.bethunetheatredanse.org/performances.html) a multimedia music theater experience with the [Bethune Theatredanse](http://www.bethunetheatredanse.org/).
+Come and see me in the "Silent Roar" a multimedia music theater experience with the Bethune Theatredanse.
 
 It's an amazing show featuring dozens of incredible dancers and aerialists with original music and video based of the seascapes of Robert Wyland. Plus, I'm in it.
 

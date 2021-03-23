@@ -32,5 +32,5 @@ of 18, each one gifted in his\her own right, and at a level always expected from
 the productions at Theatre West. This cast has done a great service to the
 playwright's brilliant, and at times, intense story.
 
--- [Examiner](http://www.examiner.com/review/highway-dreams-and-drama-unfurled-the-petrified-forest?cid=rss)
+-- Examiner
 
