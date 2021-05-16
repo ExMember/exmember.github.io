@@ -1,6 +1,12 @@
 require 'html-proofer'
 
-task :test do
+# Add workflow YML check
+# ruby -ryaml -e "p YAML.load(STDIN.read)"
+#  < .github/workflows/github-pages.yml
+
+task test: %i[html_proofer]
+
+task :html_proofer do
   sh 'bundle exec jekyll build --future'
   options = {
     assume_extension: true,
