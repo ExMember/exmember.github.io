@@ -1,10 +1,6 @@
 require 'html-proofer'
 
-# Add workflow YML check
-# ruby -ryaml -e "p YAML.load(STDIN.read)"
-#  < .github/workflows/github-pages.yml
-
-task test: %i[html_proofer]
+task test: %i[test_workflows html_proofer]
 
 task :html_proofer do
   sh 'bundle exec jekyll build --future'
@@ -19,7 +15,7 @@ task :html_proofer do
     # enforce_https: true, # We have 10 links to sites that do not support HTTPS
     parallel: { in_processes: 3 },
   }
-  proofer = HTMLProofer.check_directory("./_site", options)
+  proofer = HTMLProofer.check_directory('./_site', options)
 
   proofer.before_request do |request|
     if request.base_url.to_s.start_with?('https://twitter.com')
@@ -29,4 +25,11 @@ task :html_proofer do
   end
 
   proofer.run
+end
+
+task :test_workflows do
+  Dir['.github/workflows/*.yml'].each do |file|
+    puts "Checking #{file}"
+    YAML.load_file file
+  end
 end
