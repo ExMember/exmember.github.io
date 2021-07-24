@@ -11,10 +11,7 @@ Creepers will be screened as a part of the Cincinnati Horror Film Festival the
 first weekend in June. I am pretty sure this is my first introduction to
 Cincinnati audiences, so I hope they like it.
 
-The director C. J. Johnson has been working the press in the mean time. Here's
-an interview at Fangoria and an
-[interview on Fear the Dead
-radio](https://myspace.com/beparanoid/video/fear-the-dead-radio-interview-with-cj-johnson/34282537).
+The director C. J. Johnson has been working the press in the mean time.
 For all the news about "Creepers" you can go to [the official
 website](https://www.myspace.com/beparanoid).
 
