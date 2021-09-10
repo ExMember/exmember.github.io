@@ -8562,6 +8562,12 @@ available utility palettes
 
 .card .card-read-more-link svg { display: inline-block; fill: #005ea2; height: 0.75rem; margin-left: 0.25rem; margin-top: -2px; vertical-align: middle; width: 0.75rem; }
 
+.edit-page p { font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif; font-size: 1.13rem; }
+
+@media all and (min-width: 40em) { .edit-page__date p { text-align: right; } }
+
+footer { margin-top: auto; order: 10; }
+
 .usa-header .usa-logo a { align-items: center; display: flex; }
 
 .usa-header .usa-logo .usa-logo-img { float: left; height: 1rem; margin-right: 0.5rem; }
@@ -8604,6 +8610,8 @@ i.e.
 .usa-header button[aria-expanded="true"]:after, .usa-header button[aria-expanded="true"]:hover:after { display: none; }
 
 .usa-layout-docs__sidenav, .usa-layout-docs__main { width: 100%; overflow: hidden; }
+
+@media all and (min-width: 64em) { body { display: flex; flex-direction: column; min-height: 100vh; } }
 
 main { flex: 1 0 auto; }
 
