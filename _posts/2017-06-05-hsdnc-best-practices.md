@@ -160,8 +160,7 @@ schools or 501(c)(3)'s to support a public purpose and benefit the
 public-at-large.
 
 If you wish to apply for an Neighborhood Purpose Grant (NPG), the
-[application](http://clerk.cityofla.acsitefactory.com/sites/g/files/wph606/f/NPG-Application-1-26-15-final1.pdf)
-is available on the city clerk's website.
+application is available on the city clerk's website.
 
 Send the completed application, along with all supporting documentation to
 the chair and treasurer. They will bring it to the executive committee
