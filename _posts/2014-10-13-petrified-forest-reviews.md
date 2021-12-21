@@ -17,8 +17,7 @@ Bogart role), an animated David Mingrino, Damien Burke, and Roger Payano.
 entertaining today as it must have been in 1935 when it was written... top-notch
 theatrical entertainment.
 
--- [Life in
-LA](https://lifeinla.com/entertainment/streams/theatre/128-theatre/862/the-petrified-forest-is-alive-and-well.html)
+-- Life in LA
 
 > The Petrified Forest endures because it has it all: romance, suspense, danger,
 sex and even a little politics. A fantasy of the highway, it unfurls like a
