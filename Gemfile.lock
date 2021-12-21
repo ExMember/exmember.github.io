@@ -103,7 +103,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-remote-theme
   mini_racer
-  nokogiri (>= 1.11.0.rc4)
+  nokogiri
 
 BUNDLED WITH
    2.2.31

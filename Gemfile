@@ -6,7 +6,7 @@ gem 'html-proofer'
 gem 'jekyll-autoprefixer'
 gem 'mini_racer'
 
-gem "nokogiri", ">= 1.11.0.rc4" # Avoid vulnerable version(s)
+gem "nokogiri"
 
 group :jekyll_plugins do
   gem 'jekyll-feed'
