@@ -10,6 +10,25 @@
     "items": [
     
         {
+            "id": "http://damienburke.com/child-mind-institute",
+            "title": "The California Healthy Minds, Thriving Kids Project",
+            "summary": null,
+            "content_text": "I am very proud to be part of this project at the Child Mind Institute to teachcritical mental health and coping skills.You can see me practicingmindfulnessas Hedgie in the fifth video of the series.Check out the rest of the seriesto learn evidence-based, clinically-proven mental health skills.",
+            "content_html": "<p>I am very proud to be part of this project at the Child Mind Institute to teachcritical mental health and coping skills.</p><p>You can see me practicing<a href=\"https://childmind.org/healthyminds/mindfulness-parents-elementary/\">mindfulness</a>as Hedgie in the fifth video of the series.</p><p>Check out the rest of <a href=\"https://childmind.org/healthyminds/parents/\">the series</a>to learn evidence-based, clinically-proven mental health skills.</p>",
+            "url": "http://damienburke.com/child-mind-institute",
+            
+            
+            
+            
+            
+            "date_published": "2022-01-20T00:00:00-08:00",
+            "date_modified": "2022-01-20T00:00:00-08:00",
+            "author": {
+                "name": ""
+            }
+        },
+    
+        {
             "id": "http://damienburke.com/dream-groundbreaking",
             "title": "Groundbreaking for The Dream @ Tamarind South",
             "summary": null,
@@ -669,25 +688,6 @@
             
             "date_published": "2011-02-26T08:43:41-08:00",
             "date_modified": "2011-02-26T08:43:41-08:00",
-            "author": {
-                "name": ""
-            }
-        },
-    
-        {
-            "id": "http://damienburke.com/tiger-tiger-burning-bright",
-            "title": "Tiger Tiger Burning Bright",
-            "summary": null,
-            "content_text": "I’m happy to announce I have been cast as the lead in Peter Feibleman’s “TigerTiger Burning Bright.”We will be at the Stella Adler Theatre (6773 Hollywood Blvd, Hollywood CA 90028)Thursday, Friday and Saturday at 8pm and Sundays at 3pm from April 14 throughMay 22.Tickets and more information can be had at https://plays411.com/tiger or by calling 323-960-7740.PDFflyer",
-            "content_html": "<p>I’m happy to announce I have been cast as the lead in Peter Feibleman’s “TigerTiger Burning Bright.”</p><p>We will be at the Stella Adler Theatre (6773 Hollywood Blvd, Hollywood CA 90028)Thursday, Friday and Saturday at 8pm and Sundays at 3pm from April 14 throughMay 22.</p><p>Tickets and more information can be had at https://plays411.com/tiger or by calling 323-960-7740.</p><p><img src=\"/images/tiger-tiger-flyer.jpg\" alt=\"Tiger Tiger Burning Bright&quot; flyer\" /></p><p><a href=\"/dbcom/wp-content/uploads/2011/02/COLOR-TTBB-FLYER1.pdf\">PDFflyer</a></p>",
-            "url": "http://damienburke.com/tiger-tiger-burning-bright",
-            "image": "/images/tiger-tiger-flyer.jpg",
-            
-            
-            "tags": ["theater","Tiger Tiger Burning Bright"],
-            
-            "date_published": "2011-02-06T15:43:20-08:00",
-            "date_modified": "2011-02-06T15:43:20-08:00",
             "author": {
                 "name": ""
             }
