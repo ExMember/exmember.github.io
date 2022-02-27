@@ -7,7 +7,7 @@ tags: [no-fly, guns, terrorists]
 
 Senator Collins (Maine) has proposed the "Terrorist Firearms Prevention Act of
 2016".  The full text of the act is not available, but there is a
-[summary](https://www.collins.senate.gov/sites/default/files/Terrorist%20Firearms%20Prevention%20Act%20of%202016.pdf).
+[summary](https://www.collins.senate.gov/imo/media/doc/Terrorist%20Firearms%20Prevention%20Act%20of%202016%20One-Pager.pdf).
 In an attempt to prevent terrorists from using guns the bill would make it
 illegal for anyone on the "No Fly" list to purchase a firearm.
 
