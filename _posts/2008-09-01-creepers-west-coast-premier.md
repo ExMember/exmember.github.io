@@ -9,7 +9,7 @@ tags:
 ---
 I am featured in the short horror film
 ["Creepers"](https://www.imdb.com/name/nm3083426/) which is making it's West
-Coast Premier at the [So Cal Indie Film](https://www.socalfilmfest.com/) in
+Coast Premier at the So Cal Indie Film in
 Huntington Beach.
 
 It's 10 pm on Friday September 12 at the Huntington Beach Library & Cultural
