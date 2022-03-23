@@ -2,8 +2,8 @@
 title: The Value of Bitcoin
 category:
 tags:
-- bitcoin
-- money
+  - bitcoin
+  - money
 ---
 
 My goal here is to determine the value of bitcoin from first principles.
@@ -14,7 +14,7 @@ I will start with establishing what money is, and how bitcoin is like
 money. Then I will describe how to determine the value of money and apply
 that same process to bitcoin. Afterwards we'll discuss what that means for
 people who have bought or are considering buying bitcoin. And finally,
-what this means for other block chain currencies.
+what this means for other blockchain currencies.
 
 ## What is money?
 
@@ -23,7 +23,7 @@ a medium of exchange, and a unit of account.
 
 A unit of account is something that is useful to measure the value (or
 cost) of other items. In the same way we use inches to measure length, we use
-a money, (like dollars) to measure value.
+money, (like dollars) to measure value.
 
 A medium of exchange is something that is useful in trade. I write
 software and eat bananas. It's hard to trade bananas for software labor, so
@@ -82,11 +82,9 @@ a trusted party, it uses a distributed ledger that can be verified by
 anyone in the world. And instead of an account that is tied to some
 identity, it use an address tied to a secret key.
 
-Because anyone can process bitcoin transactions, there is the potential
-for them to happen faster and cheaper than other systems. Because there is
-no need to tie an account to an identity, there is the potential for pseudo
-or complete anonymity. Because the ledger is distributed transfers can be
-made without needed to trust any third-party. 
+Because the ledger is distributed transfers can be made without needed to trust
+any third-party. Because there is no need to tie an account to an identity,
+there is the potential for pseudo- or actual anonymity.
 
 ## Underlying value of money
 
@@ -113,7 +111,7 @@ supports it.
 
 The U.S. Government has declared US Dollars to be legal tender, which
 means that is is accepted for all debts, public charges, taxes, and
-dues.[^31 U.S.C. § 5103]. As long as the US government demands US dollars,
+dues.[^USCsec5103]. As long as the US government demands US dollars,
 it has value to people who need to pay.
 
 In theory, a government's demand for their own currency could end at any
@@ -147,10 +145,9 @@ Bitcoin does not have utility like a commodity money. It does not
 represent a commodity with utility. And it does not have any a fundamental
 underlying source of demand like fiat money. Bitcoin has no value.
 
-This is notwithstanding the amazing features of public block chain
+This is notwithstanding the amazing features of public blockchain
 technologies. Fast and cheap transfers, facilitated without trusted
-intermediaries, is not enough to make the thing being transferred
-valuable.
+intermediaries, is worthless if the thing being transferred is worthless.
 
 ## Value versus price
 
@@ -163,7 +160,7 @@ dollars.
 ## Value investing versus speculation
 
 Value investing is the process of identifying and purchasing assets that
-are worth more than their price. When a value investor pays \$70 to buy an
+are worth more than their price.[^intelligent-investor] When a value investor pays \$70 to buy an
 asset that is worth \$100, they make \$30 in profit instantly.
 
 Because bitcoin has no value, it cannot be a value investment.
@@ -192,4 +189,7 @@ and ethically generate either of those conditions.
 
 [^fiat-definition]: [Merriam-Webster](https://www.merriam-webster.com/dictionary/fiat)
 
-[^31 U.S.C. § 5103]: [31 U.S.C. § 5103](https://www.law.cornell.edu/uscode/text/31/5103)
+[^USCsec5103]: [31 U.S.C. § 5103](https://www.law.cornell.edu/uscode/text/31/5103)
+
+[^intelligent-investor]: The seminal work on value investing is *The Intelligent
+    Investor* by Benjamin Graham. I highly recommend it.
