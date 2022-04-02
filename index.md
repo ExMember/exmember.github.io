@@ -64,7 +64,9 @@ You may have seen me
 in commercials
 for [Safe Auto](https://www.youtube.com/watch?v=wNudyDtpBwQ),
 [Evolve](https://www.youtube.com/watch?v=Le1BXo1To1s&list=PLMNiu3ZUfHHt6LbpN12oqZ2lxTgnNo_pf&index=7),
-[Morgan and Morgan](https://www.youtube.com/watch?v=9OPQ0U6VZ-I)
+[Morgan and Morgan](https://www.youtube.com/watch?v=9OPQ0U6VZ-I);
+[teaching mindfulness](https://childmind.org/healthyminds/mindfulness-students-elementary/)
+with the Child Mind Institute
 or as the narrator
-for [Project Life](https://www.youtube.com/watch?v=KluTIX4m520).
+in [Project Life](https://www.youtube.com/watch?v=KluTIX4m520).
 
