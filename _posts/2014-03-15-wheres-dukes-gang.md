@@ -6,6 +6,6 @@ category:
 tags: []
 ---
 
-Name the watering hole and win two free tickets to [PetrifiedForest](http://theatrewestarchive.com/archives/petrifiedforest/)!
+Name the watering hole and win two free tickets to Petrified Forest! <!-- [PetrifiedForest](http://theatrewestarchive.com/archives/petrifiedforest/)!-->
 
 Email your guess to: staff@theatrewest.org.
