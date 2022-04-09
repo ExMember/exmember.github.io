@@ -82,7 +82,7 @@ a trusted party, it uses a distributed ledger that can be verified by
 anyone in the world. And instead of an account that is tied to some
 identity, it use an address tied to a secret key.
 
-Because the ledger is distributed transfers can be made without needed to trust
+Because the ledger is distributed, transfers can be made without needed to trust
 any third-party. Because there is no need to tie an account to an identity,
 there is the potential for pseudo- or actual anonymity.
 
@@ -97,7 +97,7 @@ and other uses.
 
 Representative currencies add a layer of indirection. The value of a gold
 certificate is the same as the value of the gold it represents, plus the
-value of the convenience the certification provides, minus the cost of
+value of the convenience the certificate provides, minus the cost of
 converting it to gold and the risk of not being able to convert it.
 
 In 1800's America banks were not permitted to have satellite branches, so
@@ -110,7 +110,7 @@ The value of fiat money comes from the demands of the government that
 supports it.
 
 The U.S. Government has declared US Dollars to be legal tender, which
-means that is is accepted for all debts, public charges, taxes, and
+means that it is accepted for all debts, public charges, taxes, and
 dues.[^USCsec5103]. As long as the US government demands US dollars,
 it has value to people who need to pay.
 
@@ -142,7 +142,7 @@ value of the currency drops to zero.
 ## The value of bitcoin
 
 Bitcoin does not have utility like a commodity money. It does not
-represent a commodity with utility. And it does not have any a fundamental
+represent a commodity with utility. And it does not have any
 underlying source of demand like fiat money. Bitcoin has no value.
 
 This is notwithstanding the amazing features of public blockchain
@@ -161,7 +161,7 @@ dollars.
 
 Value investing is the process of identifying and purchasing assets that
 are worth more than their price.[^intelligent-investor] When a value investor pays \$70 to buy an
-asset that is worth \$100, they make \$30 in profit instantly.
+asset that is worth \$100, they make \$30 in profit.
 
 Because bitcoin has no value, it cannot be a value investment.
 
@@ -184,7 +184,7 @@ Unfortunately, it is impossible to identify when this crash will happen,
 only that it will.
 
 It is possible to make a lot of money on speculation buy either being
-lucky or predicting investor sentiment. There is no known way to reliable
+lucky or predicting investor sentiment. There is no known way to reliably
 and ethically generate either of those conditions.
 
 [^fiat-definition]: [Merriam-Webster](https://www.merriam-webster.com/dictionary/fiat)
