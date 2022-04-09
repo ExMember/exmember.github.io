@@ -1,7 +1,7 @@
+main {
+  flex: 1 0 auto;
+}
 
-  main {
-    flex: 1 0 auto;
-  }
 .policy-list {
   & li + li::before { content: " | "; }
 }
@@ -14,4 +14,8 @@
 .usa-social-link--linkedin {
   background-image: url('../../images/social-icons/png/linkedin32.png');
   background-repeat: no-repeat;
+}
+
+.usa-prose blockquote {
+  p { @extend %usa-paragraph; }
 }
