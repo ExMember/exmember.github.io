@@ -2435,11 +2435,11 @@ button.usa-combo-box__toggle-list:focus, button.usa-combo-box__clear-input:focus
 
 .usa-dark-background a:hover { color: white; }
 
-.usa-prose > p { line-height: 1.5; margin-bottom: 0; margin-top: 0; max-width: 68ex; }
+.usa-prose blockquote p, .usa-prose > p { line-height: 1.5; margin-bottom: 0; margin-top: 0; max-width: 68ex; }
 
-.usa-prose > * + p { margin-top: 1em; }
+.usa-prose blockquote * + p, .usa-prose > * + p { margin-top: 1em; }
 
-.usa-prose > p + * { margin-top: 1em; }
+.usa-prose blockquote p + *, .usa-prose > p + * { margin-top: 1em; }
 
 .usa-prose > h1, .usa-prose > h2, .usa-prose > h3, .usa-prose > h4, .usa-prose > h5, .usa-prose > h6 { margin-bottom: 0 ; margin-top: 0 ; clear: both; }
 

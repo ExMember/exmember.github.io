@@ -5,8 +5,8 @@
     <description></description>
     <link>http://damienburke.com/</link>
     <atom:link href="http://damienburke.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Apr 2022 11:00:50 -0700</pubDate>
-    <lastBuildDate>Sat, 09 Apr 2022 11:00:50 -0700</lastBuildDate>
+    <pubDate>Sat, 09 Apr 2022 11:02:32 -0700</pubDate>
+    <lastBuildDate>Sat, 09 Apr 2022 11:02:32 -0700</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -87,7 +87,7 @@ a trusted party, it uses a distributed ledger that can be verified by
 anyone in the world. And instead of an account that is tied to some
 identity, it use an address tied to a secret key.&lt;/p&gt;
 
-&lt;p&gt;Because the ledger is distributed transfers can be made without needed to trust
+&lt;p&gt;Because the ledger is distributed, transfers can be made without needed to trust
 any third-party. Because there is no need to tie an account to an identity,
 there is the potential for pseudo- or actual anonymity.&lt;/p&gt;
 
@@ -102,7 +102,7 @@ and other uses.&lt;/p&gt;
 
 &lt;p&gt;Representative currencies add a layer of indirection. The value of a gold
 certificate is the same as the value of the gold it represents, plus the
-value of the convenience the certification provides, minus the cost of
+value of the convenience the certificate provides, minus the cost of
 converting it to gold and the risk of not being able to convert it.&lt;/p&gt;
 
 &lt;p&gt;In 1800’s America banks were not permitted to have satellite branches, so
@@ -115,7 +115,7 @@ on its distance from the bank that issued it.&lt;/p&gt;
 supports it.&lt;/p&gt;
 
 &lt;p&gt;The U.S. Government has declared US Dollars to be legal tender, which
-means that is is accepted for all debts, public charges, taxes, and
+means that it is accepted for all debts, public charges, taxes, and
 dues.&lt;sup id=&quot;fnref:USCsec5103&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:USCsec5103&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. As long as the US government demands US dollars,
 it has value to people who need to pay.&lt;/p&gt;
 
@@ -147,7 +147,7 @@ value of the currency drops to zero.&lt;/p&gt;
 &lt;h2 id=&quot;the-value-of-bitcoin&quot;&gt;The value of bitcoin&lt;/h2&gt;
 
 &lt;p&gt;Bitcoin does not have utility like a commodity money. It does not
-represent a commodity with utility. And it does not have any a fundamental
+represent a commodity with utility. And it does not have any
 underlying source of demand like fiat money. Bitcoin has no value.&lt;/p&gt;
 
 &lt;p&gt;This is notwithstanding the amazing features of public blockchain
@@ -166,7 +166,7 @@ dollars.&lt;/p&gt;
 
 &lt;p&gt;Value investing is the process of identifying and purchasing assets that
 are worth more than their price.&lt;sup id=&quot;fnref:intelligent-investor&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:intelligent-investor&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; When a value investor pays $70 to buy an
-asset that is worth $100, they make $30 in profit instantly.&lt;/p&gt;
+asset that is worth $100, they make $30 in profit.&lt;/p&gt;
 
 &lt;p&gt;Because bitcoin has no value, it cannot be a value investment.&lt;/p&gt;
 
@@ -189,7 +189,7 @@ price of bitcoin will fall to effectively zero.&lt;/p&gt;
 only that it will.&lt;/p&gt;
 
 &lt;p&gt;It is possible to make a lot of money on speculation buy either being
-lucky or predicting investor sentiment. There is no known way to reliable
+lucky or predicting investor sentiment. There is no known way to reliably
 and ethically generate either of those conditions.&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
