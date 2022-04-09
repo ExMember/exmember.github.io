@@ -16,9 +16,10 @@ Mentary, the local Mensa newsletter.
 Well, I must have been in a mood that day. Because I darted off a response that
 was brash and unambivalent.
 
-I unthinkingly assumed that Nikki would use it for background or perhaps
-quote from it in an article surveying attitudes on education. I was shocked when
-I found out they were printing it, as is, in its entirety.
+I unthinkingly assumed that Nikki would use it for background or perhaps quote
+from it in an article surveying attitudes on education. I was shocked when I
+found out they were printing it, as is, in its entirety, in the April 2022
+edition of L.A. Mentary.
 
 I disapprove of the headline Nikki added: "Allow the Caste System." I do not
 know what that is suppose to mean. I do not think the caste system is something we
@@ -46,3 +47,6 @@ will include it here:
 > That said, I really enjoyed my college days. I had a blast learning everything
 > I could, often at the expense of my school work. I still use some of what I
 > learned in my career today.
+
+[![published
+article](/images/allow_the_caste_system.png)](/images/allow_the_caste_system.pdf)
