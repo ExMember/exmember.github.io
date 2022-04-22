@@ -6,25 +6,25 @@ tags:
   - education
 ---
 
-In January, I saw an announcement from Nikki Frey. Nikki is the editor of L.A.
+In January, I saw this announcement from Nikki Frey. Nikki is the editor of L.A.
 Mentary, the local Mensa newsletter.
 
 > "I’d like to get a paragraph or 2 (or more) from lots of you about your
 > experience & ideas to improve education.  I figure a taste of opinions from
 > various people will be interesting to the readers."
 
-Well, I must have been in a mood that day. Because I darted off a response that
+I must have been in a mood that day, because I darted off a response that
 was brash and unambivalent.
 
-I unthinkingly assumed that Nikki would use it for background or perhaps quote
-from it in an article surveying attitudes on education. I was shocked when I
-found out they were printing it, as is, in its entirety, in the April 2022
-edition of L.A. Mentary.
+I unthinkingly assumed that Nikki would use it for background or select quotes
+for an article surveying attitudes on education. I was shocked when I found out
+they were printing it, in its entirety, in the April 2022 edition of L.A.
+Mentary.
 
 I disapprove of the headline Nikki added: "Allow the Caste System." I do not
 know what that is suppose to mean. I do not think the caste system is something we
 should continue to allow. It upsets me that Nikki or others might read that into
-what I wrote, or that anyone would think that is acceptable to publish.
+what I wrote, or that anyone would think that is acceptable.
 
 While I stand by the content of my writing, had I realized it was going to a
 larger audience I would have been much more cautious. But as it is public now, I
