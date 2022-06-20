@@ -13,8 +13,8 @@ house at the Actor's Circle Theatre. Ten-dollar preview tickets are still
 available for Sunday at 7pm, after that tickets go up to $15. [Buy your
 tickets](https://www.hollywoodfringe.org/projects/466) now before they sell out.
 
-There is also time to [become a
-patron](https://www.kickstarter.com/projects/560939718/pulp-shakespeare) of Her
+There is also time to become a
+patron of Her
 Majesty's Secret Players and earn the prestige and swag that patrons of the arts
 deserve.
 

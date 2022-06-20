@@ -13,8 +13,7 @@ I've agreed to stage manage the West Coast premiere of "Pulp Shakespeare; or, A
 Slurry Tale" at the Hollywood Fringe Festival.
 
 Our little merry band, Her Majesty's Secret Player is in need of patronage.
-[Make a pledge via our
-Kickstarter](https://www.kickstarter.com/projects/560939718/pulp-shakespeare).
+Make a pledge via our Kickstarter.
 
 [Buy tickets](https://www.hollywoodfringe.org/projects/466).
 
