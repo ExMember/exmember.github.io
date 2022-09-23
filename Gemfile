@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 
-gem 'html-proofer'
+gem 'html-proofer', '< 4'
 gem 'jekyll-autoprefixer'
 gem 'mini_racer'
 
