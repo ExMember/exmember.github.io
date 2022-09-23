@@ -15,5 +15,5 @@ was an amazing show and I am so happy and so lucky to have been a part of it.
 Thanks also to everyone who came out to see us.
 
 If you didn't see it, Angela Gomez wrote an wonderful
-[review](http://www.socal.com/6373/172/Silent+Roar.html) at Socal.com. I think
+review at Socal.com. I think
 she did a great job capturing the essence of the show.
