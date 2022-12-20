@@ -35,5 +35,5 @@ jobs:
       - name: 🚀 deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.JEKYLL_PAT }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./_site
