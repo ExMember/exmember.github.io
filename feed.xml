@@ -5,9 +5,32 @@
     <description></description>
     <link>http://damienburke.com/</link>
     <atom:link href="http://damienburke.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Feb 2023 23:00:49 -0800</pubDate>
-    <lastBuildDate>Sun, 05 Feb 2023 23:00:49 -0800</lastBuildDate>
+    <pubDate>Mon, 06 Feb 2023 00:00:52 -0800</pubDate>
+    <lastBuildDate>Mon, 06 Feb 2023 00:00:52 -0800</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Fueled by Circle K</title>
+        <description>&lt;p&gt;I’m the rockstar nurse eighteen seconds in.&lt;/p&gt;
+
+&lt;p&gt;What do you think about the scrubs? I’m thinking of making that my daily wear.&lt;/p&gt;
+
+&lt;p&gt;Watch on &lt;a href=&quot;https://www.instagram.com/reel/Cnhdw7PPv7K/&quot;&gt;Instagram&lt;/a&gt; and
+&lt;a href=&quot;https://www.tiktok.com/@circlekstores/video/7189657621496958251&quot;&gt;TikTok&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/reel/Cnhdw7PPv7K/&quot;&gt;&lt;img src=&quot;images/rockstar-nurse-at-circle-k/instagram-still.png&quot; alt=&quot;Instagram&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.tiktok.com/@circlekstores/video/7189657621496958251&quot;&gt;&lt;img src=&quot;images/rockstar-nurse-at-circle-k/tiktok-still.png&quot; alt=&quot;TikTok&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Feb 2023 00:00:00 -0800</pubDate>
+        <link>http://damienburke.com/rockstar-nurse-at-circle-k</link>
+        <guid isPermaLink="true">http://damienburke.com/rockstar-nurse-at-circle-k</guid>
+        
+        <category>commercial</category>
+        
+        
+        <category>acting</category>
+        
+      </item>
     
       <item>
         <title>Allow the Caste System</title>
@@ -1218,74 +1241,6 @@ even charged with a crime.&lt;/p&gt;
         
         
         <category>government</category>
-        
-      </item>
-    
-      <item>
-        <title>Specifications not Test</title>
-        <description>&lt;p&gt;Stop writing tests. I want you to stop writing tests for your code. Stop writing
-tests and start writing specifications.&lt;/p&gt;
-
-&lt;h2 id=&quot;judgement&quot;&gt;Judgement&lt;/h2&gt;
-
-&lt;p&gt;Tests render judgement. You can fail a test. And if you fail a test what does
-that make you? A failure.&lt;/p&gt;
-
-&lt;p&gt;Specifications do not render judgement. You can confirm to a specification or
-you can not confirm to a specification. That is a choice you get to make. If you
-are writing an email server, you will probably want to confirm the IMAP
-specification. If you are writing a first-person shooter you probably won’t.&lt;/p&gt;
-
-&lt;h2 id=&quot;chronology&quot;&gt;Chronology&lt;/h2&gt;
-
-&lt;p&gt;Tests come after the fact. You learn fractions, and then you take a test. You
-build a car, and then you crash-test it.&lt;/p&gt;
-
-&lt;p&gt;Specifications come first. Before you build anything you need to first identify
-what you are building.&lt;/p&gt;
-
-&lt;h2 id=&quot;optionality&quot;&gt;Optionality&lt;/h2&gt;
-
-&lt;p&gt;Tests are optional. You can test the waters, or you can just dive in. You can
-take a blood test, or you can assume you’re fine.&lt;/p&gt;
-
-&lt;p&gt;Specifications are not optional. If you don’t specify what it does, how do you
-know you are done writing it?&lt;/p&gt;
-
-&lt;h2 id=&quot;naming&quot;&gt;Naming&lt;/h2&gt;
-
-&lt;p&gt;You may already be writing specifications but calling them tests. Call them
-specifications. Names are important. If you don’t believe that, rename all of
-your variables and methods by drawing letters from a bag of Scrabble tiles.&lt;/p&gt;
-
-&lt;p&gt;Random names are still far better than names that are misleading.  Calling a
-specification a test is like calling a saddle a seat. The distinction is subtle
-but very important. If you treat a saddle like a seat after a few miles your
-butt is going to hurt.&lt;/p&gt;
-
-&lt;p&gt;If it comes before the application code, is necessary, and isn’t used to judge
-developers then you are not writing tests, you are writing specifications. Call
-them that. If your specifications are used to drive the application development,
-then you are doing specification-driven development. Call it that.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The idea for this essay originated in a Twitter
-&lt;a href=&quot;https://twitter.com/ExMember/status/471745713764712450&quot;&gt;conversation&lt;/a&gt; with
-&lt;a href=&quot;https://twitter.com/dbrady&quot;&gt;Dave Brady&lt;/a&gt;. It was further expanded for a lighting
-talk I gave at &lt;a href=&quot;https://www.andconf.io/&quot;&gt;&amp;amp;:conf&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This essay was originally written for &lt;a href=&quot;https://www.ministryofvelocity.com/&quot;&gt;Ministry of
-Velocity&lt;/a&gt; and was first published
-&lt;a href=&quot;https://blog.ministryofvelocity.com/specifications-not-tests-20a74a35b2ee&quot;&gt;here&lt;/a&gt;
-on their &lt;a href=&quot;https://blog.ministryofvelocity.com/&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 21 Nov 2015 00:00:00 -0800</pubDate>
-        <link>http://damienburke.com/specifications-not-tests</link>
-        <guid isPermaLink="true">http://damienburke.com/specifications-not-tests</guid>
-        
-        
-        <category>software</category>
         
       </item>
     

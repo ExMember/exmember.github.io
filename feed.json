@@ -10,6 +10,25 @@
     "items": [
     
         {
+            "id": "http://damienburke.com/rockstar-nurse-at-circle-k",
+            "title": "Fueled by Circle K",
+            "summary": null,
+            "content_text": "I’m the rockstar nurse eighteen seconds in.What do you think about the scrubs? I’m thinking of making that my daily wear.Watch on Instagram andTikTok.",
+            "content_html": "<p>I’m the rockstar nurse eighteen seconds in.</p><p>What do you think about the scrubs? I’m thinking of making that my daily wear.</p><p>Watch on <a href=\"https://www.instagram.com/reel/Cnhdw7PPv7K/\">Instagram</a> and<a href=\"https://www.tiktok.com/@circlekstores/video/7189657621496958251\">TikTok</a>.</p><p><a href=\"https://www.instagram.com/reel/Cnhdw7PPv7K/\"><img src=\"images/rockstar-nurse-at-circle-k/instagram-still.png\" alt=\"Instagram\" /></a><a href=\"https://www.tiktok.com/@circlekstores/video/7189657621496958251\"><img src=\"images/rockstar-nurse-at-circle-k/tiktok-still.png\" alt=\"TikTok\" /></a></p>",
+            "url": "http://damienburke.com/rockstar-nurse-at-circle-k",
+            
+            
+            
+            
+            
+            "date_published": "2023-02-06T00:00:00-08:00",
+            "date_modified": "2023-02-06T00:00:00-08:00",
+            "author": {
+                "name": ""
+            }
+        },
+    
+        {
             "id": "http://damienburke.com/allow-the-caste-system",
             "title": "Allow the Caste System",
             "summary": null,
@@ -669,25 +688,6 @@
             
             "date_published": "2011-04-10T13:55:56-07:00",
             "date_modified": "2011-04-10T13:55:56-07:00",
-            "author": {
-                "name": ""
-            }
-        },
-    
-        {
-            "id": "http://damienburke.com/meet-the-cast-of-tiger-tiger-burning-bright",
-            "title": "Meet the Cast of Tiger Tiger Burning Bright",
-            "summary": null,
-            "content_text": "Richard Reliford shot and edited this promo video introducing our cast.I (obviously) didn’t know what to say at the time. I would have liked to saymore about my character, Clarence Morris; also known as tiger cat, the man ofthe house, the most handsome man around New Orleans, Mama’s beautiful dream, Mr.Book Man, Mama’s most important pretend, shadow, hustler, thief, hustling thief,thieving hustler, lover boy of the world, storybook child, candyman, andtwilight.",
-            "content_html": "<p>Richard Reliford shot and edited this promo video introducing our cast.</p><iframe title=\"Tiger Tiger Burning Bright 'Meet the Cast' Promo\" width=\"480\" height=\"390\" src=\"https://www.youtube.com/embed/lZknYPYzNq4?rel=0\" frameborder=\"0\" allowfullscreen=\"\"></iframe><p>I (obviously) didn’t know what to say at the time. I would have liked to saymore about my character, Clarence Morris; also known as tiger cat, the man ofthe house, the most handsome man around New Orleans, Mama’s beautiful dream, Mr.Book Man, Mama’s most important pretend, shadow, hustler, thief, hustling thief,thieving hustler, lover boy of the world, storybook child, candyman, andtwilight.</p>",
-            "url": "http://damienburke.com/meet-the-cast-of-tiger-tiger-burning-bright",
-            
-            
-            
-            "tags": ["trailer","theater","Tiger Tiger Burning Bright"],
-            
-            "date_published": "2011-03-13T17:27:42-07:00",
-            "date_modified": "2011-03-13T17:27:42-07:00",
             "author": {
                 "name": ""
             }
