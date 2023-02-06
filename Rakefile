@@ -11,7 +11,10 @@ task :html_proofer do
     check_external_hash: true,
     check_img_http: true,
     check_sri: true,
-    http_status_ignore: [999], # Fake status used by LinkedIn
+    url_ignore: [
+      /^https:\/\/www.linkedin.com\//, # LinkedIn returns 999 to valid URLs
+      /^https:\/\/www.tiktok.com\//, # TikTok returns 403s to valid URLs
+    ],
     # enforce_https: true, # We have 10 links to sites that do not support HTTPS
     parallel: { in_processes: 3 },
   }
