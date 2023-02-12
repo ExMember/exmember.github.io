@@ -61,7 +61,6 @@ GEM
       kramdown (~> 2.0)
     libv8-node (16.10.0.0)
     libv8-node (16.10.0.0-x86_64-linux)
-    libv8-node (16.10.0.0-x86_64-linux-musl)
     liquid (4.0.3)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
