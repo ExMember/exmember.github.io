@@ -6,6 +6,7 @@ gem 'html-proofer', '< 4'
 gem 'jekyll-autoprefixer'
 gem 'mini_racer'
 
+gem 'webrick'
 gem 'nokogiri'
 
 group :jekyll_plugins do
