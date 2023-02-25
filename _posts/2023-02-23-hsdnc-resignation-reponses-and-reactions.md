@@ -80,7 +80,7 @@ our most recent chairperson,
 
 Jon Peltz
 at KnockLA
-wrote an [in-depth article](https://www.facebook.com/theHSDNC/posts/pfbid02Kgo6PBnfoPkFLJsCrcEddEDV54tF3XsoKyMc3HSDsZ3qRPqPTzyBX7ZDHi8SU9CUl)
+wrote an [in-depth article](https://knock-la.com/mario-hernandez-neighborhood-council-lasd/)
 covering a history
 of bad behavior
 by the Department of Neighborhood Empowerment
