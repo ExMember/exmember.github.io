@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<style type="text/css">
+  .metadata li:not(:last-of-type)::after {
+    content: " | ";
+  }
+</style>
+
+<div class="usa-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap flex-align-start">
+      <main class="usa-layout-docs usa-layout-docs__main usa-prose" id="main-content">
+        <ul class="metadata text-base usa-list usa-list--unstyled text-right">
+          <li class="display-inline">microblog</li>
+          <li class="display-inline">{{ page.date | date_to_string }}</li>
+        </ul>
+
+        {{ content }}
+
+        {% if page.links.size != 0 %}
+        <ul class="usa-list usa-list--unstyled">
+          {% for link in page.links %}
+          <li><a href="{{ link }}">{{ link }}</a></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </main>
+    </div>
+  </div>
+</div>

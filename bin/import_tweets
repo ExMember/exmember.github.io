@@ -81,6 +81,7 @@ class Tweet
       'tags' => ['twitter'],
       'tweet_url' => url,
       'links' => urls,
+      'layout' => 'microblog',
     }
   end
 
