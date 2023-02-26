@@ -60,11 +60,11 @@ class Tweet
   end
 
   def reply?
-    ! in_reply_to_id.nil?
+    ! in_reply_to_user_id.nil?
   end
 
-  def in_reply_to_id
-    data['tweet']['in_reply_to_status_id']
+  def in_reply_to_user_id
+    data['tweet']['in_reply_to_user_id']
   end
 
   def to_markdown
