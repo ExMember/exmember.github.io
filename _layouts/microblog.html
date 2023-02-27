@@ -5,6 +5,10 @@ layout: default
   .metadata li:not(:last-of-type)::after {
     content: " | ";
   }
+
+  .metadata li svg {
+    width: 1em;
+  }
 </style>
 
 <div class="usa-section">
@@ -13,6 +17,13 @@ layout: default
       <main class="usa-layout-docs usa-layout-docs__main usa-prose" id="main-content">
         <ul class="metadata text-base usa-list usa-list--unstyled text-right">
           <li class="display-inline">microblog</li>
+          {% if page.tweet_url %}
+          <li class="display-inline">
+            <a title="Original Tweet" href="{{ page.tweet_url }}" class="text-no-underline">
+              {% include icons/twitter.html %}
+            </a>
+          </li>
+          {% endif %}
           <li class="display-inline">{{ page.date | date_to_string }}</li>
         </ul>
 
