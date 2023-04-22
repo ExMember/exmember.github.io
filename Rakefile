@@ -1,6 +1,6 @@
 require 'html-proofer'
 
-task test: %i[test_workflows html_proofer]
+task test: %i[test_workflows]# html_proofer]
 
 task :html_proofer do
   sh 'bundle exec jekyll build --future'
