@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.1)
+    addressable (2.8.4)
       public_suffix (>= 2.0.2, < 6.0)
     autoprefixer-rails (9.8.6.5)
       execjs
@@ -68,11 +68,11 @@ GEM
     mercenary (0.4.0)
     mini_racer (0.6.3)
       libv8-node (~> 16.10.0.0)
-    nokogiri (1.14.2-arm64-darwin)
+    nokogiri (1.14.3-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.14.2-x86_64-linux)
+    nokogiri (1.14.3-x86_64-linux)
       racc (~> 1.4)
-    parallel (1.22.1)
+    parallel (1.23.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.1)
