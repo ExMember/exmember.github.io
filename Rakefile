@@ -16,7 +16,7 @@ task :html_proofer do
       /^https:\/\/www.tiktok.com\//, # TikTok returns 403s to valid URLs
       'https://twitter.com/ExMember/status/471745713764712450', # Twitter gets stuck in a redirect loop
     ],
-    # enforce_https: true, # We have 10 links to sites that do not support HTTPS
+    enforce_https: true,
     parallel: { in_processes: 3 },
   }
   proofer = HTMLProofer.check_directory('./_site', options)

@@ -18,7 +18,7 @@
 
 Math is processed and formatted by [MathJax](https://mathjax.org)
 
-[AsciiMath](http://asciimath.org/) is preferred because it is more readable, but
+[AsciiMath](https://asciimath.github.io/) is preferred because it is more readable, but
 for things AsciiMath doesn't support, or for importing complicated math from
 other places, [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) is also
 supported.
