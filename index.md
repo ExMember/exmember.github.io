@@ -37,7 +37,7 @@ In 2020,
 I worked with
 Marcus Detry
 to create
-[All In Blitz](https://www.allinblitz.com),
+All In Blitz,
 the first ever
 college-football fantasy-conference game.
 
