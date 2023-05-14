@@ -1,6 +1,6 @@
 require 'html-proofer'
 
-task test: %i[test_workflows]# html_proofer]
+task test: %i[test_workflows html_proofer]
 
 task :html_proofer do
   sh 'bundle exec jekyll build --future'
@@ -14,6 +14,7 @@ task :html_proofer do
     url_ignore: [
       /^https:\/\/www.linkedin.com\//, # LinkedIn returns 999 to valid URLs
       /^https:\/\/www.tiktok.com\//, # TikTok returns 403s to valid URLs
+      'https://twitter.com/ExMember/status/471745713764712450', # Twitter gets stuck in a redirect loop
     ],
     # enforce_https: true, # We have 10 links to sites that do not support HTTPS
     parallel: { in_processes: 3 },
