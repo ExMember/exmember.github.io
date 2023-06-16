@@ -59,8 +59,10 @@ changes in connectivity
 and traffic.
 
 Similarly,
-all (non-trivial) software
+all[^nontrivial] software
 is artificial intelligence.
+
+[^nontrivial]: All non-trivial software. Trivial programs, like *Hello World*, may not be considered intelligence.
 
 That is not
 what most people are
@@ -100,7 +102,7 @@ doing highly parallelized
 alpha-beta pruning.
 
 With current technology,
-it is now possible
+it is possible
 to create software
 whose operation
 cannot be explained.
