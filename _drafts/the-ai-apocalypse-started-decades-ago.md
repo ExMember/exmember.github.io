@@ -8,24 +8,21 @@ tags:
 AI is dangerous.
 It is dangerous
 because
-it is powerful
-and it is inhuman.
+it is
+powerful and inhuman.
 
 There have
 been many stories
 warning us of
 the AI apocalypse
-both in science fiction
+in both science fiction
 and more general
 philosophical thought experiments.
 One example is
 Nick Bostrom's
-Paperclip Maximizer.
+Paperclip Maximizer.[^paperclipmaximizer]
 
-https://nickbostrom.com/ethics/ai
-
-https://www.huffpost.com/entry/artificial-intelligence-oxford_n_5689858
-
+[^paperclipmaximizer]: Explored in ["Ethical Issues in Advanced Artificial Intelligence"](https://nickbostrom.com/ethics/ai) 
 It goes like this:
 
 Imagine
@@ -78,16 +75,6 @@ to destroy us all.
 But the truth is that
 we already have.
 
-The paperclip maximizer
-is hypothetical.
-It is
-a thought experiment.
-That exact scenario
-is unlikely.
-But there are
-many like it,
-with the same outcome.
-
 No matter how anodyne
 the intention,
 birthing an agent
@@ -104,15 +91,27 @@ Jacob's Monkey's Paw,
 Lovecraft's Cthulhu, and
 Bostom's paperclip maximizer.
 
-But we don't
+The paperclip maximizer
+is hypothetical.
+It is
+a thought experiment.
+That exact scenario
+is unlikely.
+But there are
+many like it,
+with the same outcome.
+
+We don't
 have to look
 to some
 future, hypothetical, super-intelligent AI
-to see an example of this.
-We can see it
-in current technology.
-Remember,
-[all software is
+to see an example
+of humans creating
+a powerful and inhumane entity
+that causes global destruction.
+That happens
+with current technology.
+[All software is
 artificial intelligence,](https://damienburke.com/all-software-is-artificial-intelligence)
 most software is
 almost entirely inhumane,
@@ -124,19 +123,25 @@ a real and current example
 of the horror
 of runaway artificial intelligence.
 
-Social media software
-is designed
-to maximize engagement.
-The more engagement
-it generates,
+Social media companies
+build software
+to induce engagement.
+Engagement is good and useful.
+And the more engagement
+the software induces,
 the more money
 the company makes.
+So social media companies
+program their software
+to induce
+as much engagement
+as possible.
 
-But social media software
+Social media software
 is surprisingly smart
 and almost completely inhumane.
 In order
-to maximize engagement
+to induce engagement
 it generates
 depression[^depression],
 anxiety[^anxiety],
@@ -146,11 +151,9 @@ and right-wing extremism[^extremism].
 It's a terrifying scenario,
 but it is real and present,
 not in some hypothetical future.
-We have created something
-powerful enough
-and inhumane enough
-to do extraordinary harm
-to us all.
+We created
+a powerful and inhumane entity
+that causes global destruction.
 
 But we don't
 have to look
