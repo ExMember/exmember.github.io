@@ -11,19 +11,43 @@ because
 it is
 powerful and inhuman.
 
-There have
-been many stories
-warning us of
-the AI apocalypse
-in both science fiction
-and more general
-philosophical thought experiments.
-One example is
-Nick Bostrom's
-Paperclip Maximizer.[^paperclipmaximizer]
+No matter
+how anodyne
+its goals are,
+or how careful
+its safeguards are,
+an entity
+that is
+both powerful and inhuman
+is dangerous.
+The more powerful and inhuman
+it is,
+the more dangerous
+it will be.
+Creating anything
+powerful and inhuman
+beckons disaster.
+
+This lesson
+is told
+and retold
+over and over again
+in science fiction,
+horror,
+and philosophical thought experiments,
+such as
+Mary Shelly's Frankenstein,
+W. W. Jacobs' Monkey's Paw,
+H.P. Lovecraft's Cthulhu, and
+Nick Bostom's paperclip maximizer.[^paperclipmaximizer]
+
 
 [^paperclipmaximizer]: Explored in ["Ethical Issues in Advanced Artificial Intelligence"](https://nickbostrom.com/ethics/ai) 
-It goes like this:
+
+
+The story
+of Bostrom's paperclip maximizer
+goes like this:
 
 Imagine
 an office-supply company
@@ -47,8 +71,7 @@ It makes paperclips
 out of all
 the raw material
 in the factory.
-Then it
-makes paperclips
+It makes paperclips
 out of the building
 it is in
 and the cars
@@ -75,22 +98,7 @@ to destroy us all.
 But the truth is that
 we already have.
 
-No matter how anodyne
-the intention,
-birthing an agent
-that is
-powerful and inhumane
-beckons disaster.
-The more powerful and inhumane
-it is,
-the greater the disaster.
-This is
-the lesson
-of Shelly's Frankenstein,
-Jacob's Monkey's Paw,
-Lovecraft's Cthulhu, and
-Bostom's paperclip maximizer.
-
+<!--
 The paperclip maximizer
 is hypothetical.
 It is
@@ -100,6 +108,7 @@ is unlikely.
 But there are
 many like it,
 with the same outcome.
+-->
 
 We don't
 have to look
@@ -118,10 +127,12 @@ almost entirely inhumane,
 and some software is
 very very powerful.
 
-Social media provides
+Social media is
 a real and current example
 of the horror
 of runaway artificial intelligence.
+It is both
+powerful and inhuman.
 
 Social media companies
 build software
@@ -137,16 +148,14 @@ to induce
 as much engagement
 as possible.
 
-Social media software
-is surprisingly smart
-and almost completely inhumane.
-In order
-to induce engagement
-it generates
-depression[^depression],
-anxiety[^anxiety],
-loneliness[^loneliness],
-and right-wing extremism[^extremism].
+But social media software
+is smart,
+surprisingly smart.
+It creates engagement
+from depression[^depression],
+from anxiety[^anxiety],
+from loneliness[^loneliness],
+and from right-wing extremism[^extremism].
 
 It's a terrifying scenario,
 but it is real and present,
