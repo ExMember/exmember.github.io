@@ -24,30 +24,25 @@ The more powerful and inhuman
 it is,
 the more dangerous
 it will be.
-Creating anything
-powerful and inhuman
-beckons disaster.
 
 This lesson
-is told
-and retold
-over and over again
+is a constant
 in science fiction,
-horror,
-and philosophical thought experiments,
-including
-Mary Shelly's Frankenstein,
-W. W. Jacobs' Monkey's Paw,
-H.P. Lovecraft's Cthulhu, and
+horror, and
+philosophical thought experiments
+about hypothetical
+super-intelligent
+artificial intelligence,
+such as
 Nick Bostom's paperclip maximizer.[^paperclipmaximizer]
 
+[^paperclipmaximizer]: Explored in ["Ethical Issues in Advanced Artificial Intelligence"](https://nickbostrom.com/ethics/ai)
 
-[^paperclipmaximizer]: Explored in ["Ethical Issues in Advanced Artificial Intelligence"](https://nickbostrom.com/ethics/ai) 
-
-
-The story
-of Bostrom's paperclip maximizer
-goes like this:
+Hypothetical
+artificial intelligence
+is sometime inhuman
+and is often
+very very powerful.
 
 Imagine
 an office-supply company
@@ -98,7 +93,7 @@ they could cause.
 It is horrifying
 to believe
 that there could be
-this powerful an inhuman
+this powerful and inhuman
 machine
 causing global destruction.
 
@@ -136,7 +131,7 @@ It creates engagement
 from depression[^depression],
 from anxiety[^anxiety],
 from loneliness[^loneliness],
-and from right-wing extremism[^extremism].
+and from far-right extremism[^extremism].
 
 [^depression]: "[Social media] use was significantly associated with increased depression." Lin, L.y., Sidani, J.E., Shensa, A., Radovic, A., Miller, E., Colditz, J.B., Hoffman, B.L., Giles, L.M. and Primack, B.A. (2016), ASSOCIATION BETWEEN SOCIAL MEDIA USE AND DEPRESSION AMONG U.S. YOUNG ADULTS. Depress Anxiety, 33: 323-331. https://doi.org/10.1002/da.22466
 
@@ -147,12 +142,12 @@ and from right-wing extremism[^extremism].
 [^extremism]: "[C]ontent from sources rated as far-right by independent news rating services consistently received the highest engagement per follower of any partisan group." https://medium.com/cybersecurity-for-democracy/far-right-news-sources-on-facebook-more-engaging-e04a01efae90
 
 It's
-a terrifying scenario,
+a terrifying scenario
 if you know
 the reality
 of social media
 and understand
-the harms
+the harm
 it causes.
 
 It is horrifying
@@ -206,7 +201,7 @@ if you know
 the reality
 of corporations
 and understand
-the harms
+the harm
 they cause.
 
 It is horrifying
