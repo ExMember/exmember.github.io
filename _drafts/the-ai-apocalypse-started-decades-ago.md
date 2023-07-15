@@ -61,12 +61,14 @@ the more money
 the company makes.
 So the company
 programs their machine
-to make as many paperclips
-as it can.
+to make
+as many paperclips
+as possible.
 
 But the machine
-is smart,
-very smart.
+doesn't think
+the way
+humans think.
 It makes paperclips
 out of all
 the raw material
@@ -76,7 +78,7 @@ out of the building
 it is in
 and the cars
 in the parking lot.
-Eventually,
+Soon,
 the entire planet
 is nothing
 but paperclips.
@@ -88,43 +90,34 @@ It's
 a terrifying scenario
 if you believe
 in the possibility
-of super-intelligent machines.
-It's scary to believe
-that we could create
-something
-powerful enough
-and inhumane enough
-to destroy us all.
-But we already have.
+of super-intelligent machines
+and understand
+the harms
+they could cause.
 
-We don't
-have to look
-to some
-future, hypothetical, super-intelligent AI
-to see an example
-of humans creating
-a powerful and inhuman entity
-that causes global destruction.
-That happens
-with current technology.
-[All software is
-artificial intelligence,](https://damienburke.com/all-software-is-artificial-intelligence)
-most software is
-almost entirely inhuman,
+It is horrifying
+to believe
+that there could be
+this powerful an inhuman
+machine
+causing global destruction.
+
+But entities
+like that
+already exist.
+
+Most software is
+almost entirely inhuman
 and some software is
-very very powerful.
+very very powerful.[^allsoftwareisai]
 
-Social media is
-a real and current example
-of the horror
-of runaway artificial intelligence.
-It is both
-powerful and inhuman.
+[^allsoftwareisai]: And [all software is artificial intelligence.](https://damienburke.com/all-software-is-artificial-intelligence)
 
 Social media companies
 build software
 to induce engagement.
-Engagement is good and useful.
+Engagement is
+good and useful.
 And the more engagement
 the software induces,
 the more money
@@ -136,8 +129,9 @@ as much engagement
 as possible.
 
 But social media software
-is smart,
-surprisingly smart.
+doesn't think
+the way
+humans think.
 It creates engagement
 from depression[^depression],
 from anxiety[^anxiety],
@@ -152,64 +146,72 @@ and from right-wing extremism[^extremism].
 
 [^extremism]: "[C]ontent from sources rated as far-right by independent news rating services consistently received the highest engagement per follower of any partisan group." https://medium.com/cybersecurity-for-democracy/far-right-news-sources-on-facebook-more-engaging-e04a01efae90
 
-It's a terrifying scenario,
-but it is real and present,
-not in some hypothetical future.
-We created
-a powerful and inhuman entity
-that is causing global destruction.
+It's
+a terrifying scenario,
+if you know
+the reality
+of social media
+and understand
+the harms
+it causes.
 
-We don't
-have to look
-to brand-new
-or recent inventions
-to see an example
-of humans creating
-powerful and inhuman entities
-that causes global destruction.
-That happened
-with very old technology.
+It is horrifying
+to know
+that there is
+this powerful and inhuman
+software
+causing global destruction.
 
-Corporations are
-a real and very old example
-of the horror
-of runaway artificial intelligence.
+But entities
+like that
+have existed
+for centuries.
+
 Most corporations are
-almost entirely inhuman,
-and some are
+almost entirely inhuman
+and some corporations are
 very very powerful.
 
-Corporations
-build processes and procedures
+Shareholders
+build corporations
 to create profit.
-Profit is good and useful.
+Profit is
+good and useful.
 And the more profit
-the processes and procedures create
+the corporations create
 the more money
 the shareholders make.
-So corporations
-develop their processes and procedures
+So the shareholders
+direct their corporations
 to create
 as much profit
-as possible.
+as possible.[^friedmandoctrine]
+
+[^friedmandoctrine]: "...there is one and only one social responsibility of business—to use its resources and engage in activities designed to increase its profits." Friedman, Milton (September 13, 1970). ["A Friedman Doctrine: The Social Responsibility of Business is to Increase Its Profits"](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html). The New York Times Magazine.
 
 But corporations
 don't think
 the way
 that humans do.
 They create profit
-from slavery,
+from addiction [^reynolds]
 from colonization,[^eastindia] [^dole]
-from climate change,[^shellbpchevron]
-and from 
+from slavery,
+from genocide, [^ibm] [^calvinklein]
+and from climate change. [^shellbpchevron]
 
-It's a terrifying scenario,
-but it is real.
-It is our past, and present
-and if nothing changes
-it will be
-our future.
-We created
-powerful and inhuman entities
-that are causing global destruction.
+It's
+a terrifying scenario
+if you know
+the reality
+of corporations
+and understand
+the harms
+they cause.
 
+It is horrifying
+to know
+that there are
+these powerful and inhuman
+entities
+causing global destruction.
