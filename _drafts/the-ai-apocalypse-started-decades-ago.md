@@ -25,22 +25,22 @@ it is,
 the more dangerous
 it will be.
 
-This lesson
-is a constant
-in science fiction,
+This is
+a well-worn lesson
+from science fiction,
 horror, and
 philosophical thought experiments
 about hypothetical
 super-intelligent
-artificial intelligence,
+artificial intelligences,
 such as
 Nick Bostom's paperclip maximizer.[^paperclipmaximizer]
 
 [^paperclipmaximizer]: Explored in ["Ethical Issues in Advanced Artificial Intelligence"](https://nickbostrom.com/ethics/ai)
 
 Hypothetical
-artificial intelligence
-is sometime inhuman
+artificial intelligences
+are sometime inhuman
 and is often
 very very powerful.
 
