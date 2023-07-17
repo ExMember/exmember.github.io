@@ -188,11 +188,21 @@ don't think
 the way
 that humans do.
 They create profit
-from addiction [^reynolds]
-from colonization,[^eastindia] [^dole]
-from slavery,
-from genocide, [^ibm] [^calvinklein]
-and from climate change. [^shellbpchevron]
+from addiction [^tobacco]
+from colonization,[^eastindia]
+from slavery, [^rac]
+from genocide, [^ibm]
+and from climate change.[^exxon]
+
+[^tobacco]: "In short, defendants have marketed and sold their lethal product with zeal, with deception, with a single-minded focus on their financial success, and without regard for the human tragedy or social costs that success exacted," -- US District Court ruling in United States v. Philip Morris ["Judge rules against Big Tobacco"](https://money.cnn.com/2006/08/17/news/companies/tobacco_ruling/)
+
+[^eastindia]: "[The English East India Company] was essentially the de facto emperor of large portions of India, which was one of the most productive economies in the world at that point.” -- Emily Erikson, ["How the East India Company Became the World’s Most Powerful Monopoly"](https://www.history.com/news/east-india-company-england-trade)
+
+[^rac]: "From 1680 to 1686, the [Royal African Company] transported an average of 5,000 slaves per year, most of which were shipped to colonies in the Caribbean and Virginia." ["What Was the Royal African Company?"](https://www.history.com/news/what-was-the-royal-african-company)
+
+[^ibm]: "IBM exclusively produced, technologic solutions that enabled Hitler to accelerate and automate key aspects of his persecution of the Jews from the initial identification and social expulsion, to the confiscation and ghettoization, to the deportation and ultimate extermination." [*The business of making the trains to Auschwitz run on time*](https://www.sfgate.com/opinion/article/The-business-of-making-the-trains-to-Auschwitz-2821685.php), San Francisco Chronicle, May 19, 2002
+
+[^exxon]: "[W]hile their tactics have evolved from outright, blatant climate denial to more subtle forms of lobbying and propaganda, their end goal remains the same. And that’s to stop action on climate change." -- Geoffrey Supran, ["Tracing Big Oil’s PR war to delay action on climate change"](https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/), The Harvard Gazette, Sept 28, 2021
 
 It's
 a terrifying scenario
