@@ -41,7 +41,7 @@ Nick Bostom's paperclip maximizer.[^paperclipmaximizer]
 Hypothetical
 artificial intelligences
 are sometime inhuman
-and is often
+and are often
 very very powerful.
 
 Imagine
@@ -200,7 +200,7 @@ and from climate change.[^exxon]
 
 [^rac]: "From 1680 to 1686, the [Royal African Company] transported an average of 5,000 slaves per year, most of which were shipped to colonies in the Caribbean and Virginia." ["What Was the Royal African Company?"](https://www.history.com/news/what-was-the-royal-african-company)
 
-[^ibm]: "IBM exclusively produced, technologic solutions that enabled Hitler to accelerate and automate key aspects of his persecution of the Jews from the initial identification and social expulsion, to the confiscation and ghettoization, to the deportation and ultimate extermination." [*The business of making the trains to Auschwitz run on time*](https://www.sfgate.com/opinion/article/The-business-of-making-the-trains-to-Auschwitz-2821685.php), San Francisco Chronicle, May 19, 2002
+[^ibm]: "IBM and the Nazis jointly designed, and IBM exclusively produced, technologic solutions that enabled Hitler to accelerate and automate key aspects of his persecution of the Jews from the initial identification and social expulsion, to the confiscation and ghettoization, to the deportation and ultimate extermination." [*The business of making the trains to Auschwitz run on time*](https://www.sfgate.com/opinion/article/The-business-of-making-the-trains-to-Auschwitz-2821685.php), San Francisco Chronicle, May 19, 2002
 
 [^exxon]: "[W]hile their tactics have evolved from outright, blatant climate denial to more subtle forms of lobbying and propaganda, their end goal remains the same. And that’s to stop action on climate change." -- Geoffrey Supran, ["Tracing Big Oil’s PR war to delay action on climate change"](https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/), The Harvard Gazette, Sept 28, 2021
 
