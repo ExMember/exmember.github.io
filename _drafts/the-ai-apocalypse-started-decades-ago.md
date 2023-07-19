@@ -36,7 +36,7 @@ artificial intelligences,
 such as
 Nick Bostom's paperclip maximizer.[^paperclipmaximizer]
 
-[^paperclipmaximizer]: Explored in ["Ethical Issues in Advanced Artificial Intelligence"](https://nickbostrom.com/ethics/ai)
+[^paperclipmaximizer]: Explored in [_Ethical Issues in Advanced Artificial Intelligence_](https://nickbostrom.com/ethics/ai).
 
 Hypothetical
 artificial intelligences
@@ -131,14 +131,14 @@ It creates engagement
 from depression[^depression],
 from anxiety[^anxiety],
 from loneliness[^loneliness],
-and from far-right extremism[^extremism].
+and from far-right extremism.[^extremism]
 
-[^depression]: "[Social media] use was significantly associated with increased depression." Lin, L.y., Sidani, J.E., Shensa, A., Radovic, A., Miller, E., Colditz, J.B., Hoffman, B.L., Giles, L.M. and Primack, B.A. (2016), [Association Between Social Media Use and Depression Among U.S. Young Adults](https://doi.org/10.1002/da.22466), Depression and Anxiety, Volume 33, Issue 4, pages 323-331.
+[^depression]: "[Social media] use was significantly associated with increased depression." [_Association Between Social Media Use and Depression Among U.S. Young Adults_](https://doi.org/10.1002/da.22466), Depression and Anxiety, Volume 33, Issue 4, pages 323-331, January 19, 2016
 
-[^anxiety]: "Use of multiple [social media] platforms is independently associated with symptoms of depression and anxiety." Primack, Brian & Shensa, Ariel & Escobar-Viera, César & Barrett, Erica & Sidani, Jaime & Colditz, Jason & James, A.. (2017). [Use of multiple social media platforms and symptoms of depression and anxiety: A nationally-representative study among U.S. young adults.](https://www.researchgate.net/publication/311568667_Use_of_multiple_social_media_platforms_and_symptoms_of_depression_and_anxiety_A_nationally-representative_study_among_US_young_adults) Computers in Human Behavior. 69. 1-9. 10.1016/j.chb.2016.11.013.
-[^loneliness]: "The limited use group showed significant reductions in loneliness and depression over three weeks compared to the control group." [No More FOMO: Limiting Social Media Decreases Loneliness and Depression](https://doi.org/10.1521/jscp.2018.37.10.751) Melissa G. Hunt, Rachel Marx, Courtney Lipson, and Jordyn Young Journal of Social and Clinical Psychology 2018 37:10, 751-768
+[^anxiety]: "Use of multiple [social media] platforms is independently associated with symptoms of depression and anxiety." [_Use of multiple social media platforms and symptoms of depression and anxiety: A nationally-representative study among U.S. young adults_](https://www.researchgate.net/publication/311568667_Use_of_multiple_social_media_platforms_and_symptoms_of_depression_and_anxiety_A_nationally-representative_study_among_US_young_adults) Computers in Human Behavior. 69. 1-9 April 2017
+[^loneliness]: "The limited use group showed significant reductions in loneliness and depression over three weeks compared to the control group." [_No More FOMO: Limiting Social Media Decreases Loneliness and Depression_](https://doi.org/10.1521/jscp.2018.37.10.751) Journal of Social and Clinical Psychology 2018 37:10, 751-768
 
-[^extremism]: "[C]ontent from sources rated as far-right by independent news rating services consistently received the highest engagement per follower of any partisan group." [Far-right news sources on Facebook more engaging](https://medium.com/cybersecurity-for-democracy/far-right-news-sources-on-facebook-more-engaging-e04a01efae90) Cybersecurity for Democracy, March 3, 2021
+[^extremism]: "[C]ontent from sources rated as far-right by independent news rating services consistently received the highest engagement per follower of any partisan group." [_Far-right news sources on Facebook more engaging_](https://medium.com/cybersecurity-for-democracy/far-right-news-sources-on-facebook-more-engaging-e04a01efae90) Cybersecurity for Democracy, March 3, 2021
 
 It's
 a terrifying scenario
@@ -175,34 +175,34 @@ And the more profit
 the corporations create
 the more money
 the shareholders make.
-So the shareholders
+So shareholders
 direct their corporations
 to create
 as much profit
 as possible.[^friedmandoctrine]
 
-[^friedmandoctrine]: "...there is one and only one social responsibility of business—to use its resources and engage in activities designed to increase its profits." Friedman, Milton (September 13, 1970). ["A Friedman Doctrine: The Social Responsibility of Business is to Increase Its Profits"](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html). The New York Times Magazine.
+[^friedmandoctrine]: "[T]here is one and only one social responsibility of business --- to use its resources and engage in activities designed to increase its profits." [_A Friedman Doctrine: The Social Responsibility of Business is to Increase Its Profits_](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html) Milton Friedman, The New York Times Magazine, September 13, 1970
 
 But corporations
 don't think
 the way
 that humans do.
 They create profit
-from addiction [^tobacco]
+from addiction,[^tobacco]
 from colonization,[^eastindia]
-from slavery, [^rac]
-from genocide, [^ibm]
+from slavery,[^rac]
+from genocide,[^ibm]
 and from climate change.[^exxon]
 
-[^tobacco]: "In short, defendants have marketed and sold their lethal product with zeal, with deception, with a single-minded focus on their financial success, and without regard for the human tragedy or social costs that success exacted," -- US District Court ruling in United States v. Philip Morris ["Judge rules against Big Tobacco"](https://money.cnn.com/2006/08/17/news/companies/tobacco_ruling/)
+[^tobacco]: "In short, defendants have marketed and sold their lethal product with zeal, with deception, with a single-minded focus on their financial success, and without regard for the human tragedy or social costs that success exacted," US District Court ruling in United States v. Philip Morris, quoted in [_Judge rules against Big Tobacco_](https://money.cnn.com/2006/08/17/news/companies/tobacco_ruling/)
 
-[^eastindia]: "[The English East India Company] was essentially the de facto emperor of large portions of India, which was one of the most productive economies in the world at that point.” -- Emily Erikson, ["How the East India Company Became the World’s Most Powerful Monopoly"](https://www.history.com/news/east-india-company-england-trade)
+[^eastindia]: "[The English East India Company] was essentially the de facto emperor of large portions of India, which was one of the most productive economies in the world at that point.” -- Emily Erikson, [_How the East India Company Became the World’s Most Powerful Monopoly_](https://www.history.com/news/east-india-company-england-trade)
 
-[^rac]: "From 1680 to 1686, the [Royal African Company] transported an average of 5,000 slaves per year, most of which were shipped to colonies in the Caribbean and Virginia." ["What Was the Royal African Company?"](https://www.history.com/news/what-was-the-royal-african-company)
+[^rac]: "From 1680 to 1686, the [Royal African Company] transported an average of 5,000 slaves per year, most of which were shipped to colonies in the Caribbean and Virginia." [_What Was the Royal African Company?_](https://www.history.com/news/what-was-the-royal-african-company)
 
-[^ibm]: "IBM and the Nazis jointly designed, and IBM exclusively produced, technologic solutions that enabled Hitler to accelerate and automate key aspects of his persecution of the Jews from the initial identification and social expulsion, to the confiscation and ghettoization, to the deportation and ultimate extermination." [*The business of making the trains to Auschwitz run on time*](https://www.sfgate.com/opinion/article/The-business-of-making-the-trains-to-Auschwitz-2821685.php), San Francisco Chronicle, May 19, 2002
+[^ibm]: "IBM and the Nazis jointly designed, and IBM exclusively produced, technologic solutions that enabled Hitler to accelerate and automate key aspects of his persecution of the Jews from the initial identification and social expulsion, to the confiscation and ghettoization, to the deportation and ultimate extermination." [_The business of making the trains to Auschwitz run on time_](https://www.sfgate.com/opinion/article/The-business-of-making-the-trains-to-Auschwitz-2821685.php), San Francisco Chronicle, May 19, 2002
 
-[^exxon]: "[W]hile their tactics have evolved from outright, blatant climate denial to more subtle forms of lobbying and propaganda, their end goal remains the same. And that’s to stop action on climate change." -- Geoffrey Supran, ["Tracing Big Oil’s PR war to delay action on climate change"](https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/), The Harvard Gazette, Sept 28, 2021
+[^exxon]: "[W]hile their tactics have evolved from outright, blatant climate denial to more subtle forms of lobbying and propaganda, their end goal remains the same. And that’s to stop action on climate change." -- Geoffrey Supran, [_Tracing Big Oil’s PR war to delay action on climate change_](https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/), The Harvard Gazette, Sept 28, 2021
 
 It's
 a terrifying scenario
