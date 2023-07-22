@@ -106,7 +106,7 @@ almost entirely inhuman
 and some software is
 very very powerful.[^allsoftwareisai]
 
-[^allsoftwareisai]: And [all software is artificial intelligence.](https://damienburke.com/all-software-is-artificial-intelligence)
+[^allsoftwareisai]: And [all software is artificial intelligence.](/all-software-is-artificial-intelligence)
 
 Social media companies
 build software
