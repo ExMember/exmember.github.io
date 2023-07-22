@@ -42,9 +42,7 @@ By that standard,
 an email server
 is artificial intelligence.
 
-An email server
-can learn.
-It learns
+An email server learns
 what address
 each email
 is intended for.
