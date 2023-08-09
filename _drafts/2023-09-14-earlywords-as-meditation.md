@@ -11,8 +11,8 @@ blog.](https://earlywords.io/articles/earlywords-as-meditation))
 In one sense,
 for me
 meditation is
-about presence,
-practicing
+about presence
+and practicing
 being present.
 
 I sit
@@ -42,7 +42,7 @@ aware that
 I am
 breathing out."
 
-But sometimes
+Sometimes
 I direct
 my attention
 to other sensations.
@@ -50,18 +50,16 @@ I might
 become aware
 of tension
 in my jaw.
-And then
-as I focus
+As I focus
 my attention
 on the sensations
-in my jaw
+in my jaw,
 I might notice
 the tension
 loosening
 and my jaw
 relaxing.
-And I might
-then direct
+I might direct
 my attention
 to other parts
 of my body
@@ -76,8 +74,8 @@ In another sense,
 for me
 mediation is
 about directing
-my attention,
-practicing directing
+my attention
+and practicing directing
 my attention.
 
 I sit
@@ -86,16 +84,15 @@ for ten minutes
 every morning
 and I practice
 noticing when
-it drifts
+my attention drifts
 and directing
-my attention
-back
+it back
 to the present.
 
 My mind wanders
 to memories
-of the past,
-it wanders
+of the past.
+It wanders
 to hopes, plans, or fears
 of the future.
 I notice
@@ -151,7 +148,7 @@ where I am
 writing those wanderings
 into my Earlywords.
 
-Every day
+Every day,
 I do
 ten minutes
 of meditation
@@ -162,7 +159,7 @@ returning to the present
 by directing
 my attention
 to the sensations
-present in my mind.
+present in my body.
 Every day,
 I do
 seven hundred and fifty words
