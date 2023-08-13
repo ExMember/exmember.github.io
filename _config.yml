@@ -11,7 +11,7 @@ logo: /images/about-me/actor.jpg
 # Build settings
 markdown: kramdown
 timezone: America/Los_Angeles
-remote_theme: 18F/uswds-jekyll
+theme: uswds-jekyll
 future: false
 plugins:
   - jekyll-feed

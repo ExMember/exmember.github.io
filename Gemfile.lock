@@ -92,6 +92,10 @@ GEM
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
     unicode-display_width (1.8.0)
+    uswds-jekyll (5.5.0)
+      jekyll (>= 4.0, < 5)
+      jekyll-autoprefixer
+      mini_racer
     webrick (1.8.1)
     yell (2.2.2)
 
@@ -107,6 +111,7 @@ DEPENDENCIES
   jekyll-remote-theme
   mini_racer
   nokogiri
+  uswds-jekyll
   webrick
 
 BUNDLED WITH
