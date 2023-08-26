@@ -4,7 +4,7 @@ gem 'jekyll', '~>4.2.2' # newer releases use too much from USWDS
 
 gem 'uswds-jekyll'
 
-gem 'html-proofer', '< 4'
+gem 'html-proofer'
 gem 'jekyll-autoprefixer'
 gem 'mini_racer'
 

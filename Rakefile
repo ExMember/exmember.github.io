@@ -5,19 +5,15 @@ task test: %i[test_workflows html_proofer]
 task :html_proofer do
   sh 'bundle exec jekyll build --future'
   options = {
-    assume_extension: true,
-    cache: { timeframe: '30d' },
-    # check_html: true, # Problem with theme nav
-    check_external_hash: true,
-    check_img_http: true,
+    allow_missing_href: true,
+    cache: { timeframe: {external: '30d'} },
     check_sri: true,
-    url_ignore: [
+    ignore_urls: [
       /^https:\/\/www.linkedin.com\//, # LinkedIn returns 999 to valid URLs
       /^https:\/\/www.tiktok.com\//, # TikTok returns 403s to valid URLs
-      /^https:\/\/twitter.com\//, # Twitter gets stuck in a redirect loop
+      /^https:\/\/twitter.com\//, # Twitter is no longer available to logged out users
+      /^https:\/\/doi\.org\//, # Returns 403 to bots
     ],
-    enforce_https: true,
-    parallel: { in_processes: 3 },
   }
   proofer = HTMLProofer.check_directory('./_site', options)
 

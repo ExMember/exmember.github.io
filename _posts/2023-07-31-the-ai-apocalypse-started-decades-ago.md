@@ -135,7 +135,7 @@ and from far-right extremism.[^extremism]
 
 [^depression]: "[Social media] use was significantly associated with increased depression." [_Association Between Social Media Use and Depression Among U.S. Young Adults_](https://doi.org/10.1002/da.22466), Depression and Anxiety, Volume 33, Issue 4, pages 323-331, January 19, 2016
 
-[^anxiety]: "Use of multiple [social media] platforms is independently associated with symptoms of depression and anxiety." [_Use of multiple social media platforms and symptoms of depression and anxiety: A nationally-representative study among U.S. young adults_](https://www.researchgate.net/publication/311568667_Use_of_multiple_social_media_platforms_and_symptoms_of_depression_and_anxiety_A_nationally-representative_study_among_US_young_adults) Computers in Human Behavior. 69. 1-9 April 2017
+[^anxiety]: "Use of multiple [social media] platforms is independently associated with symptoms of depression and anxiety." [_Use of multiple social media platforms and symptoms of depression and anxiety: A nationally-representative study among U.S. young adults_](https://doi.org/10.1016/j.chb.2016.11.013) Computers in Human Behavior. 69. 1-9 April 2017
 [^loneliness]: "The limited use group showed significant reductions in loneliness and depression over three weeks compared to the control group." [_No More FOMO: Limiting Social Media Decreases Loneliness and Depression_](https://doi.org/10.1521/jscp.2018.37.10.751) Journal of Social and Clinical Psychology 2018 37:10, 751-768
 
 [^extremism]: "[C]ontent from sources rated as far-right by independent news rating services consistently received the highest engagement per follower of any partisan group." [_Far-right news sources on Facebook more engaging_](https://medium.com/cybersecurity-for-democracy/far-right-news-sources-on-facebook-more-engaging-e04a01efae90) Cybersecurity for Democracy, March 3, 2021
@@ -194,7 +194,7 @@ from slavery,[^rac]
 from genocide,[^ibm]
 and from climate change.[^exxon]
 
-[^tobacco]: "In short, defendants have marketed and sold their lethal product with zeal, with deception, with a single-minded focus on their financial success, and without regard for the human tragedy or social costs that success exacted," US District Court ruling in United States v. Philip Morris, quoted in [_Judge rules against Big Tobacco_](https://money.cnn.com/2006/08/17/news/companies/tobacco_ruling/)
+[^tobacco]: "In short, defendants have marketed and sold their lethal product with zeal, with deception, with a single-minded focus on their financial success, and without regard for the human tragedy or social costs that success exacted," US District Court ruling in United States v. Philip Morris, quoted in [_Judge rules against Big Tobacco_](https://money.cnn.com/2006/08/17/news/companies/tobacco_ruling/index.html)
 
 [^eastindia]: "[The English East India Company] was essentially the de facto emperor of large portions of India, which was one of the most productive economies in the world at that point.” -- Emily Erikson, [_How the East India Company Became the World’s Most Powerful Monopoly_](https://www.history.com/news/east-india-company-england-trade)
 
