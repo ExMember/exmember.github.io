@@ -1,6 +1,6 @@
 ---
-title: Instacart Summer Faves
-date: 2023-12-04 07:00:00 -08:00
+title: Instacart - Summer Faves
+date: 2023-12-11 07:00:00 -08:00
 image: /images/instacart-summer-faves/instacart-summer-faves.png
 category:
 - acting

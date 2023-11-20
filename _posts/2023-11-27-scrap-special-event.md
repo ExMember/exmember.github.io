@@ -1,5 +1,5 @@
 ---
-title: Scrap Special Event
+title: Scrap - Special Event
 date: 2023-11-27 07:00:00 -08:00
 image: /images/scrap-special-event/scrap-poster.jpg
 category:
