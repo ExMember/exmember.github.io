@@ -55,7 +55,7 @@ then you are doing specification-driven development. Call it that.
 The idea for this essay originated in a Twitter
 [conversation](https://twitter.com/ExMember/status/471745713764712450) with
 [Dave Brady](https://twitter.com/dbrady). It was further expanded for a lighting
-talk I gave at [&:conf](https://www.andconf.io/).
+talk I gave at AndConf.
 
 This essay was originally written for [Ministry of
 Velocity](https://www.ministryofvelocity.com/) and was first published
