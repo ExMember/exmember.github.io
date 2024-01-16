@@ -1,29 +1,20 @@
 primary:
-  - text: Talaria Software
-    href: https://www.talariasoftware.com
-    external: true
-  - text: Neverbust
-    href: https://www.neverbust.com
-    external: true
-  - text: EarlyWords
-    href: https://earlywords.io
-    external: true
-  - text: Writing
-    href: /everything
+  - text: Actor
+    href: /actor
+  - text: Entrepreneur
+    href: /entrepreneur
+  - text: Engineer
+    href: /engineer
+  - text: Writer
+    href: /writer
+  - text: Citizen
+    href: /citizen
   # - text: Navigation section
   #   links:
   #     - text: Demo link A
   #       href: /two/a/
   #     - text: Demo link B
   #       href: /two/b/
-  #     - text: Demo link C
-  #       href: /two/c/
-  #     - text: Demo link D
-  #       href: /two/a/
-  #     - text: Demo link E
-  #       href: /two/b/
-  #     - text: Demo link F
-  #       href: /two/c/
 
 # secondary:
 #   - text: Documentation
@@ -49,14 +40,13 @@ docs:
     external: true
 
 footer:
-  - text: Talaria Software
-    href: https://www.talariasoftware.com
-    external: true
-  - text: Neverbust
-    href: https://www.neverbust.com
-    external: true
-  - text: EarlyWords
-    href: https://earlywords.io
-    external: true
-  - text: Writing
-    href: /everything
+  - text: Actor
+    href: /actor
+  - text: Entrepreneur
+    href: /entrepreneur
+  - text: Engineer
+    href: /engineer
+  - text: Writer
+    href: /writer
+  - text: Citizen
+    href: /citizen
