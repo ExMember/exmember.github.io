@@ -1,72 +1,35 @@
 ---
 layout: home
 ---
-# About Me
+# I am
 
-I started working
-on Internet startups
-in 1999
-and never stopped.
-I have been
-an engineer, founder, consultant, CTO, product manager, and [speaker](https://www.youtube.com/watch?v=rudQgpOhQ04).
-I offer coaching and consulting
-for software startups
-at [Talaria Software](https://talariasoftware.com).
+[I am an actor](/actor)
+you may
+have seen
+in theatre, commercials, network television, and film.
 
+[I am an entrepreneur](/entrepreneur)
+specializing in
+SaaS businesses.
 
-I am the creator
-of [USWDS Components](https://github.com/TalariaSoftware/uswds_components),
-the open-source [ViewComponent](https://viewcomponent.org) library
-for adding components
-from the [US Web Design System (USWDS)](https://designsystem.digital.gov)
-to your Rails application.
+[I am an engineer](/engineer)
+who has been
+working at
+Internet startups
+since 1999.
 
-In May 2020,
-I teamed up
-with Rob Head
-to create [52 Sketches](https://52sketches.com).
-Together,
-and now with Claudia Alick,
-we built [EarlyWords](https://www.earlywords.io),
-a tool
-to help
-people unleash
-their creativity.
+[I am a writer](/writer)
+who on occasion
+thinks I have
+something to say.
 
-In 2020,
-I worked with
-Marcus Detry
-to create
-All In Blitz,
-the first ever
-college-football fantasy-conference game.
-
-In 2017,
-I developed
-the first
-rigorous and comprehensive
-mathematical solution
-to bankroll management.
-That's when
-I created [Neverbust](https://neverbust.com),
-the bankroll manager
-for professional poker players.
+[I am a citizen](/citizen)
+working
+to make
+our communities
+better.
 
 I am certified
-in ontological coaching, hypnosis, and neuro-linguistic programming.
-I spent seven years
+in ontological coaching, hypnosis, and neuro-linguistic programming
+and spent seven years
 as professional poker player.
-
-As an actor,
-I have performed
-in theatre, commercials, network television, and film.
-You may have seen me
-in commercials
-for [Safe Auto](https://www.youtube.com/watch?v=wNudyDtpBwQ),
-[Evolve](https://www.youtube.com/watch?v=pQD88GlQ8dw),
-[Morgan and Morgan](https://www.youtube.com/watch?v=9OPQ0U6VZ-I);
-[teaching mindfulness](https://childmind.org/healthyminds/mindfulness-students-elementary/)
-with the Child Mind Institute
-or as the narrator
-in [Project Life](https://www.youtube.com/watch?v=KluTIX4m520).
-

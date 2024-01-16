@@ -110,8 +110,8 @@ on any other platform.
         All In Blitz
       </h4>
       <p class="usa-collection__description">
-        All In Blitz was a fantasy football league where players competed to
-        draft the best college football conference.
+        In 2020, I worked with Marcus Detry to create All In Blitz, the
+        first ever college-football fantasy-conference game.
       </p>
     </div>
   </li>
