@@ -10,6 +10,7 @@ task :html_proofer do
     check_sri: true,
     ignore_urls: [
       /^https:\/\/www.linkedin.com\//, # LinkedIn returns 999 to valid URLs
+      /^https:\/\/www.nytimes.com\//, # New York Times returns 403s
       /^https:\/\/www.tiktok.com\//, # TikTok returns 403s to valid URLs
       /^https:\/\/twitter.com\//, # Twitter is no longer available to logged out users
       /^https:\/\/doi\.org\//, # Returns 403 to bots
