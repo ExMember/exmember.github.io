@@ -21,14 +21,14 @@ decades of experience. It costs dearly.
 
 Claudia and I are not in the position to absorb those costs. It is not
 sustainable. We need to share the costs. But we are extremely selective about
-who we share it with.
+who we share it with, for good reason.
 
-Because the person who pays for something has control over it.
+The person who pays for something has control over it.
 
 In the extreme case, they can simply stop paying. Without someone to pay the
 costs, a project like Followers Forever will simply cease to exist. It rarely
 comes to that. People and projects bend to the will of their patrons quickly,
-constantly, and usually without any overt threats.
+consistently, and usually without any overt threats.
 
 So the question is not "Who should pay to create and maintain Followers Forever?"
 The question is, "Who should have control over Followers Forever?" And the answer is simple: you, the users.
