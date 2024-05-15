@@ -67,7 +67,7 @@ revenue and KPI's at the expense of my mental health.[^socialmediaevils] With
 Twitter I didn't have to do that. I could stay on the "Following" page and see
 only content from feeds that I have chosen.
 
-[^socialmediaevils]: I go into more depth on what causes these problem in [Why Followers Forever Will Never Be Free](/why-followers-forever-will-never-be-free.md) and more broadly in [The AI Apocalypse Started Decades Ago](/ai-apocalypse-started-decades-ago).
+[^socialmediaevils]: I go into more depth on what causes these problem in [Why Followers Forever Will Never Be Free](/why-followers-forever-will-never-be-free) and more broadly in [The AI Apocalypse Started Decades Ago](/the-ai-apocalypse-started-decades-ago).
 
 Twitter was a place I could go for brief, text-based, curated content. That was
 a wonderful experience and I will miss it when it's gone.
