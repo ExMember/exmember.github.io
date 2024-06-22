@@ -24,7 +24,9 @@ from the board.
 We emailed
 our [resignation letter](/hsdnc-resignation)
 and posted it
-on the [HSDNC website](https://www.hsdnc.org/2023/02/majority-of-the-hsdnc-board-resigns-in-protest-of-done/)
+on the HSDNC website
+(at https://www.hsdnc.org/2023/02/majority-of-the-hsdnc-board-resigns-in-protest-of-done/
+which is no longer available)
 and [Facebook page](https://www.facebook.com/theHSDNC/posts/pfbid02Kgo6PBnfoPkFLJsCrcEddEDV54tF3XsoKyMc3HSDsZ3qRPqPTzyBX7ZDHi8SU9CUl).
 
 A lot of things
@@ -76,7 +78,10 @@ since resigning.
 
 Michael Tessler,
 our most recent chairperson,
-[added additional thoughts](https://www.hsdnc.org/2023/02/a-statement-from-the-hsdnc-chair-regarding-dones-actions/).
+added additional thoughts
+to the HSDNC website
+(https://www.hsdnc.org/2023/02/a-statement-from-the-hsdnc-chair-regarding-dones-actions/)
+which are no longer available.
 
 Jon Peltz
 at KnockLA

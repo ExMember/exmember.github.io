@@ -26,9 +26,6 @@ The Hollywood Studio District is the area south of Hollywood Blvd, east of
 El Centro Ave, North of Melrose, and west of Western Avenue or the
 Hollywood freeway.
 
-More information about the HSDNC can be found on their
-[website](https://www.hsdnc.org/).
-
 # What is this document?
 
 This document is my personal opinion on how best to operate the HSDNC,
