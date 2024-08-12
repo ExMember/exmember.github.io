@@ -21,7 +21,7 @@ I am very proud
 to be
 a member of Cohere.
 With Cohere,
-Zee Spencer, Ana Unlin, Jennifer Tu, and I
+Zee Spencer, Ana Ulin, Jennifer Tu, and I
 are co-creating
 a work environment
 that is
