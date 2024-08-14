@@ -11,7 +11,7 @@ tags:
 
 On January 1, 2024,
 [Cohere](https://www.cohere.coop),
-a California cooperative,
+a worker cooperative,
 purchased [OpaVote](https://opavote.com),
 an online voting platform
 specializing in
