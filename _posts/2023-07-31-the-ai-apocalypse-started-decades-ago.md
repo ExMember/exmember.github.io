@@ -194,7 +194,7 @@ from slavery,[^rac]
 from genocide,[^ibm]
 and from climate change.[^exxon]
 
-[^tobacco]: "In short, defendants have marketed and sold their lethal product with zeal, with deception, with a single-minded focus on their financial success, and without regard for the human tragedy or social costs that success exacted," US District Court ruling in United States v. Philip Morris, quoted in [_Judge rules against Big Tobacco_](https://money.cnn.com/2006/08/17/news/companies/tobacco_ruling/index.html)
+[^tobacco]: "In short, defendants have marketed and sold their lethal product with zeal, with deception, with a single-minded focus on their financial success, and without regard for the human tragedy or social costs that success exacted," [US District Court opinion, _United States v. Philip Morris_](https://www.justice.gov/sites/default/files/civil/legacy/2014/09/11/amended%20opinion_0.pdf) (page 34)
 
 [^eastindia]: "[The English East India Company] was essentially the de facto emperor of large portions of India, which was one of the most productive economies in the world at that point.” -- Emily Erikson, [_How the East India Company Became the World’s Most Powerful Monopoly_](https://www.history.com/news/east-india-company-england-trade)
 
