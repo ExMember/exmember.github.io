@@ -10,4 +10,6 @@ They lied about government programs,\
 To spew their malarkey and hokum.\
 &nbsp;&nbsp;&nbsp;&nbsp;Claimed transparency\
 &nbsp;&nbsp;&nbsp;&nbsp;And competency.\
-But then [left their database open.](https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/)
+But then left their database open.[^404Media]
+
+[^404Media]: Jason Koebler, [Anyone Can Push Updates to the DOGE.gov Website](https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/), 404 Media, (Feb. 14, 2025).
