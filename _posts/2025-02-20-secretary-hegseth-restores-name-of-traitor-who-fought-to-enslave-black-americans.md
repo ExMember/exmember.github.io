@@ -1,6 +1,6 @@
 ---
 title: Secretary Hegseth Restores Name of Traitor Who Fought to Enslave Black Americans
-date: 2025-02-19 07:00:00 -08:00
+date: 2025-02-20 07:00:00 -08:00
 tags:
 - limerick
 - Hegseth
