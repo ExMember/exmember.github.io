@@ -14,6 +14,7 @@ task :html_proofer do
       /^https:\/\/www.tiktok.com\//, # TikTok returns 403s to valid URLs
       /^https:\/\/twitter.com\//, # Twitter is no longer available to logged out users
       /^https:\/\/doi\.org\//, # Returns 403 to bots
+      /^https:\/\/www.reuters.com\//, # Returns 401 to bots
     ],
   }
   proofer = HTMLProofer.check_directory('./_site', options)
