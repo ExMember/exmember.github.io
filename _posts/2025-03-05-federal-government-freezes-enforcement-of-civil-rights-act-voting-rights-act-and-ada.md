@@ -9,7 +9,7 @@ tags:
 
 Departments in charge of the fight\
 To protect the country's non-whites\
-&nbsp;&nbsp;&nbsp;&nbsp;Were order to freeze.[^msnbc]\
+&nbsp;&nbsp;&nbsp;&nbsp;Were ordered to freeze.[^msnbc]\
 &nbsp;&nbsp;&nbsp;&nbsp;The presidency\
 Don't want us to have civil rights.
 
