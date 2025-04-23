@@ -16,7 +16,7 @@ Last year I played [a husband and father of two girls.](/instacard-summer-faves)
 Then I played [a man screaming his head off.](/76-ready-set-go-go-go)
 
 With that experience under my belt, I was finally able to land this role as
-a husband and father two girls screaming his head off.
+a husband and father of two girls screaming his head off.
 
 <video controls="controls">
 <source src="/images/gotmilk-sleep/gotmilk-sleep.mp4" type="video/mp4">
