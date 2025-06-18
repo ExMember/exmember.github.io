@@ -1,7 +1,7 @@
 ---
 title: The Rescue Trial
 date: 2025-06-16 07:00:00 -07:00
-image: /images/democracy-happy-hour.png
+image: /images/the-rescue-trial.png
 category:
 - acting
 tags:
