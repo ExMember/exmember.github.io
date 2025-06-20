@@ -19,3 +19,6 @@ deported from Massachusetts to be re-enslaved in the South.
 The reading will be over Zoom, June 19, 2025 at 4pm (PDT). You can find out more and register to attend on [the Calling Up Justice website.](https://callingupjustice.com/digital-bambd-groundbreaking-ceremony-and-the-rescue/)
 
 [![Digital BAMBD Groundbreaking Ceremony: Juneteenth special play reading, "The Rescue," June 19, 2025. Featuring a play by Latisha Jones](/images/the-rescue-trial.png)](https://callingupjustice.com/digital-bambd-groundbreaking-ceremony-and-the-rescue/)
+
+If you missed the live performance, you can watch the replay [on
+YouTube](https://www.youtube.com/live/uY27j3mSt_c?si=h9zhpGB8PdNvuho3&t=2215).
