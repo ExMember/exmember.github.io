@@ -9,10 +9,12 @@ task :html_proofer do
     cache: { timeframe: {external: '30d'} },
     check_sri: true,
     ignore_urls: [
+      /^https:\/\/www.hollywoodfringe.org\//, # Returns 403 to bots
       /^https:\/\/www.linkedin.com\//, # LinkedIn returns 999 to valid URLs
       /^https:\/\/www.nytimes.com\//, # New York Times returns 403s
       /^https:\/\/www.tiktok.com\//, # TikTok returns 403s to valid URLs
       /^https:\/\/twitter.com\//, # Twitter is no longer available to logged out users
+      /^https:\/\/forumserver\.twoplustwo\.com\//, # Returns 403 to bots
       /^https:\/\/doi\.org\//, # Returns 403 to bots
       /^https:\/\/www.reuters.com\//, # Returns 401 to bots
     ],
