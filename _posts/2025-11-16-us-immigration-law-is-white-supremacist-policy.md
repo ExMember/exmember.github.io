@@ -1,11 +1,24 @@
 ---
-title: US Immigration Law is White Supremacist Policy
+title: US Immigration Law is White Supremacist
 date: 2025-11-16 07:00:00 -08:00
 tags:
 - white supremacy
 - immigration
 - policy
 ---
+
+For as long
+as the United States
+has had laws
+restricting immigration,
+those laws
+have been white supremacist.
+US immigration laws
+implement policy
+that advantage white people
+at the expense
+of people
+of other races.
 
 For its
 first hundred years
@@ -18,28 +31,40 @@ to enact immigration laws
 to control the racial makeup
 of the country.
 
-This started with
-the Oriental Exclusion Act of 1875,
-which barred Chinese women
-from immigrating.
-Then the Chinese Exclusion Act of 1882
+The first immigration law
+in the United Stated was
+the [Oriental Exclusion Act of 1875](https://en.wikipedia.org/wiki/Page_Act_of_1875),
+which restricted immigration
+from East Asia.
+The second was
+the [Chinese Exclusion Act of 1882](https://en.wikipedia.org/wiki/Chinese_Exclusion_Act)
 which barred Chinese laborers.
-Then we had Immigration Act of 1917
-which banned immigration
+In 1882,
+the [Geary Act](https://en.wikipedia.org/wiki/Geary_Act)
+further restricted
+immigration from China.
+In 1917,
+the [Immigration Act of 1917](https://en.wikipedia.org/wiki/Immigration_Act_of_1917)
+banned immigration
 from Asia and the Pacific.
-And then there was
-the Emergency Quota Act
-of 1921,
-explicitly limiting immigration
+
+In 1921,
+Congress made
+the racial basis
+of earlier immigration law
+explicit
+with the [Emergency Quota Act of 1921](https://en.wikipedia.org/wiki/Emergency_Quota_Act),
+which limited immigration
 to maintain
 country-of-origin ratios.
 
 The quota system became
 the standard
 for immigration restrictions
-throughout the 20th century,
+throughout the 20th century.
+It was
 tweaked several times
-but always keeping
+but always kept
 the same structure,
 ensuring that
 the same countries-of-origin
