@@ -10,7 +10,7 @@ tags:
 ---
 
 Our immigration policy is weaponry\
-It started and still is presently\
+It started and it still is presently\
 &nbsp;&nbsp;&nbsp;&nbsp;Wielding control\
 &nbsp;&nbsp;&nbsp;&nbsp;With only one goal\
 To maintain and to defend white supremacy.
@@ -27,6 +27,12 @@ that advantage white people
 at the expense
 of people
 of other races.
+
+For the first hundred years of history\
+Open borders were US policy\
+&nbsp;&nbsp;&nbsp;&nbsp;That only changed when\
+&nbsp;&nbsp;&nbsp;&nbsp;Chinese men came in\
+And threatened white racial hegemony.
 
 For its
 first hundred years
