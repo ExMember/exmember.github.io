@@ -2,10 +2,18 @@
 title: US Immigration Law is White Supremacist
 date: 2025-11-16 07:00:00 -08:00
 tags:
+- limerick
+- epic limerick
 - white supremacy
 - immigration
 - policy
 ---
+
+Our immigration policy is weaponry\
+It started and still is presently\
+&nbsp;&nbsp;&nbsp;&nbsp;Wielding control\
+&nbsp;&nbsp;&nbsp;&nbsp;With only one goal\
+To maintain and to defend white supremacy.
 
 For as long
 as the United States
