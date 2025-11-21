@@ -17,7 +17,17 @@ The boulder rolls down that mountain again.
 The lord of hell won't let me go.
 I gotta roll this boulder up the mountain once mo'.
 
-If you come after me, I'm not gonna hide.
+I was born a prince of Thessaly,
+Became a king, for all to see,
+Cheated death a time or three,
+And now I'll pay for eternity.
+
+Sixteen tons up the mountain and then
+The boulder rolls down that mountain again.
+The lord of hell won't let me go.
+I gotta roll this boulder up the mountain once mo'.
+
+If you come for me, I'm not gonna hide.
 The god of death tried, and nobody died.
 Chained to a rock, while he looked aside.
 The battle was won but he was tied.
