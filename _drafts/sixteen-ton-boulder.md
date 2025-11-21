@@ -1,5 +1,5 @@
 ---
-title: Federal Government "Freezes" Enforcement of Civil Rights Act, Voting Rights Act, and ADA
+title: Sixteen Ton Boulder
 date: 2025-03-05 07:00:00 -08:00
 tags:
 - Sixteen Tons
@@ -7,9 +7,22 @@ tags:
 - Sisyphus
 ---
 
+Some people say death is oblivion.
+Some think we die and go to heaven.
+Blessed peace or completely gone,
+But I'm still here and it's not fun.
+
 Sixteen tons up the mountain and then
 The boulder rolls down that mountain again.
 The lord of hell won't let me go.
 I gotta roll this boulder up the mountain once mo'.
 
+If you come after me, I'm not gonna hide.
+The god of death tried, and nobody died.
+Chained to a rock, while he looked aside.
+The battle was won but he was tied.
 
+Sixteen tons up the mountain and then
+The boulder rolls down that mountain again.
+The lord of hell won't let me go.
+I gotta roll this boulder up the mountain once mo'.
