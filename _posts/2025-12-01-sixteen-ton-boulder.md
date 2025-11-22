@@ -17,7 +17,7 @@ I gotta roll this boulder up the mountain once mo'.
 Some people say death is oblivion.\
 Some think we die and go to heaven.\
 Blessed peace or completely gone,\
-But I'm still here and it's not fun.
+But I'm still here cause I'm not done.
 
 Sixteen tons up the mountain and then\
 The boulder rolls down that mountain again.\
