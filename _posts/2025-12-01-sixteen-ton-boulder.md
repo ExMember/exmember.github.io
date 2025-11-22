@@ -36,7 +36,7 @@ I gotta roll this boulder up the mountain once mo'.
 
 If you come for me, I'm not gonna hide.\
 The god of death tried, and nobody died.\
-Chained to a rock, while he looked aside.\
+Chained to the spot, while he looked aside.\
 The battle was won but he was tied.
 
 Sixteen tons up the mountain and then\
