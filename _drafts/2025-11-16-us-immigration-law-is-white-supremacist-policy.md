@@ -21,7 +21,7 @@ Open borders were the policy.\
 &nbsp;&nbsp;&nbsp;&nbsp;Chinese men came in\
 And threatened white racial hegemony.[^first]
 
-[^first]: The first laws to limit immigration into the United State were the [Oriental Exclusion Act of 1875](https://en.wikipedia.org/wiki/Page_Act_of_1875), which restricted immigration from East Asia; the [Chinese Exclusion Act of 1882](https://en.wikipedia.org/wiki/Chinese_Exclusion_Act), which barred Chinese laborers; the [Geary Act](https://en.wikipedia.org/wiki/Geary_Act) which further restricted immigration from China; and the [Immigration Act of 1917](https://en.wikipedia.org/wiki/Immigration_Act_of_1917), which banned immigration from Asia and the Pacific.
+[^first]: The first law to limit immigration into the United State was the [Oriental Exclusion Act of 1875](https://en.wikipedia.org/wiki/Page_Act_of_1875), which restricted immigration from East Asia. It was quickly followed by the [Chinese Exclusion Act of 1882](https://en.wikipedia.org/wiki/Chinese_Exclusion_Act), which barred Chinese laborers; the [Scott Act of 1888](https://en.wikipedia.org/wiki/Scott_Act_of_1888), which prevent Chinese residents of the US from returning to the US; the [Geary Act of 1892](https://en.wikipedia.org/wiki/Geary_Act) which further restricted immigration from China; and the [Immigration Act of 1917](https://en.wikipedia.org/wiki/Immigration_Act_of_1917), which banned immigration from Asia and the Pacific.
 
 One hundred years ago\
 To stem the non-white flow\
