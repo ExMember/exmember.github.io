@@ -7,6 +7,8 @@ tags:
 - Sisyphus
 ---
 
+(with apologies to Merle Travis)
+
 Sixteen tons up the mountain and then\
 The boulder rolls down that mountain again.\
 The lord of hell won't let me go.\
