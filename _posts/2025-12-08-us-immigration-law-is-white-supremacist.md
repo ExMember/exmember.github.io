@@ -1,6 +1,6 @@
 ---
 title: US Immigration Law is White Supremacist
-date: 2025-11-16 07:00:00 -08:00
+date: 2025-12-08 07:00:00 -08:00
 tags:
 - limerick
 - epic limerick
