@@ -7,6 +7,11 @@ tags:
 - Sisyphus
 ---
 
+Sixteen tons up the mountain and then
+The boulder rolls down that mountain again.
+The lord of hell won't let me go.
+I gotta roll this boulder up the mountain once mo'.
+
 Some people say death is oblivion.
 Some think we die and go to heaven.
 Blessed peace or completely gone,
