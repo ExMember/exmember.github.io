@@ -6,7 +6,7 @@ tags:
 - indigenous
 ---
 
-On the third Thursday
+On the fourth Thursday
 of November,
 we celebrate
 a harvest feast
