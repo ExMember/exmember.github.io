@@ -40,7 +40,7 @@ to Hollywood. Thank you, and we look forward many more.
 
 [^1]: [Greater Los Angeles Homeless Count](https://www.lahsa.org/dashboards?id=13-greater-los-angeles-homeless-count-by-city-community)
 
-[^2]: Curbed LA [article](https://la.curbed.com/2017/6/20/15840642/ucla-forecast-affordable-housing-report-home-prices) on report from UCLA Anderson School of Management
+[^2]: Curbed LA [article](https://web.archive.org/web/20240723203739/https://la.curbed.com/2017/6/20/15840642/ucla-forecast-affordable-housing-report-home-prices) on report from UCLA Anderson School of Management
 
 [^3]: [Housing Development Toolkit](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/images/Housing_Development_Toolkit%20f.2.pdf)
 
