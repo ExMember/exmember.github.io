@@ -27,18 +27,18 @@ A surplus of time and food.
 
 The new wealth situation\
 Allowed for specialization:\
-&nbsp;&nbsp;&nbsp;&nbsp;Kings, cops, and baronets;\
+&nbsp;&nbsp;&nbsp;&nbsp;Soldiers, police, baronets;\
 &nbsp;&nbsp;&nbsp;&nbsp;Living on violence and threats;\
 All forms of domination.
 
 It's supposedly universal,\
 A path that's irreversible.\
-&nbsp;&nbsp;&nbsp;&nbsp;But historical facts\
-&nbsp;&nbsp;&nbsp;&nbsp;Of how humans act\
-Show it's a myth that is unsupportable.
+&nbsp;&nbsp;&nbsp;&nbsp;But based on facts\
+&nbsp;&nbsp;&nbsp;&nbsp;Of how humans act,\
+It's a myth that is unsupportable.
 
 We know this world is suboptimal,\
-But we learned it was unstoppable.\
+But we learned that it was unstoppable.\
 &nbsp;&nbsp;&nbsp;&nbsp;Yet things can be different.\
 &nbsp;&nbsp;&nbsp;&nbsp;We can still fix it.\
 Another world is possible.
