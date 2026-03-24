@@ -1,6 +1,6 @@
 ---
 title: 'Takeaways from "The Dawn of Everything: A New History of Humanity" by David Graeber and David Wengrow'
-date: 2026-04-05 07:00:00 -08:00
+date: 2026-03-30 07:00:00 -08:00
 tags:
 - limerick
 - anthropology
