@@ -33,11 +33,11 @@ Allowing the birth of Jim Crow.
 
 - After the Civil Rights Movement, mass incarceration was developed to maintain the racial caste system
 
-\
-\
-&nbsp;&nbsp;&nbsp;&nbsp;\
-&nbsp;&nbsp;&nbsp;&nbsp;\
-
+Then Civil Rights organizations\
+Brought about Jim Crow's cessation.\
+&nbsp;&nbsp;&nbsp;&nbsp;But it came back again\
+&nbsp;&nbsp;&nbsp;&nbsp;As the system we're in\
+Mass criminal incarceration.
 
 - The War on Drugs allows facially race-neutral law to be applied in racial ways
 
