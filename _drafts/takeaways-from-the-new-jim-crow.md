@@ -25,11 +25,11 @@ Invention of chattle slavery.
 
 - After the Civil War / Reconstruction, Jim Crow was developed to maintain the racial caste system
 
-\
-\
-&nbsp;&nbsp;&nbsp;&nbsp;\
-&nbsp;&nbsp;&nbsp;&nbsp;\
-
+After the Civil War though,\
+Slavery was forced to go.\
+&nbsp;&nbsp;&nbsp;&nbsp;But Reconstruction\
+&nbsp;&nbsp;&nbsp;&nbsp;Was brought to an end\
+Allowing the birth of Jim Crow.
 
 - After the Civil Rights Movement, mass incarceration was developed to maintain the racial caste system
 
