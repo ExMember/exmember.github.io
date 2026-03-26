@@ -17,11 +17,11 @@ A racialized undercaste.
 
 - Slavery was the original means of keeping Black people in their place in the caste system
 
-\
-\
-&nbsp;&nbsp;&nbsp;&nbsp;\
-&nbsp;&nbsp;&nbsp;&nbsp;\
-
+Earliest forms of this knavery,\
+Particularly cruel and unsavory,\
+&nbsp;&nbsp;&nbsp;&nbsp;Were solidified in\
+&nbsp;&nbsp;&nbsp;&nbsp;The legal system's\
+Invention of chattle slavery.
 
 - After the Civil War / Reconstruction, Jim Crow was developed to maintain the racial caste system
 
