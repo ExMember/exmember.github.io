@@ -41,11 +41,11 @@ Mass criminal incarceration.
 
 - The War on Drugs allows facially race-neutral law to be applied in racial ways
 
-\
-\
-&nbsp;&nbsp;&nbsp;&nbsp;\
-&nbsp;&nbsp;&nbsp;&nbsp;\
-
+The War on Drugs is biased.\
+With no mention of race or class,\
+&nbsp;&nbsp;&nbsp;&nbsp;At every step the system\
+&nbsp;&nbsp;&nbsp;&nbsp;Targets as its victim\
+The racialized undercaste.
 
 - Non-carceral control and legal discrimination against felons allows the racial caste system to extend far broader than prisons.
 
