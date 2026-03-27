@@ -21,7 +21,7 @@ Earliest forms of this knavery,\
 Particularly cruel and unsavory,\
 &nbsp;&nbsp;&nbsp;&nbsp;Were solidified in\
 &nbsp;&nbsp;&nbsp;&nbsp;The legal system's\
-Invention of chattle slavery.
+Invention of chattel slavery.
 
 - After the Civil War / Reconstruction, Jim Crow was developed to maintain the racial caste system
 
@@ -43,7 +43,7 @@ Mass criminal incarceration.
 
 The War on Drugs is biased.\
 With no mention of race or class,\
-&nbsp;&nbsp;&nbsp;&nbsp;At every step the system\
+&nbsp;&nbsp;&nbsp;&nbsp;Every step of the system\
 &nbsp;&nbsp;&nbsp;&nbsp;Targets as its victim\
 The racialized undercaste.
 
@@ -57,9 +57,8 @@ Create an undercaste of criminals.
 
 - Destroying the racial caste system will require a mass movement.
 
-\
-\
-&nbsp;&nbsp;&nbsp;&nbsp;\
-&nbsp;&nbsp;&nbsp;&nbsp;\
-
-
+War and powerful inducements\
+Were needed for prior improvements.\
+&nbsp;&nbsp;&nbsp;&nbsp;Prison decommission\
+&nbsp;&nbsp;&nbsp;&nbsp;And full abolition\
+Requires a national movement.
