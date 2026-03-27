@@ -31,7 +31,7 @@ Brought about Jim Crow's cessation.\
 &nbsp;&nbsp;&nbsp;&nbsp;As the system we're in\
 Mass criminal incarceration.
 
-The War on Drugs is biased.\
+The War on Drugs has bias.\
 With no mention of race or class,\
 &nbsp;&nbsp;&nbsp;&nbsp;Every step of the system\
 &nbsp;&nbsp;&nbsp;&nbsp;Targets as its victim\
@@ -41,7 +41,7 @@ Even out of jail it's permissible\
 To treat them in ways most despicable.\
 &nbsp;&nbsp;&nbsp;&nbsp;Long-term probation\
 &nbsp;&nbsp;&nbsp;&nbsp;And discrimination\
-Create an undercaste of criminals.
+Generate undercastes of criminals.
 
 War and powerful inducements\
 Were needed for prior improvements.\
