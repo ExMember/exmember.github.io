@@ -49,11 +49,11 @@ The racialized undercaste.
 
 - Non-carceral control and legal discrimination against felons allows the racial caste system to extend far broader than prisons.
 
-\
-\
-&nbsp;&nbsp;&nbsp;&nbsp;\
-&nbsp;&nbsp;&nbsp;&nbsp;\
-
+Even out of jail it's permissible\
+To treat them in ways most despicable.\
+&nbsp;&nbsp;&nbsp;&nbsp;Long-term probation\
+&nbsp;&nbsp;&nbsp;&nbsp;And discrimination\
+Create an undercaste of criminals.
 
 - Destroying the racial caste system will require a mass movement.
 
