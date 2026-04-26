@@ -1,6 +1,6 @@
 ---
-title: My Van Needs a Better Toilet
-date: 2026-04-05 07:00:00 -08:00
+title: My Van Needs a Separating Toilet
+date: 2026-04-05 07:03:00 -07:00
 tags:
 - campervan
 - ry

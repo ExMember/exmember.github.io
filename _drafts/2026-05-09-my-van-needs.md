@@ -1,6 +1,6 @@
 ---
-title: Why My Campervan and I Didn't Work Out
-date: 2026-04-05 07:00:00 -08:00
+title: My Van Needs
+date: 2026-05-09 07:00:00 -07:00
 tags:
 - campervan
 - ry
@@ -47,13 +47,13 @@ before I can live
 my van life dream.
 
 1. My Van Life Dream
-2. More Maintainable
-2. Separating Toilet
-2. Stealthier
-3. No Propane
-4. Long, hot, showers
-5. Four Wheel Drive
-6. External Storage
-7. Better Bed (permanent, comfier)
-8. Somewhere to park
-8. Someone to Travel With
+2. My Van Needs a Permanent Bed
+3. My Van Needs a Separating Toilet
+4. My Van Needs a Gasoline Heater
+5. My Van Needs a Recirculating Shower
+6. My Van Needs to be Maintainable
+7. My Van Needs to be Stealthy
+8. My Van Needs External Storage
+9. My Van Needs Four-Wheel Drive
+10. My Van Needs a Parking Space
+11. My Van Needs a Copilot

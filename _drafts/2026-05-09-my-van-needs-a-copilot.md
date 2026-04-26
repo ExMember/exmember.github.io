@@ -1,6 +1,6 @@
 ---
 title: My Van Needs a Copilot
-date: 2026-04-05 07:00:00 -08:00
+date: 2026-05-09 07:11:00 -07:00
 tags:
 - campervan
 - ry

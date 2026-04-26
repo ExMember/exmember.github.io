@@ -1,6 +1,6 @@
 ---
-title: My Van Needs to Use Fewer Fuels
-date: 2026-04-05 07:00:00 -08:00
+title: My Van Needs a Gasoline Heater
+date: 2026-05-09 07:04:00 -07:00
 tags:
 - campervan
 - ry
