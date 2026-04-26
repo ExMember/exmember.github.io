@@ -55,5 +55,5 @@ my van life dream.
 5. Four Wheel Drive
 6. External Storage
 7. Better Bed (permanent, comfier)
+8. Somewhere to park
 8. Someone to Travel With
-

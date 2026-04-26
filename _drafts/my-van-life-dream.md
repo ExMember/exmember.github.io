@@ -32,7 +32,7 @@ I want to go
 that I don't want
 to drive to.
 
-In my dream
+In my dream,
 van life is
 only for
 a few scenarios.
@@ -54,7 +54,7 @@ that is packed with
 all my stuff
 and ready to go
 at the drop
-of a hat,
+of a hat
 or any fresh powder.
 
 A campervan
@@ -235,3 +235,40 @@ that I can move
 someplace else
 could do wonders
 for my comfort and safety.
+
+## The office space
+
+In order
+to be able
+to live out of
+my van
+for days
+or weeks
+at a time,
+I need
+the van
+to have
+a good workspace.
+
+If the workspace
+in the van
+is good enough
+than I don't
+need a workspace
+in my apartment.
+When I'm travelling
+I can work
+in the van.
+When I'm home
+I can still work
+in the van.
+
+Have a van office
+frees up space
+in my apartment
+and provides
+much needed
+separation
+between work and home.
+
+[TK link to why it didn't work out]
