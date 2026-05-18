@@ -45,6 +45,8 @@ Cassette Toilet
 C223-S or C223-CS (CS has button on top)
 https://www.thetford.com/us/portable-and-rv-toilets/cassette-toilets/
 
+6 gal cassette
+
 ## Heater / Water heater
 
 Truma Combi
@@ -114,3 +116,17 @@ Model: Combimaster
 12V/1500W-60A or
 12V/2000W-100A or
 12V/3000W-160A
+
+## Engine
+
+V6, 3.6 liter, 280 hp
+
+## Propane
+
+5.7 gal tank
+
+## Water
+
+fresh: 18 gal
+grey: 20 gal
+
