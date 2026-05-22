@@ -1,6 +1,7 @@
 ---
 title: Thor Rize Campervan for Sale
 date: 2026-05-22 07:00:00 -07:00
+image: images/thor-rize-campervan-for-sale/hero.thumbnail.jpg
 tags:
 - campervan
 - ry
