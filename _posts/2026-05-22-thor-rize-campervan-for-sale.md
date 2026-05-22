@@ -69,7 +69,7 @@ seating and the bench converts to a bed that sleeps two.
 
 VIN: 3C6LRVBG1ME573441
 
-Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](www.keysavvy.com/pay/ram-fhaecj).
+Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](https://www.keysavvy.com/pay/ram-fhaecj).
 
 ## Photos
 
