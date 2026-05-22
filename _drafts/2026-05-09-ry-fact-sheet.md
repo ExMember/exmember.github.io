@@ -117,6 +117,10 @@ Model: Combimaster
 12V/2000W-100A or
 12V/3000W-160A
 
+## Generator
+
+Hours
+
 ## Engine
 
 V6, 3.6 liter, 280 hp
