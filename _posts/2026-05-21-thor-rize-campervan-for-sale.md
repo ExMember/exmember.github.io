@@ -12,7 +12,7 @@ Asking \$75,000.
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/hero.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/hero.jpg" alt="Campervan, front passenger, three-quarter view">
+    <img src="/images/thor-rize-campervan-for-sale/hero.thumbnail.jpg" alt="Campervan, front passenger, three-quarter view">
     <figcaption>2022 Thor Rize 18M, hero shot</figcaption>
   </a>
 </figure>
@@ -77,91 +77,91 @@ Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](www
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/exterior/front.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/exterior/front.jpg" alt="Front exterior of campervan">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/front.thumbnail.jpg" alt="Front exterior of campervan">
     <figcaption>Front exterior</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/exterior/front-right.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/exterior/front-right.jpg" alt="Front passenger side of campervan">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/front-right.thumbnail.jpg" alt="Front passenger side of campervan">
     <figcaption>Front passenger side</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/exterior/front-passenger-side.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/exterior/front-passenger-side.jpg" alt="Front passenger side three-quarter view of campervan">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/front-passenger-side.thumbnail.jpg" alt="Front passenger side three-quarter view of campervan">
     <figcaption>Front passenger side three-quarter view</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/exterior/passenger-side-front.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/exterior/passenger-side-front.jpg" alt="Passenger side front of campervan">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/passenger-side-front.thumbnail.jpg" alt="Passenger side front of campervan">
     <figcaption>Passenger side front</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/exterior/passenger-side-middle.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/exterior/passenger-side-middle.jpg" alt="Passenger side middle of campervan">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/passenger-side-middle.thumbnail.jpg" alt="Passenger side middle of campervan">
     <figcaption>Passenger side middle</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/exterior/passenger-side-rear.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/exterior/passenger-side-rear.jpg" alt="Passenger side rear of campervan">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/passenger-side-rear.thumbnail.jpg" alt="Passenger side rear of campervan">
     <figcaption>Passenger side rear</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/exterior/rear-passenger-side.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/exterior/rear-passenger-side.jpg" alt="Rear passenger side three-quarter view of campervan">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/rear-passenger-side.thumbnail.jpg" alt="Rear passenger side three-quarter view of campervan">
     <figcaption>Rear passenger side three-quarter view</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/exterior/rear.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/exterior/rear.jpg" alt="Rear of campervan">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/rear.thumbnail.jpg" alt="Rear of campervan">
     <figcaption>Rear</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/exterior/rear-driver-side.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/exterior/rear-driver-side.jpg" alt="Rear driver-side three-quarter view of campervan">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/rear-driver-side.thumbnail.jpg" alt="Rear driver-side three-quarter view of campervan">
     <figcaption>Rear driver-side three-quarter view</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/exterior/driver-side.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/exterior/driver-side.jpg" alt="Driver side of campervan">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/driver-side.thumbnail.jpg" alt="Driver side of campervan">
     <figcaption>Driver side</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/exterior/front-driver-side.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/exterior/front-driver-side.jpg" alt="Front driver-side three-quarter view of campervan">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/front-driver-side.thumbnail.jpg" alt="Front driver-side three-quarter view of campervan">
     <figcaption>Front driver-side three-quarter view</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/exterior/method-wheel.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/exterior/method-wheel.jpg" alt="Custom method wheels">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/method-wheel.thumbnail.jpg" alt="Custom method wheels">
     <figcaption>Custom method wheels</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/exterior/tire-tread.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/exterior/tire-tread.jpg" alt="Tire tread">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/tire-tread.thumbnail.jpg" alt="Tire tread">
     <figcaption>Tire tread</figcaption>
   </a>
 </figure>
@@ -170,56 +170,56 @@ Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](www
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/cab/cab.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/cab/cab.jpg" alt="Campervan cab">
+    <img src="/images/thor-rize-campervan-for-sale/cab/cab.thumbnail.jpg" alt="Campervan cab">
     <figcaption>Cab</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/cab/center-console.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/cab/center-console.jpg" alt="Campervan center console">
+    <img src="/images/thor-rize-campervan-for-sale/cab/center-console.thumbnail.jpg" alt="Campervan center console">
     <figcaption>Center console</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/cab/steering-wheel.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/cab/steering-wheel.jpg" alt="Campervan steering wheel">
+    <img src="/images/thor-rize-campervan-for-sale/cab/steering-wheel.thumbnail.jpg" alt="Campervan steering wheel">
     <figcaption>Steering wheel</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/cab/dashboard.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/cab/dashboard.jpg" alt="Campervan dashboard">
+    <img src="/images/thor-rize-campervan-for-sale/cab/dashboard.thumbnail.jpg" alt="Campervan dashboard">
     <figcaption>Dashboard</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/cab/driver-side-door.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/cab/driver-side-door.jpg" alt="Campervan driver-side door">
+    <img src="/images/thor-rize-campervan-for-sale/cab/driver-side-door.thumbnail.jpg" alt="Campervan driver-side door">
     <figcaption>Driver-side door</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/cab/driver-side-door.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/cab/driver-side-cab.jpg" alt="Campervan driver-side door">
+    <img src="/images/thor-rize-campervan-for-sale/cab/driver-side-cab.thumbnail.jpg" alt="Campervan driver-side door">
     <figcaption>Driver-side door</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/cab/passenger-side-door.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/cab/passenger-side-door.jpg" alt="Campervan passenger-side door">
+    <img src="/images/thor-rize-campervan-for-sale/cab/passenger-side-door.thumbnail.jpg" alt="Campervan passenger-side door">
     <figcaption>Passenger-side door</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/cab/passenger-side-cab.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/cab/passenger-side-cab.jpg" alt="Campervan passenger-side door">
+    <img src="/images/thor-rize-campervan-for-sale/cab/passenger-side-cab.thumbnail.jpg" alt="Campervan passenger-side door">
     <figcaption>Passenger-side door</figcaption>
   </a>
 </figure>
@@ -228,56 +228,56 @@ Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](www
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/living/entrance.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/living/entrance.jpg" alt="Sliding door entrance with bug screen">
+    <img src="/images/thor-rize-campervan-for-sale/living/entrance.thumbnail.jpg" alt="Sliding door entrance with bug screen">
     <figcaption>Sliding door entrance with bug screen</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/living/bench.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/living/bench.jpg" alt="Bench">
+    <img src="/images/thor-rize-campervan-for-sale/living/bench.thumbnail.jpg" alt="Bench">
     <figcaption>Bench</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/living/bench-with-table.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/living/bench-with-table.jpg" alt="Bench with table">
+    <img src="/images/thor-rize-campervan-for-sale/living/bench-with-table.thumbnail.jpg" alt="Bench with table">
     <figcaption>Bench with table</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/living/cubbies.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/living/cubbies.jpg" alt="Cubbies">
+    <img src="/images/thor-rize-campervan-for-sale/living/cubbies.thumbnail.jpg" alt="Cubbies">
     <figcaption>Cubbies</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/living/swivel-seats.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/living/swivel-seats.jpg" alt="Swivel seats">
+    <img src="/images/thor-rize-campervan-for-sale/living/swivel-seats.thumbnail.jpg" alt="Swivel seats">
     <figcaption>Swivel seats</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/living/swivel-seats-with-table.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/living/swivel-seats-with-table.jpg" alt="Swivel seats">
+    <img src="/images/thor-rize-campervan-for-sale/living/swivel-seats-with-table.thumbnail.jpg" alt="Swivel seats">
     <figcaption>Swivel seats with table</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/living/hallway.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/living/hallway.jpg" alt="Hallway">
+    <img src="/images/thor-rize-campervan-for-sale/living/hallway.thumbnail.jpg" alt="Hallway">
     <figcaption>Hallway</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/living/bed.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/living/bed.jpg" alt="Bed">
+    <img src="/images/thor-rize-campervan-for-sale/living/bed.thumbnail.jpg" alt="Bed">
     <figcaption>Bed</figcaption>
   </a>
 </figure>
@@ -286,63 +286,63 @@ Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](www
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/kitchen/counter.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/kitchen/counter.jpg" alt="Kitchen counter">
+    <img src="/images/thor-rize-campervan-for-sale/kitchen/counter.thumbnail.jpg" alt="Kitchen counter">
     <figcaption>Kitchen counter</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/kitchen/counter-extension.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/kitchen/counter-extension.jpg" alt="Kitchen counter extension">
+    <img src="/images/thor-rize-campervan-for-sale/kitchen/counter-extension.thumbnail.jpg" alt="Kitchen counter extension">
     <figcaption>Kitchen counter extension</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/kitchen/stove.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/kitchen/stove.jpg" alt="Stove">
+    <img src="/images/thor-rize-campervan-for-sale/kitchen/stove.thumbnail.jpg" alt="Stove">
     <figcaption>Stove</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/kitchen/sink.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/kitchen/sink.jpg" alt="Sink">
+    <img src="/images/thor-rize-campervan-for-sale/kitchen/sink.thumbnail.jpg" alt="Sink">
     <figcaption>Sink</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/kitchen/sink-covered.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/kitchen/sink-covered.jpg" alt="Sink with cover on">
+    <img src="/images/thor-rize-campervan-for-sale/kitchen/sink-covered.thumbnail.jpg" alt="Sink with cover on">
     <figcaption>Sink with cover on</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/kitchen/microwave.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/kitchen/microwave.jpg" alt="Microwave">
+    <img src="/images/thor-rize-campervan-for-sale/kitchen/microwave.thumbnail.jpg" alt="Microwave">
     <figcaption>Microwave</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/kitchen/microwave-interior.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/kitchen/microwave-interior.jpg" alt="Microwave interior">
+    <img src="/images/thor-rize-campervan-for-sale/kitchen/microwave-interior.thumbnail.jpg" alt="Microwave interior">
     <figcaption>Microwave interior</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/kitchen/storage.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/kitchen/storage.jpg" alt="Kitchen storage">
+    <img src="/images/thor-rize-campervan-for-sale/kitchen/storage.thumbnail.jpg" alt="Kitchen storage">
     <figcaption>Kitchen storage</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/kitchen/storage-interior.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/kitchen/storage-interior.jpg" alt="Kitchen storage">
+    <img src="/images/thor-rize-campervan-for-sale/kitchen/storage-interior.thumbnail.jpg" alt="Kitchen storage">
     <figcaption>Kitchen storage interior</figcaption>
   </a>
 </figure>
@@ -351,28 +351,28 @@ Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](www
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/fridge/exterior.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/fridge/exterior.jpg" alt="Fridge exterior">
+    <img src="/images/thor-rize-campervan-for-sale/fridge/exterior.thumbnail.jpg" alt="Fridge exterior">
     <figcaption>Fridge exterior</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/fridge/interior.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/fridge/interior.jpg" alt="Fridge interior">
+    <img src="/images/thor-rize-campervan-for-sale/fridge/interior.thumbnail.jpg" alt="Fridge interior">
     <figcaption>Fridge interior</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/fridge/door.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/fridge/door.jpg" alt="Fridge door">
+    <img src="/images/thor-rize-campervan-for-sale/fridge/door.thumbnail.jpg" alt="Fridge door">
     <figcaption>Fridge door</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/fridge/shelves.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/fridge/shelves.jpg" alt="Fridge shelves">
+    <img src="/images/thor-rize-campervan-for-sale/fridge/shelves.thumbnail.jpg" alt="Fridge shelves">
     <figcaption>Fridge shelves</figcaption>
   </a>
 </figure>
@@ -381,63 +381,63 @@ Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](www
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/bathroom/bathroom.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/bathroom/bathroom.jpg" alt="Bathroom">
+    <img src="/images/thor-rize-campervan-for-sale/bathroom/bathroom.thumbnail.jpg" alt="Bathroom">
     <figcaption>Bathroom</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/bathroom/bathroom-entrance.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/bathroom/bathroom-entrance.jpg" alt="Bathroom entrance">
+    <img src="/images/thor-rize-campervan-for-sale/bathroom/bathroom-entrance.thumbnail.jpg" alt="Bathroom entrance">
     <figcaption>Bathroom entrance</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/bathroom/bathroom-doors.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/bathroom/bathroom-doors.jpg" alt="Bathroom doors">
+    <img src="/images/thor-rize-campervan-for-sale/bathroom/bathroom-doors.thumbnail.jpg" alt="Bathroom doors">
     <figcaption>Bathroom doors</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/bathroom/shower.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/bathroom/shower.jpg" alt="Shower">
+    <img src="/images/thor-rize-campervan-for-sale/bathroom/shower.thumbnail.jpg" alt="Shower">
     <figcaption>Shower</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/bathroom/toilet.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/bathroom/toilet.jpg" alt="Cassette toilet">
+    <img src="/images/thor-rize-campervan-for-sale/bathroom/toilet.thumbnail.jpg" alt="Cassette toilet">
     <figcaption>Cassette toilet</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/bathroom/storage.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/bathroom/storage.jpg" alt="Storage">
+    <img src="/images/thor-rize-campervan-for-sale/bathroom/storage.thumbnail.jpg" alt="Storage">
     <figcaption>Storage</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/bathroom/closet.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/bathroom/closet.jpg" alt="Closet">
+    <img src="/images/thor-rize-campervan-for-sale/bathroom/closet.thumbnail.jpg" alt="Closet">
     <figcaption>Closet</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/bathroom/top-drawer.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/bathroom/top-drawer.jpg" alt="Top drawer">
+    <img src="/images/thor-rize-campervan-for-sale/bathroom/top-drawer.thumbnail.jpg" alt="Top drawer">
     <figcaption>Top drawer</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/bathroom/bottom-drawer.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/bathroom/bottom-drawer.jpg" alt="Bottom drawer">
+    <img src="/images/thor-rize-campervan-for-sale/bathroom/bottom-drawer.thumbnail.jpg" alt="Bottom drawer">
     <figcaption>Bottom drawer</figcaption>
   </a>
 </figure>
@@ -446,21 +446,21 @@ Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](www
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/overhead/closed.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/overhead/closed.jpg" alt="Overhead storage">
+    <img src="/images/thor-rize-campervan-for-sale/overhead/closed.thumbnail.jpg" alt="Overhead storage">
     <figcaption>Overhead storage</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/overhead/open.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/overhead/open.jpg" alt="Overhead storage interior">
+    <img src="/images/thor-rize-campervan-for-sale/overhead/open.thumbnail.jpg" alt="Overhead storage interior">
     <figcaption>Overhead storage interior</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/overhead/plugs.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/overhead/plugs.jpg" alt="Power and HDMI plugs in overhead storage">
+    <img src="/images/thor-rize-campervan-for-sale/overhead/plugs.thumbnail.jpg" alt="Power and HDMI plugs in overhead storage">
     <figcaption>Power and HDMI plugs in overhead storage</figcaption>
   </a>
 </figure>
@@ -469,98 +469,98 @@ Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](www
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/windows/windshield.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/windows/windshield.jpg" alt="Windshield">
+    <img src="/images/thor-rize-campervan-for-sale/windows/windshield.thumbnail.jpg" alt="Windshield">
     <figcaption>Windshield</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/windows/windshield-covered.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/windows/windshield-covered.jpg" alt="Windshield with blackout shade from Wanderful">
+    <img src="/images/thor-rize-campervan-for-sale/windows/windshield-covered.thumbnail.jpg" alt="Windshield with blackout shade from Wanderful">
     <figcaption>Windshield with blackout shade from Wanderful</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/windows/driver.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/windows/driver.jpg" alt="Driver's side window">
+    <img src="/images/thor-rize-campervan-for-sale/windows/driver.thumbnail.jpg" alt="Driver's side window">
     <figcaption>Driver side window</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/windows/driver-covered.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/windows/driver-covered.jpg" alt="Driver side window with blackout shade from Wanderful">
+    <img src="/images/thor-rize-campervan-for-sale/windows/driver-covered.thumbnail.jpg" alt="Driver side window with blackout shade from Wanderful">
     <figcaption>Driver side window with blackout shade from Wanderful</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/windows/passenger.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/windows/passenger.jpg" alt="Passenger's side window">
+    <img src="/images/thor-rize-campervan-for-sale/windows/passenger.thumbnail.jpg" alt="Passenger's side window">
     <figcaption>Passenger side window</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/windows/passenger-covered.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/windows/passenger-covered.jpg" alt="Passenger's side window with blackout shade from Wanderful">
+    <img src="/images/thor-rize-campervan-for-sale/windows/passenger-covered.thumbnail.jpg" alt="Passenger's side window with blackout shade from Wanderful">
     <figcaption>Passenger side window with blackout shade from Wanderful</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/windows/sliding-door.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/windows/sliding-door.jpg" alt="Sliding door window">
+    <img src="/images/thor-rize-campervan-for-sale/windows/sliding-door.thumbnail.jpg" alt="Sliding door window">
     <figcaption>Sliding door window</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/windows/sliding-door-covered.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/windows/sliding-door-covered.jpg" alt="Sliding door window with blackout shade from Vanmade Gear">
+    <img src="/images/thor-rize-campervan-for-sale/windows/sliding-door-covered.thumbnail.jpg" alt="Sliding door window with blackout shade from Vanmade Gear">
     <figcaption>Sliding door window with blackout shade from Vanmade Gear</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/windows/driver-side.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/windows/driver-side.jpg" alt="Driver side window">
+    <img src="/images/thor-rize-campervan-for-sale/windows/driver-side.thumbnail.jpg" alt="Driver side window">
     <figcaption>Driver side window</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/windows/driver-side-covered.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/windows/driver-side-covered.jpg" alt="Driver side window with factory blinds">
+    <img src="/images/thor-rize-campervan-for-sale/windows/driver-side-covered.thumbnail.jpg" alt="Driver side window with factory blinds">
     <figcaption>Driver side window with factory blinds</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/windows/kitchen.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/windows/kitchen.jpg" alt="Kitchen window">
+    <img src="/images/thor-rize-campervan-for-sale/windows/kitchen.thumbnail.jpg" alt="Kitchen window">
     <figcaption>Kitchen window</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/windows/kitchen-covered.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/windows/kitchen-covered.jpg" alt="Kitchen window with factory blinds">
+    <img src="/images/thor-rize-campervan-for-sale/windows/kitchen-covered.thumbnail.jpg" alt="Kitchen window with factory blinds">
     <figcaption>Kitchen window with factory blinds</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/windows/rear.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/windows/rear.jpg" alt="Rear windows">
+    <img src="/images/thor-rize-campervan-for-sale/windows/rear.thumbnail.jpg" alt="Rear windows">
     <figcaption>Rear windows</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/windows/rear-covered.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/windows/rear-covered.jpg" alt="Rear windows with blackout shades from Wanderful">
+    <img src="/images/thor-rize-campervan-for-sale/windows/rear-covered.thumbnail.jpg" alt="Rear windows with blackout shades from Wanderful">
     <figcaption>Rear windows with blackout shades from Wanderful</figcaption>
   </a>
 </figure>
@@ -569,14 +569,14 @@ Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](www
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/ceiling/fan.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/ceiling/fan.jpg" alt="MaxxAir Fan">
+    <img src="/images/thor-rize-campervan-for-sale/ceiling/fan.thumbnail.jpg" alt="MaxxAir Fan">
     <figcaption>MaxxAir Fan</figcaption>
   </a>
 </figure>
 
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/ceiling/ac.jpg">
-    <img src="/images/thor-rize-campervan-for-sale/ceiling/ac.jpg" alt="Outequip 12V air conditioner with heat pump">
+    <img src="/images/thor-rize-campervan-for-sale/ceiling/ac.thumbnail.jpg" alt="Outequip 12V air conditioner with heat pump">
     <figcaption>Outequip 12V air conditioner with heat pump</figcaption>
   </a>
 </figure>
