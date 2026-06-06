@@ -1,6 +1,6 @@
 ---
 title: My Van Needs a Gasoline Heater
-date: 2026-05-09 07:04:00 -07:00
+date: 2026-06-07 07:04:00 -07:00
 image: images/thor-rize-campervan-for-sale/hero.thumbnail.jpg
 tags:
 - campervan
