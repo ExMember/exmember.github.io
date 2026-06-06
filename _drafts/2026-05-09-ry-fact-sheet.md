@@ -6,131 +6,175 @@ tags:
 - ry
 ---
 
-2022 Thor Rize (18M?)
+I'm [selling my my campervan](/thor-rize-campervan-for-sale) so I made this page
+to share as much information about it as possible.
 
-2021 Ram Promaster 1500
-118-in wheelbase
+- Make: [Thor Motor Coach](https://www.thormotorcoach.com)
+- Model: [Rize](https://www.thormotorcoach.com/rize)
+- Floor plan: 18M (Rear wet bath and pull-out bed)
+- Year: 2022
+- Length: 17' 11"
 
-## Fridge
+## Chassis
 
-Make: Vitrifrigo
-Model: C115IXD4-LX-1 (Interior Oceanrunner?)
-Power: 12V
-Current: 3.75A
-45W (lamp 1.5W)
-(alt 24V/1.88A)
+- Make: Ram
+- Model: [Promaster](https://www.ramtrucks.com/ram-promaster.html)
+- Year: 2021
 
-## Radio
+Variants:
+- 118 inch wheelbase
+- high roof
+- V6 engine, 3.6 liter, 280 hp
 
-Head unit
+Radio:
+- Pioneer DMH-1500NEX headunit
+- Apple Carplay
+- Sirius XM tuner (SXV300MV1)
 
-Pioneer DMH-1500NEX
+Wheels:
+- Make: Method
 
-Sirius XM SXV300MV1 tuner
+## HVAC
 
+### Heater
 
-## Bike rack
+- Make: Truma
+- Model: [Combi eco](https://www.truma.com/us/products/heating-systems-us/combi-us/truma-combi-eco/)
+- Fuel: Propane
 
-Thule Elite Van XT
+Doubles as water heater
 
-## WeBoost
+### AC / heat pump
 
-Drive Reach RV
-Cell Signal Booster
+- Make: OutEquip
+- Model: [OEP2500](https://outequippro.com/products/rv-air-conditioner-12v-10000-btu-rooftop-air-conditioner-with-heater-for-rvs-trucks-vans-campers)
+- Power: 12V DC (21A-58A)
+- Cooling: 10,000 BTU
+- Heating: 4,500 BTU
 
-## Toilet
+Runs on battery power
 
-Thetford
-Cassette Toilet
-C223-S or C223-CS (CS has button on top)
-https://www.thetford.com/us/portable-and-rv-toilets/cassette-toilets/
+Upgrade from Coleman-Mach 48207-9690, which was larger, required generator or shore power, and didn't include a heat pump
 
-6 gal cassette
+### Living room fan
 
-## Heater / Water heater
+- Make: Maxxair
+- Model: [Maxxfan Deluxe](https://www.maxxair.com/products/fans/maxxfan-deluxe-00-06200K/)
+- Color: smoke
 
-Truma Combi
+Upgrade from the Dometic Model 1450 with Ultra Breeze hood, which was taller,
+created more road noise, and required power to open and close
 
-Fuel: Propane
-Water tank: 2.64 gallons
+### Bathroom fan
 
-## Wifi
+Circular dome fan
 
-Winegard ConnectT 2.0
+## Kitchen
 
-## AC
+### Fridge
 
-OutEquip OEP2500 Summit 2 (12V/24V)
+- Make: Vitrifrigo
+- Model: [C115IXD4-LX-1](https://www.vitrifrigo.com/en_us/stainless-steel-fridge-and-freezer-c115ix-ocx2-vitrifrigo)
+- Power: 12V (max 3.75A/45W)
 
-w/ heater
+### Stove
 
-https://www.amazon.com/dp/B0DWF6WXVW?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1
+- Make: Dometic
+- Fuel: propane
+- Burners: two
 
-Upgrade from Coleman-Mach 48207-9690
+### Sink
 
-# Microwave
+- Material: stainless steel
 
-Contoure
+### Microwave
 
-Compact 0.7 cu. ft. stainless steel microwave
+- Make: Contoure
+- Model: [RV-7875](https://www.contoureusa.com/product-page/model-rv-787s)
 
-RV-7875
+Operates on shore power or generator power, will not run on battery
 
-www.contourusa.com
+## Electric
 
-## Extinguisher
+### Battery
 
-Kidde dry chemical fire extinguisher
+- Make: [HumsiENK](https://www.humsienk.com/products/12v-314ah-mini-bluetooth-lifepo4-battery?variant=52544274235710)
+- Capacity: 314Ah
+- Chemistry: Lithium (LiFePO4)
+- Battery management system: Bluetooth
+- Energy: 4,018 Wh
 
-## Fan
+Upgrade from two [Trojan OverDrive AGM 31](https://www.trojanbattery.com/products/overdrive-aes-31-12v-battery) with 1,380 Wh each and no battery
+management system
 
-Maxxair 503.1555 00-06200K MaxxFan
-Smoke
+### Inverter
 
-(Upgrade from the Dometic Model 1450 and Ultra Breeze hood 1400 or 1450)
+- Make: WFCO
+- Model: [WF-5110RS](https://www.wfcotech.com/shop/inverters/wf-5100-series/wf-5110rs-inverter/)
+- Max output: 1000 W
 
-Bathroom fan
+### Generator
 
-Dometic Fan-tastic vent fan (maybe)
+- Make: Cummins
+- Model: [Onan QG 7000i](https://www.cummins.com/en-na/generators/products/onan-qg-7000i-df?v=10396&application=Motorhome%20and%20RV%20Generators)
+- Fuel: propane
+- Lifetime use: 22.1 hours
 
-## Battery
+Mounted underneath the chassis
 
-HumsiENK 12V 314Ah (300Ah) LiFePO4 (Mini Smart)
+## Plumbing
 
-Upgrade from ???
+### Fresh water
 
-## Generator
+- Capacity: 18 gallons
+- Location: Inside coach
 
-Fuel: propane
-Make: Cummins
-Model Onan
+### Grey water
 
-## Power inverter
+- Capacity: 20 gallons
+- Location: under chassis
+- Freeze protection: electric heating pad
 
-Make: WFCO
-Model: WF-5110RS
+## Water heater
 
-Probably not the
-Make: Mastervolt
-Model: Combimaster
-12V/1500W-60A or
-12V/2000W-100A or
-12V/3000W-160A
+- Make: Truma
+- Model: [Combi eco](https://www.truma.com/us/products/heating-systems-us/combi-us/truma-combi-eco/)
+- Fuel: Propane
+- Water tank: 2.64 gallons
 
-## Generator
+### Toilet
 
-Hours
+- Make: Thetford
+- Type: cassette
+- Model: [C223-S](https://www.thetford.com/us/portable-and-rv-toilets/cassette-toilets/)
+- Capacity: 4.7 gallons
 
-## Engine
+## Communications
 
-V6, 3.6 liter, 280 hp
+### Cell signal booster
 
-## Propane
+- Make: WeBoost
+- Model: [Drive Reach RV](https://www.weboost.com/products/drive-reach-rv-2)
+- Exterior antenna location: mounted on roof
+- Interior antenna location: mounted in cabinet
 
-5.7 gal tank
+## Wifi booster
 
-## Water
+- Make: Winegard
+- Model: [ConnectT 2.0](https://winegard.com/connect)
 
-fresh: 18 gal
-grey: 20 gal
+Wifi booster and cellular access point
 
+## Exterior
+
+### Bike rack
+
+- Make: Thule
+- Model: [Elite Van XT](https://www.thule.com/en-us/rv-racks/rv-bike-racks/thule-elite-van-xt-bike-rack-for-vans-fiat-ducato-citroen-jumper-peugeot-boxer-ram-pro-master-black-_-302013)
+- Location: mounted on rear doors
+- Capacity: two bicycles
+
+### Propane tank
+
+- Capacity: 5.7 gallons
+- Location: mounted underneath chassis
