@@ -6,12 +6,12 @@ tags:
 - ry
 ---
 
-My van life dream,
+My van life dream
 never included
 being on the road
 full time.
 I love
-to travel,
+to travel
 but I love
 my neighborhood,
 my stuff,
@@ -22,7 +22,7 @@ all up
 for life
 as a digital nomad,
 permanently on the road.
-Traveling 25 week
+Traveling 25 weeks
 of the year
 is enough
 for me.
@@ -76,10 +76,17 @@ opens up.
 Want to
 be somewhere
 very early?
-Disneyland?
-The Long Beach Marathon?
-Mom's surgery?
-Drive
+Want to
+be at Disneyland
+when the gates open?
+Want to
+arrive at
+the Long Beach Marathon
+with time for breakfast
+and a warm up
+before the start?
+
+Drive in
 the night before.
 Sleep in
 your own bed.
@@ -108,8 +115,7 @@ in the morning
 after a good night's sleep
 and a leisurely breakfast.
 
-Finally,
-with a little planning
+With a little planning
 you can even skip out
 on rush hour.
 
@@ -117,9 +123,8 @@ Instead of fighting
 rush hour traffic
 to get to
 a six o'clock appointment,
-Go three hours early.
-Being there
-three hours early
+go three hours early.
+Being three hours early
 is no hassle
 when you can wait at home.
 
@@ -150,7 +155,7 @@ on a hot day?
 No problem.
 Spend the day
 on the coast
-looking at the wave
+looking at the waves
 and enjoying the breeze.
 Stay for a couple
 of days
@@ -183,7 +188,7 @@ a hotel.
 Having a home
 that can quickly relocate
 is incredibly valuable
-if I need
+if you need
 to quickly relocate.
 
 If for some reason
@@ -216,7 +221,7 @@ Fires like
 the [Eaton Fire](https://en.wikipedia.org/wiki/Eaton_Fire) or
 the [Palisades Fire](https://en.wikipedia.org/wiki/Palisades_Fire)
 could make
-my home unpleasant,
+my apartment unpleasant,
 dangerous,
 or destroy it entirely.
 
@@ -271,4 +276,11 @@ much needed
 separation
 between work and home.
 
-[TK link to why it didn't work out]
+I am
+[selling my campervan](/thor-rize-campervan-for-sale)
+because
+it doesn't have
+all [my needs](/my-van-needs).
+For example,
+I need
+[a permanent bed](/my-van-needs-a-permanent-bed).

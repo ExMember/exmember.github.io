@@ -7,17 +7,22 @@ tags:
 ---
 
 Ry,
-my [TK year] Thor Rize,
+my 2022 Thor Rize,
+(now [for sale](/thor-rize-campervan-for-sale))
 has a couch
 that converts
 to a bed.
 It is
-X by X [TK measurements] inches
+72 by 41 inches
 when converted,
 plenty spacious
-for most person
+for most people
 and sufficient
 for a loving couple.
+
+It works,
+but I need
+a permanent bed.
 
 ## Seams
 
@@ -34,7 +39,8 @@ The seam between
 those cushions
 are directly down
 and across
-the surface
+the middle
+of the bed
 and can be
 uncomfortable,
 especially if
@@ -47,7 +53,7 @@ on a seam.
 
 ## Conversion
 
-In addition
+In addition,
 before going
 to sleep,
 you need to
@@ -60,13 +66,13 @@ as a bed
 all the time.
 But because
 it blocks
-the walkway
+the hallway
 through the van,
 you will probably
 want to wait
 until bed time.
 
-It not hard,
+It not hard
 or time-consuming
 but it is
 one more thing
@@ -82,9 +88,9 @@ I bought
 the [DeepSleep Duo](https://www.expedusa.com/products/deepsleep-mat-duo-2025)
 from Exped.
 It adds
-more cushioning
+more cushioning,
 covers up
-the seams
+the seams,
 and overall
 makes the bed
 far more comfortable.
@@ -162,9 +168,9 @@ after consecutive
 long days
 of snowboarding.
 
-## Permanent
+## Permanent bed
 
-But I need
+I need
 a more comfortable bed
 that I don't
 have to convert
@@ -172,8 +178,16 @@ when I
 go to bed
 and unconvert
 when I get up.
-
 My campervan needs
 a permanent bed.
 
-[TK link to next in the series]
+That is
+one reason
+I am
+[selling my campervan](/thor-rize-campervan-for-sale).
+It doesn't meet
+all of
+[my needs](/my-van-needs).
+For example,
+I need
+[a separating toilet](/my-van-needs-a-separating-toilet).

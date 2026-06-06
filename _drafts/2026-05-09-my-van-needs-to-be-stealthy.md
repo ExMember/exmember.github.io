@@ -1,4 +1,4 @@
-. ---
+---
 title: My Van Needs to Be Stealthy
 date: 2026-05-09 07:07:00 -07:00
 tags:
@@ -30,7 +30,7 @@ of them.
 
 A lot of the uses
 of my van
-in [my van life dream]()
+in [my van life dream](/my-vanlife-dream)
 involve camping
 in urban areas
 and near
@@ -56,9 +56,14 @@ looked less like
 a vehicle
 that people
 sleep in.
+But Ry,
+my 2022 Thor Rize,
+(now [for sale](/thor-rize-campervan-for-sale))
+looks very much
+like an RV.
 
 Blackout shades help,
-thought I wish
+though I wish
 they were integrated
 with the windows.
 
@@ -83,3 +88,15 @@ the Rize badge
 and RV insignia.
 
 My van needs to be stealthier.
+
+This is
+one of
+the reasons
+I am
+[selling my campervan](/thor-rize-campervan-for-sale).
+It doesn't meet
+all of
+[my needs](/my-van-needs).
+For example,
+my van needs
+[external storage](/my-van-needs-external-storage).

@@ -8,15 +8,17 @@ tags:
 ---
 
 Ry,
-my [TK year] Thor Rize,
+my 2022 Thor Rize,
+(now [for sale](/thor-rize-campervan-for-sale))
 has plenty
-of storage.
+of internal storage.
 
 ## Factory-installed storage
 
 There are
-three large cabinets,
+three large cabinets
 on the driver side,
+along with
 shelving and drawers
 behind them.
 On the passenger side
@@ -42,7 +44,7 @@ in addition to
 the "pizza oven" shelf
 above the cab
 and two
-large glove comparments
+large glove compartments
 on the passenger side.
 
 But it's still
@@ -69,7 +71,7 @@ I removed
 the compartment
 to make space
 for my lithium battery
-upgrade. [TK battery upgrade link]
+upgrade.
 
 Even if I hadn't,
 I also upgraded
@@ -80,9 +82,8 @@ in that compartment.
 
 ## Snowboard
 
-Ry has
-numerous storage areas,
-but none
+None of
+the numerous storage areas
 are big enough
 for a snowboard.
 
@@ -108,5 +109,17 @@ the melting snow
 would drip
 onto the floor.
 
-My campervan need
+My campervan needs
 external storage.
+
+This is
+one of
+the reasons
+I am
+[selling my campervan](/thor-rize-campervan-for-sale).
+It doesn't meet
+all of
+[my needs](/my-van-needs).
+For example,
+I need
+[four-wheel-drive](/my-van-needs-four-wheel-drive).

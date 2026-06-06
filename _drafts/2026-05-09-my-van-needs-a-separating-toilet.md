@@ -8,11 +8,12 @@ tags:
 ---
 
 Ry,
-my [TK year] Thor Rize,
+my 2022 Thor Rize,
+(now [for sale](/thor-rize-campervan-for-sale))
 came with
 a factory-installed
 cassette toilet,
-the [TK toilet make and model].
+the Thetford C223-S.
 
 Obviously,
 a campervan cannot have
@@ -35,7 +36,7 @@ the toilet
 with a small, removable black tank,
 the cassette.
 When necessary,
-the cassette is removed,
+the cassette is removed
 then carried or wheeled
 to an appropriate site
 where you can
@@ -108,13 +109,14 @@ the device is useless.
 Worse still,
 sealed-bag toilets
 are complicated
-with a lot
+and have
+a lot
 of moving parts.
 It is likely
 that something
 will go wrong
-with them.
-And very unlikely
+with them
+and very unlikely
 that I'd be able
 to fix it
 when it did.
@@ -162,7 +164,7 @@ In theory,
 this enables
 composting the solids
 into humanure.
-And if you have
+If you have
 a place
 to store it
 for a year or so
@@ -171,7 +173,7 @@ excellent fertilizer
 (for non-edible plants).
 
 More importantly,
-separating the liquids,
+separating the liquids
 and adding
 an effective litter material
 such as coco coir
@@ -248,11 +250,12 @@ taking out the trash
 from most home kitchens.
 
 I have been using
-the Trelino [model TK].
+the Trelino Evo L.
 It is extremely simple,
-no moving parts,
+has no moving parts,
+and is
 easy to use
-and to maintain.
+and easy to maintain.
 
 Unfortunately,
 because of how
@@ -263,3 +266,15 @@ to redo
 the entire bathroom
 to replace
 the toilet.
+
+This is
+one of
+the reasons
+I am
+[selling my campervan](/thor-rize-campervan-for-sale).
+It doesn't meet
+all of
+[my needs](/my-van-needs).
+For example,
+I need
+[a gasoline heater](/my-van-needs-a-gasoline-heater).

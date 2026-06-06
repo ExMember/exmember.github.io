@@ -7,10 +7,12 @@ tags:
 ---
 
 Ry,
-my [TK year] Thor Rize,
+my 2022 Thor Rize,
+(now [for sale](/thor-rize-campervan-for-sale))
 is built on
-a 118-in wheelbase, [TK check height]
-high-roof [TK year] Ram Promaster.
+a 118-inch wheelbase,
+high-roof,
+2021 Ram Promaster.
 
 The Promaster is
 a phenomenal choice
@@ -52,15 +54,15 @@ This is
 a good trade-off
 for almost
 all uses.
-But in my
-van-life dream, [TK link]
+But in [my
+van-life dream,](/my-vanlife-dream)
 my van was
-a mobile ski lodge.
+a [mobile ski lodge.](/my-vanlife-dream#the-ski-lodge)
 Getting to
 ski resorts
 requires driving on
-mountain roads
-in the winter
+mountain roads,
+in the winter,
 ideally with snow
 and lots of it.
 Four-wheel drive
@@ -136,10 +138,19 @@ to risk
 when travelling
 in the wilderness,
 especially when
-camping alone. [TK link to someone to travel with]
+[camping alone](/my-van-needs-a-copilot).
 
 My campervan needs
 four-wheel drive.
 
-[TK link to next in the series]
-
+This is
+one of
+the reasons
+I am
+[selling my campervan](/thor-rize-campervan-for-sale).
+It doesn't meet
+all of
+[my needs](/my-van-needs).
+For example,
+I need
+[a parking space](/my-van-needs-a-parking-space).

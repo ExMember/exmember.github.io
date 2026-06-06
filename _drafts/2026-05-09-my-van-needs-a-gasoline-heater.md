@@ -8,10 +8,11 @@ tags:
 ---
 
 Ry,
-my [TK year] Thor Rize,
+my 2022 Thor Rize,
+(now [for sale](/thor-rize-campervan-for-sale))
 came with
 a built-in
-five gallon [TK check volume]
+5.7-gallon
 propane tank.
 Propane
 is used
@@ -20,15 +21,15 @@ the heater,
 the stove,
 and the generator.
 The chassis gasoline tank
-fueled the vehicle engine.
-Coach batteries powered
+fuels the vehicle engine.
+Coach batteries power
 everything else.
 
 Every
 additional energy source
 adds mechanical
 and operational complexity.
-A propane tanks needs
+Propane tanks needs
 to be filled.
 Levels must
 be monitored.
@@ -43,7 +44,7 @@ all-electric.
 It is
 clean, quiet, and environmentally friendly.
 
-But the reality
+The reality
 right now
 is that batteries
 are expensive,
@@ -63,8 +64,8 @@ Even if it had
 twice that capacity,
 it's not enough
 to keep you warm
-when camping
-near ski areas.[TK link to ski lodge]
+when [camping
+near ski areas.](/my-vanlife-dream#the-ski-lodge)
 
 ## Petrocarbon
 
@@ -77,7 +78,7 @@ from the chassis fuel tank.
 
 Without a propane tank,
 all the fuel
-that the van needs,
+that the van needs
 can be acquired
 quickly, easily,
 and in far more places.
@@ -103,4 +104,14 @@ than burning propane
 in your tiny living space
 anyway.
 
-[TK link to next in series.]
+This is
+one of
+the reasons
+I am
+[selling my campervan](/thor-rize-campervan-for-sale).
+It doesn't meet
+all of
+[my needs](/my-van-needs).
+For example,
+I need
+[a recirculating shower](/my-van-needs-a-recirculating-shower).

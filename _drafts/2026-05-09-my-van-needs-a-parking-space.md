@@ -8,9 +8,10 @@ tags:
 ---
 
 Ry,
-my [TK year] Thor Rize,
+my 2022 Thor Rize,
+(now [for sale](/thor-rize-campervan-for-sale))
 is built on
-the [TK year]
+the 2021
 118-wheelbase
 Ram Promaster.
 It has
@@ -25,7 +26,7 @@ parking spaces.
 However,
 the parking spaces
 at my apartment building
-are not non-standard.
+are not standard size.
 Ry fits,
 but makes it difficult
 for others
@@ -84,8 +85,8 @@ a place
 to work
 on the van.
 When I discovered
-that replacing
-the toilet [link TK]
+that [replacing
+the toilet](/my-van-needs-a-separating-toilet)
 would require remodeling
 the entire bathroom
 I had
@@ -96,9 +97,20 @@ the vehicle
 every few days
 would make
 a difficult project
+like that
 completely unworkable.
 
 My campervan needs
 a parking space.
 
-[TK next article]
+This is
+one of
+the reasons
+I am
+[selling my campervan](/thor-rize-campervan-for-sale).
+It doesn't meet
+all of
+[my needs](/my-van-needs).
+For example,
+my van needs
+[a copilot.](/my-van-needs-a-copilot).

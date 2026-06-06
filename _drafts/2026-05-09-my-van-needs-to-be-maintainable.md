@@ -7,22 +7,23 @@ tags:
 ---
 
 Ry,
-my [TK year] Thor Rize,
+my 2022 Thor Rize,
+(now [for sale](/thor-rize-campervan-for-sale))
 started out
 as a Ram Promaster
 but was converted
 to a campervan
 by Thor Motor Coach
-in their Indiana factories.
+in their Indiana factory.
 
 A company
 like Thor
 can do
 a lot
 of things
-that smaller
-or custom builders
-can't do
+that smaller builders
+and custom builders
+cannot do
 at a reasonable price.
 For example,
 the floor
@@ -30,7 +31,7 @@ of the wet bath
 in the Thor Rize
 is perfectly shaped
 to fit around
-the Thretford [model TK]
+the Thretford
 cassette toilet.
 
 The downside
@@ -40,7 +41,7 @@ is that
 if you want to
 remove the cassette toilet
 and replace it
-with a separating toilet [link TK]
+with a [separating toilet](/my-van-needs-a-separating-toilet)
 you need
 to replace
 the entire
@@ -77,3 +78,15 @@ to get to it.
 
 My van needs
 to be maintainable.
+
+This is
+one of
+the reasons
+I am
+[selling my campervan](/thor-rize-campervan-for-sale).
+It doesn't meet
+all of
+[my needs](/my-van-needs).
+For example,
+my van needs
+[to be stealthy](/my-van-needs-to-be-stealthy).

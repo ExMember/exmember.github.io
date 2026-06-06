@@ -8,7 +8,8 @@ tags:
 ---
 
 Ry,
-my [TK year] Thor Rize,
+my 2022 Thor Rize,
+(now [for sale](/thor-rize-campervan-for-sale))
 came with
 an enclosed
 wet bath.
@@ -38,14 +39,14 @@ to be making
 some sacrifices.
 
 Ry has
-a 20-gallon [TK check volumne]
+an 18-gallon
 fresh water tank
-and an 18-gallon [TK check volume]
+and a 20-gallon
 grey water tank.
 In addition,
 the hot water tank
 is only
-2\.6 gallons. [TK check volume]
+2.6 gallons.
 A typical showerhead
 sprays water
 at the rate
@@ -82,7 +83,7 @@ It uses
 very little water.
 But it takes away
 a luxury
-that must
+that most
 of us
 are used to
 and deeply miss.
@@ -99,8 +100,8 @@ Long lingering showers
 are simply
 not possible
 in a campervan
-without hookups
-unless you recycle
+unless you have hookups
+or you recycle
 the water.
 
 It turns out
@@ -111,17 +112,17 @@ is viable.
 Several DIYers
 have built
 working recirculating showers.
-One couple [TK link]
+One couple
 tested their water
 after reusing
 the same
-2 gallons [TK confirm volume]
-for a week [TK confirm time]
+2 gallons
+for a week
 and it
 came back safe.
 
 Multiple retailers
-in the US [TK link to retailer]
+in the US
 are working
 on recirculating systems
 for campervans.
@@ -143,4 +144,14 @@ to take
 hour long showers
 in your van.
 
-[TK next item in series]
+This is
+one of
+the reasons
+I am
+[selling my campervan](/thor-rize-campervan-for-sale).
+It doesn't meet
+all of
+[my needs](/my-van-needs).
+For example,
+my van needs
+[to be maintainable](/my-van-needs-to-be-maintainable).

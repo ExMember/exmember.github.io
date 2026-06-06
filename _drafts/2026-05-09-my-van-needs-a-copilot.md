@@ -7,7 +7,8 @@ tags:
 ---
 
 I bought Ry,
-my [TK year] Thor Rize,
+my 2022 Thor Rize,
+(now [for sale](/thor-rize-campervan-for-sale))
 with plans
 to do
 a lot
@@ -37,10 +38,11 @@ I don't expect
 to find
 a partner
 to join
-my van life dream. [link TK]
+[my van life dream](/my-vanlife-dream)
+as is.
 I'm very clear
-on my needs
-for van life.
+on [my needs
+for van life.](/my-van-needs)
 Another person's needs
 could be
 entirely different.
@@ -52,11 +54,27 @@ could be
 completely different
 again.
 
-But I did this alone.
-I'm glad I did,
+I did this alone.
+I'm glad I did
 but for it
 to be something
 I want
 to continue,
 my van needs
 a copilot.
+
+This is
+one of
+the reasons
+I am
+[selling my campervan](/thor-rize-campervan-for-sale).
+It's not right
+for me
+anymore.
+Maybe
+it's right
+for you.
+Read up
+on [the van](/thor-rize-campervan-for-sale)
+and make me
+an offer.

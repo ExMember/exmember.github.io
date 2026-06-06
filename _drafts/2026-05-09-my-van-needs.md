@@ -9,7 +9,7 @@ tags:
 In January 2025
 I bought
 a campervan,
-a 2023 (check TK) Thor Rize
+a 2022 Thor Rize
 that I named "Ry."
 
 After 18 months
@@ -24,7 +24,7 @@ for me.
 
 Now that
 it's time
-to sell Ry,
+to [sell Ry,](/thor-rize-campervan-for-sale)
 I thought
 I should
 first catalogue
@@ -46,14 +46,14 @@ to be different
 before I can live
 my van life dream.
 
-1. My Van Life Dream
-2. My Van Needs a Permanent Bed
-3. My Van Needs a Separating Toilet
-4. My Van Needs a Gasoline Heater
-5. My Van Needs a Recirculating Shower
-6. My Van Needs to be Maintainable
-7. My Van Needs to be Stealthy
-8. My Van Needs External Storage
-9. My Van Needs Four-Wheel Drive
-10. My Van Needs a Parking Space
-11. My Van Needs a Copilot
+1. [My Van Life Dream](/my-vanlife-dream)
+2. [My Van Needs a Permanent Bed](/my-van-needs-a-permanent-bed)
+3. [My Van Needs a Separating Toilet](/my-van-needs-a-separating-toilet)
+4. [My Van Needs a Gasoline Heater](/my-van-needs-a-gasoline-heater)
+5. [My Van Needs a Recirculating Shower](/my-van-needs-a-recirculating-shower)
+6. [My Van Needs to be Maintainable](/my-van-needs-to-be-maintainable)
+7. [My Van Needs to be Stealthy](/my-van-needs-to-be-stealthy)
+8. [My Van Needs External Storage](/my-van-needs-external-storage)
+9. [My Van Needs Four-Wheel Drive](/my-van-needs-four-wheel-drive)
+10. [My Van Needs a Parking Space](/my-van-needs-a-parking-space)
+11. [My Van Needs a Copilot](/my-van-needs-a-copilot)
