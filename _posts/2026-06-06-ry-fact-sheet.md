@@ -1,6 +1,7 @@
 ---
 title: Ry Factsheet
 date: 2026-06-06 13:00:00 -07:00
+image: images/thor-rize-campervan-for-sale/hero.thumbnail.jpg
 tags:
 - campervan
 - ry
