@@ -68,9 +68,9 @@ Inside there is room to stand up and walk around and a separate full wet bath
 with a shower, toilet, and second sink. Dual captain's chairs provide extra
 seating and the bench converts to a bed that sleeps two.
 
-VIN: 3C6LRVBG1ME573441
-
 Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](https://www.keysavvy.com/pay/ram-fhaecj).
+
+[Fact sheet](/ry-fact-sheet)
 
 ## Photos
 

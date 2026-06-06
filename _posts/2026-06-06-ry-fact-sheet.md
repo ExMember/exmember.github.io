@@ -20,6 +20,7 @@ to share as much information about it as possible.
 - Make: Ram
 - Model: [Promaster](https://www.ramtrucks.com/ram-promaster.html)
 - Year: 2021
+- VIN: 3C6LRVBG1ME573441
 
 Variants:
 - 118 inch wheelbase
