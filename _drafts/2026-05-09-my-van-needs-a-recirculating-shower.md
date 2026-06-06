@@ -1,6 +1,7 @@
 ---
 title: My Van Needs a Recirculating Shower
 date: 2026-05-09 07:05:00 -07:00
+image: images/thor-rize-campervan-for-sale/hero.thumbnail.jpg
 tags:
 - campervan
 - ry
