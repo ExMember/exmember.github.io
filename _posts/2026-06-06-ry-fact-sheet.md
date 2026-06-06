@@ -98,6 +98,11 @@ Operates on shore power or generator power, will not run on battery
 
 ## Electric
 
+### Solar
+
+- Charge Controller: Go Power! GP-PWM-30-SQ
+- Panel location: roof mounted
+
 ### Battery
 
 - Make: [HumsiENK](https://www.humsienk.com/products/12v-314ah-mini-bluetooth-lifepo4-battery?variant=52544274235710)
