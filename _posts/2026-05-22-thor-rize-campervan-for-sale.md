@@ -72,7 +72,7 @@ seating and the bench converts to a bed that sleeps two.
 
 Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](https://www.keysavvy.com/pay/ram-fhaecj).
 
-[Fact sheet](/ry-fact-sheet)
+[Spec sheet](/ry-spec-sheet)
 
 ## Photos
 
