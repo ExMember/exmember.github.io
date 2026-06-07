@@ -9,7 +9,7 @@ tags:
 ---
 
 Ry,
-my 2022 Thor Rize,
+my 2022 Thor Rize campervan,
 (now [for sale](/thor-rize-campervan-for-sale))
 came with
 an enclosed
@@ -77,7 +77,8 @@ Navy showers are simple.
 4. Lather up.
 5. Turn on the water.
 6. Rinse off.
-7. Do not repeat.
+7. Turn off the water.
+8. Do not repeat.
 
 It's effective.
 It uses

@@ -8,7 +8,7 @@ tags:
 ---
 
 Ry,
-my 2022 Thor Rize,
+my 2022 Thor Rize campervan,
 (now [for sale](/thor-rize-campervan-for-sale))
 is built on
 a 118-inch wheelbase,
@@ -78,7 +78,7 @@ on those drives.
 In addition,
 when there
 is snow
-on California mountain roads
+on California mountain roads,
 chains are
 often required.
 The most common
@@ -86,9 +86,8 @@ The most common
 is R2,
 meaning chains
 are required
-except for all vehicles
-that do not
-have four-wheel drive.
+except for vehicles
+that have four-wheel drive.
 If you
 have ever
 pulled over to

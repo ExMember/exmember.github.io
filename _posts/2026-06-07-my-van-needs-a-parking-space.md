@@ -9,7 +9,7 @@ tags:
 ---
 
 Ry,
-my 2022 Thor Rize,
+my 2022 Thor Rize campervan,
 (now [for sale](/thor-rize-campervan-for-sale))
 is built on
 the 2021
@@ -89,7 +89,7 @@ When I discovered
 that [replacing
 the toilet](/my-van-needs-a-separating-toilet)
 would require remodeling
-the entire bathroom
+the entire bathroom,
 I had
 to give up.
 That's an ambitious project.

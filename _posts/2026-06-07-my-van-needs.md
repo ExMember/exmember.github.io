@@ -7,7 +7,7 @@ tags:
 - ry
 ---
 
-In January 2025
+In January 2025,
 I bought
 a campervan,
 a 2022 Thor Rize
@@ -25,7 +25,7 @@ for me.
 
 Now that
 it's time
-to [sell Ry,](/thor-rize-campervan-for-sale)
+to [sell my campervan,](/thor-rize-campervan-for-sale)
 I thought
 I should
 first catalogue

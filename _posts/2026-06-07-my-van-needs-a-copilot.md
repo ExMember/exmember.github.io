@@ -8,7 +8,7 @@ tags:
 ---
 
 I bought Ry,
-my 2022 Thor Rize,
+my 2022 Thor Rize campervan,
 (now [for sale](/thor-rize-campervan-for-sale))
 with plans
 to do

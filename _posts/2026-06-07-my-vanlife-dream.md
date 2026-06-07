@@ -179,7 +179,7 @@ Be nearby
 but have
 your own space.
 Make the drive
-worthwhile,
+worthwhile
 without needing
 to find, schedule, book, pay for, or schlep to
 a hotel.
@@ -242,7 +242,7 @@ someplace else
 could do wonders
 for my comfort and safety.
 
-## The office space
+## The Office Space
 
 In order
 to be able
@@ -269,7 +269,7 @@ When I'm home
 I can still work
 in the van.
 
-Have a van office
+Having a van office
 frees up space
 in my apartment
 and provides
@@ -277,11 +277,13 @@ much needed
 separation
 between work and home.
 
-I am
+But I am
 [selling my campervan](/thor-rize-campervan-for-sale)
 because
 it doesn't have
-all [my needs](/my-van-needs).
+what I need
+to live
+my vanlife dream.
 For example,
 I need
 [a permanent bed](/my-van-needs-a-permanent-bed).

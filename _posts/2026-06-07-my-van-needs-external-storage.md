@@ -9,7 +9,7 @@ tags:
 ---
 
 Ry,
-my 2022 Thor Rize,
+my 2022 Thor Rize campervan,
 (now [for sale](/thor-rize-campervan-for-sale))
 has plenty
 of internal storage.
@@ -69,7 +69,7 @@ from dripping
 on anything inside.
 
 I removed
-the compartment
+that compartment
 to make space
 for my lithium battery
 upgrade.

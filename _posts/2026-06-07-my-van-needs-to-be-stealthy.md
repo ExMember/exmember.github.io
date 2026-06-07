@@ -25,7 +25,7 @@ on the lookout
 for people
 sleeping in vehicles
 and making
-and effort
+an effort
 to git rid
 of them.
 
@@ -58,7 +58,7 @@ a vehicle
 that people
 sleep in.
 But Ry,
-my 2022 Thor Rize,
+my 2022 Thor Rize campervan,
 (now [for sale](/thor-rize-campervan-for-sale))
 looks very much
 like an RV.
@@ -83,8 +83,8 @@ are clearly visible
 on the roof.
 Multiple connectors, doors, and exhausts
 are visible
-on the side.
-Along with
+on the side
+along with
 the Rize badge
 and RV insignia.
 

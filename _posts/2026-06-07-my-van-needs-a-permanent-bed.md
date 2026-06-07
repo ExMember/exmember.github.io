@@ -8,7 +8,7 @@ tags:
 ---
 
 Ry,
-my 2022 Thor Rize,
+my 2022 Thor Rize campervan,
 (now [for sale](/thor-rize-campervan-for-sale))
 has a couch
 that converts
@@ -21,7 +21,7 @@ for most people
 and sufficient
 for a loving couple.
 
-It works,
+It works
 but I need
 a permanent bed.
 
@@ -36,13 +36,13 @@ made up
 of four
 different cushions.
 
-The seam between
+The seams between
 those cushions
 are directly down
 and across
 the middle
-of the bed
-and can be
+of the bed.
+They can be
 uncomfortable,
 especially if
 you turn
@@ -71,7 +71,7 @@ the hallway
 through the van,
 you will probably
 want to wait
-until bed time.
+until bedtime.
 
 It not hard
 or time-consuming
@@ -80,7 +80,7 @@ one more thing
 to do
 before bed.
 
-## Sleep pad
+## Sleeping pad
 
 A sleeping pad
 helps.
@@ -153,7 +153,7 @@ to a bed.
 I even found
 that I could
 leave the sheets
-in place
+in place,
 covered
 with a blanket.
 
@@ -161,7 +161,7 @@ The result
 is a bed
 that is very small
 but big enough.
-The trade off
+The trade-off
 was well worth it
 for me
 when solo camping

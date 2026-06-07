@@ -59,6 +59,8 @@ I had a blast, but I learned that I like to travel farther than I like to drive.
 And while I love the flexibility of being able to leave at the drop of a hat and
 take my home with me, I need to plan everything out anyway.
 
+I wrote more about why I am selling in a series of posts about [my van needs.](/my-van-needs)
+
 The chassis, a high roof 2021 Ram Promaster, drives like an SUV. The short
 wheelbase (118in) and tight turning radius makes it easy to maneuver in the
 city. And the small footprint (smaller than a Cadillac Escalade), means it can

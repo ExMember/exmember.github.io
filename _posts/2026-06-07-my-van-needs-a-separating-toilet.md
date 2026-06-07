@@ -9,7 +9,7 @@ tags:
 ---
 
 Ry,
-my 2022 Thor Rize,
+my 2022 Thor Rize campervan,
 (now [for sale](/thor-rize-campervan-for-sale))
 came with
 a factory-installed
@@ -19,22 +19,22 @@ the Thetford C223-S.
 Obviously,
 a campervan cannot have
 a permanent connection
-to the city's
+to the city
 sewage line.
-Large RV's
+Large RVs
 typically store sewage
 underneath the vehicle
 in large black tanks
 that must
 be emptied regularly.
-Small RV's
+Small RVs
 and campervans
 usually don't have space
 for undercarriage black tanks.
 
 Instead, cassette toilets combine
 the toilet
-with a small, removable black tank,
+with a small, removable, black tank,
 the cassette.
 When necessary,
 the cassette is removed
@@ -75,9 +75,9 @@ a better toilet.
 Multiple manufacturers make
 what I call
 "sealed bag" toilets.
-With every use
+With every use,
 waste is deposited
-in a new plastic bag
+into a new plastic bag
 that is then
 heat sealed.
 Coagulants turn

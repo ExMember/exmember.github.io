@@ -9,7 +9,7 @@ tags:
 ---
 
 Ry,
-my 2022 Thor Rize,
+my 2022 Thor Rize campervan,
 (now [for sale](/thor-rize-campervan-for-sale))
 came with
 a built-in
@@ -27,7 +27,7 @@ Coach batteries power
 everything else.
 
 Every
-additional energy source
+additional fuel type
 adds mechanical
 and operational complexity.
 Propane tanks needs
