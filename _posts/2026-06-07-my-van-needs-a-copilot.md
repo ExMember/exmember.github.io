@@ -1,11 +1,17 @@
 ---
 title: My Van Needs a Copilot
 date: 2026-06-07 07:11:00 -07:00
-image: images/thor-rize-campervan-for-sale/hero.thumbnail.jpg
+image: images/thor-rize-campervan-for-sale/living/swivel-seats.thumbnail.jpg
 tags:
 - campervan
 - ry
 ---
+
+<figure>
+  <a href="/images/thor-rize-campervan-for-sale/living/swivel-seats.jpg">
+    <img src="/images/thor-rize-campervan-for-sale/living/swivel-seats.thumbnail.jpg" alt="two seats in the cab">
+  </a>
+</figure>
 
 I bought Ry,
 my 2022 Thor Rize campervan,

@@ -1,12 +1,18 @@
 ---
 title: My Van Needs a Parking Space
 date: 2026-06-07 07:10:00 -07:00
-image: images/thor-rize-campervan-for-sale/hero.thumbnail.jpg
+image: images/thor-rize-campervan-for-sale/exterior/driver-side.thumbnail.jpg
 tags:
 - campervan
 - ry
 - parking
 ---
+
+<figure>
+  <a href="/images/thor-rize-campervan-for-sale/exterior/driver-side.jpg">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/driver-side.thumbnail.jpg" alt="street parking">
+  </a>
+</figure>
 
 Ry,
 my 2022 Thor Rize campervan,
@@ -114,4 +120,4 @@ all of
 [my needs](/my-van-needs).
 For example,
 my van needs
-[a copilot.](/my-van-needs-a-copilot).
+[a copilot.](/my-van-needs-a-copilot)

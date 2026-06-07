@@ -7,6 +7,12 @@ tags:
 - ry
 ---
 
+<figure>
+  <a href="/images/thor-rize-campervan-for-sale/before.jpg">
+    <img src="/images/thor-rize-campervan-for-sale/before.thumbnail.jpg" alt="Before a big trip">
+  </a>
+</figure>
+
 My van life dream
 never included
 being on the road

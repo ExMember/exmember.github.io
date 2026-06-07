@@ -7,6 +7,12 @@ tags:
 - ry
 ---
 
+<figure>
+  <a href="/images/thor-rize-campervan-for-sale/hero.jpg">
+    <img src="/images/thor-rize-campervan-for-sale/hero.thumbnail.jpg" alt="Ry, a 2022 Thor Rize">
+  </a>
+</figure>
+
 In January 2025,
 I bought
 a campervan,

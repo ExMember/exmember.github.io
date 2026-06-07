@@ -1,7 +1,7 @@
 ---
 title: My Van Needs a Separating Toilet
 date: 2026-06-07 07:03:00 -07:00
-image: images/thor-rize-campervan-for-sale/hero.thumbnail.jpg
+image: /images/thor-rize-campervan-for-sale/bathroom/toilet.thumbnail.jpg
 tags:
 - campervan
 - ry
@@ -15,6 +15,12 @@ came with
 a factory-installed
 cassette toilet,
 the Thetford C223-S.
+
+<figure>
+  <a href="/images/thor-rize-campervan-for-sale/bathroom/toilet.jpg">
+    <img src="/images/thor-rize-campervan-for-sale/bathroom/toilet.thumbnail.jpg" alt="Cassette toilet">
+  </a>
+</figure>
 
 Obviously,
 a campervan cannot have

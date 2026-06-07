@@ -1,12 +1,18 @@
 ---
 title: My Van Needs to Be Stealthy
 date: 2026-06-07 07:07:00 -07:00
-image: images/thor-rize-campervan-for-sale/hero.thumbnail.jpg
+image: images/thor-rize-campervan-for-sale/exterior/driver-side.thumbnail.jpg
 tags:
 - campervan
 - ry
 - stealth camping
 ---
+
+<figure>
+  <a href="/images/thor-rize-campervan-for-sale/exterior/driver-side.jpg">
+    <img src="/images/thor-rize-campervan-for-sale/exterior/driver-side.thumbnail.jpg" alt="RV indicators">
+  </a>
+</figure>
 
 People who sleep
 in their vehicles

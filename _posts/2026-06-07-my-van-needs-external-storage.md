@@ -1,7 +1,7 @@
 ---
 title: My Van Needs External Storage
 date: 2026-06-07 07:08:00 -07:00
-image: images/thor-rize-campervan-for-sale/hero.thumbnail.jpg
+image: images/thor-rize-campervan-for-sale/bathroom/closet.thumbnail.jpg
 tags:
 - campervan
 - ry
@@ -13,6 +13,12 @@ my 2022 Thor Rize campervan,
 (now [for sale](/thor-rize-campervan-for-sale))
 has plenty
 of internal storage.
+
+<figure>
+  <a href="/images/thor-rize-campervan-for-sale/bathroom/closet.jpg">
+    <img src="/images/thor-rize-campervan-for-sale/bathroom/closet.thumbnail.jpg" alt="the closet">
+  </a>
+</figure>
 
 ## Factory-installed storage
 

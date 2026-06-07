@@ -1,7 +1,7 @@
 ---
 title: My Van Needs to be Maintainable
 date: 2026-06-07 07:06:00 -07:00
-image: images/thor-rize-campervan-for-sale/hero.thumbnail.jpg
+image: images/thor-rize-campervan-for-sale/maintenance.thumbnail.jpg
 tags:
 - campervan
 - ry
@@ -47,6 +47,12 @@ you need
 to replace
 the entire
 bathroom floor.
+
+<figure>
+  <a href="/images/thor-rize-campervan-for-sale/maintenance.jpg">
+    <img src="/images/thor-rize-campervan-for-sale/maintenance.thumbnail.jpg" alt="behind the wall">
+  </a>
+</figure>
 
 Custom fittings
 like that

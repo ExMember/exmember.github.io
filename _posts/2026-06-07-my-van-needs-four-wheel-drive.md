@@ -1,11 +1,17 @@
 ---
 title: My Van Needs Four-Wheel Drive
 date: 2026-06-07 07:09:00 -07:00
-image: images/thor-rize-campervan-for-sale/hero.thumbnail.jpg
+image: images/thor-rize-campervan-for-sale/winter-camping.thumbnail.jpg
 tags:
 - campervan
 - ry
 ---
+
+<figure>
+  <a href="/images/thor-rize-campervan-for-sale/winter-camping.jpg">
+    <img src="/images/thor-rize-campervan-for-sale/winter-camping.thumbnail.jpg" alt="winter camping">
+  </a>
+</figure>
 
 Ry,
 my 2022 Thor Rize campervan,

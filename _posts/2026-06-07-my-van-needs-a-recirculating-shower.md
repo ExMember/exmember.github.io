@@ -1,12 +1,18 @@
 ---
 title: My Van Needs a Recirculating Shower
 date: 2026-06-07 07:05:00 -07:00
-image: images/thor-rize-campervan-for-sale/hero.thumbnail.jpg
+image: images/thor-rize-campervan-for-sale/bathroom/shower.thumbnail.jpg
 tags:
 - campervan
 - ry
 - shower
 ---
+
+<figure>
+  <a href="/images/thor-rize-campervan-for-sale/bathroom/shower.jpg">
+    <img src="/images/thor-rize-campervan-for-sale/bathroom/shower.thumbnail.jpg" alt="shower">
+  </a>
+</figure>
 
 Ry,
 my 2022 Thor Rize campervan,

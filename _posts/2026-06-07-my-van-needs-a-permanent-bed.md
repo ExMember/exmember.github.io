@@ -1,7 +1,7 @@
 ---
 title: My Van Needs a Permanent Bed
 date: 2026-06-07 07:02:00 -07:00
-image: images/thor-rize-campervan-for-sale/hero.thumbnail.jpg
+image: /images/thor-rize-campervan-for-sale/living/bed.thumbnail.jpg
 tags:
 - campervan
 - ry
@@ -24,6 +24,12 @@ for a loving couple.
 It works
 but I need
 a permanent bed.
+
+<figure>
+  <a href="/images/thor-rize-campervan-for-sale/living/bed.jpg">
+    <img src="/images/thor-rize-campervan-for-sale/living/bed.thumbnail.jpg" alt="Bed">
+  </a>
+</figure>
 
 ## Seams
 

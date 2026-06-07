@@ -1,12 +1,18 @@
 ---
 title: My Van Needs a Gasoline Heater
 date: 2026-06-07 07:04:00 -07:00
-image: images/thor-rize-campervan-for-sale/hero.thumbnail.jpg
+image: images/thor-rize-campervan-for-sale/winter-camping.thumbnail.jpg
 tags:
 - campervan
 - ry
 - propane
 ---
+
+<figure>
+  <a href="/images/thor-rize-campervan-for-sale/winter-camping.jpg">
+    <img src="/images/thor-rize-campervan-for-sale/winter-camping.thumbnail.jpg" alt="winter camping">
+  </a>
+</figure>
 
 Ry,
 my 2022 Thor Rize campervan,
