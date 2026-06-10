@@ -14,6 +14,7 @@ task :html_proofer do
       /^https:\/\/www.linkedin.com\//, # LinkedIn returns 999 to valid URLs
       /^https:\/\/www.nytimes.com\//, # New York Times returns 403s
       /^https:\/\/memory-alpha.fandom.com\//, # Memory Alpha returns 403s
+      /^https:\/\/www.merriam-webster.com\//, # Merriam-Webster returns 403s
       /^https:\/\/medium.com\//, # Medium returns 403s
       /^https:\/\/doctorow.medium.com\//, # Medium returns 403s
       /^https:\/\/www.tiktok.com\//, # TikTok returns 403s to valid URLs
