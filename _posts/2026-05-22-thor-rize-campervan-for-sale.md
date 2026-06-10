@@ -11,12 +11,18 @@ I'm selling my campervan, a 2022 Thor Rize 18M with 12k miles.
 
 Asking \$75,000.
 
+Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](https://www.keysavvy.com/pay/ram-fhaecj).
+
+[Email me](mailto:campervan@damienburke.com) to make an offer.
+
 <figure>
   <a href="/images/thor-rize-campervan-for-sale/hero.jpg">
     <img src="/images/thor-rize-campervan-for-sale/hero.thumbnail.jpg" alt="Campervan, front passenger, three-quarter view">
     <figcaption>2022 Thor Rize 18M, hero shot</figcaption>
   </a>
 </figure>
+
+## Overview
 
 Highlights:
 - 12,000 miles
@@ -53,6 +59,8 @@ Upgrades:
 - Custom Method wheels
 - Blackout window shades from Wanderful and Vanmade Gear
 
+## Description
+
 Over the past 16 months I spent 50 nights in this van, on the beach, in the
 mountains, in campgrounds, and stealth camping in urban and suburban areas.
 I had a blast, but I learned that I like to travel farther than I like to drive.
@@ -69,8 +77,6 @@ park in any standard-sized space.
 Inside there is room to stand up and walk around and a separate full wet bath
 with a shower, toilet, and second sink. Dual captain's chairs provide extra
 seating and the bench converts to a bed that sleeps two.
-
-Payment via ACH, wire transfer, credit card, or Zelle all through [KeySavvy](https://www.keysavvy.com/pay/ram-fhaecj).
 
 [Spec sheet](/ry-spec-sheet)
 
