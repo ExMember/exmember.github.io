@@ -26,6 +26,7 @@ task :html_proofer do
       /^https:\/\/www.ramtrucks.com\//, # Returns 403 to bots
       /^https:\/\/www.vitrifrigo.com\//, # Returns 403 to bots
       /^https:\/\/www.cummins.com\//, # Returns 403 to bots
+      /^https:\/\/www\.wfcotech\.com\//, # Returns 403
     ],
   }
   proofer = HTMLProofer.check_directory('./_site', options)
