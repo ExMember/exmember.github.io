@@ -132,6 +132,4 @@ about specifications written in any natural language.
 
 This essay was originally written for [Ministry of
 Velocity](https://www.ministryofvelocity.com/) and was first published
-[here](https://blog.ministryofvelocity.com/types-of-specifications-69b2790dcd2d
-)
-on their [blog](https://blog.ministryofvelocity.com/).
+on their blog.
